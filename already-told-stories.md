@@ -1,0 +1,93 @@
+# Already told stories
+
+The user confirmed that all cases in `stories.md` have already been heard.
+
+- Kalachi sleeping village, Kazakhstan
+- Sunspot Solar Observatory evacuation, 2018
+- Cicada 3301
+- Toynbee Tiles
+- UVB-76 “The Buzzer”
+- Vela Incident, 1979
+- The Bloop
+- Yamal / Siberian methane craters
+- Saiga antelope mass die-off, 2015
+- Lake Nyos disaster, 1986
+- Windsor Hum / Zug Island
+- Kerala red rain, 2001
+- Havana Syndrome
+- Lady of the Dunes / Ruth Marie Terry
+- Sverdlovsk anthrax leak, 1979
+- Beebe, Arkansas bird deaths
+- Stuxnet / Natanz
+- Norway Spiral / failed Bulava missile
+- Max Headroom broadcast intrusion
+- Spanish Toxic Oil Syndrome, 1981
+- Belgian Coca-Cola illness outbreak, 1999
+- South Asian vulture collapse / diclofenac
+- Gloria Ramirez, “The Toxic Lady”
+- Rajneeshee salmonella bioterror attack, 1984
+- Operation Sea-Spray, San Francisco
+- Goiânia caesium-137 accident, 1987
+- Four Corners hantavirus outbreak, 1993
+- Alexander Litvinenko polonium poisoning
+- Kramatorsk radioactive apartment / Cs-137 capsule
+- Georgi Markov ricin assassination
+- Matsumoto sarin attack
+- Amerithrax / 2001 anthrax letters
+- Kim Jong-nam VX assassination
+- Viktor Yushchenko dioxin poisoning
+- Sergei Skripal / Salisbury Novichok attack
+- Air France Flight 447
+- Mahmoud al-Mabhouh assassination in Dubai
+- NotPetya
+- TRITON / TRISIS industrial malware
+- Chernobyl first detected in Sweden
+- Therac-25 radiation overdoses
+- Ciudad Juárez cobalt-60 contaminated steel
+- Lia, Georgia RTG radiation accident
+- 1976 Philadelphia Legionnaires’ disease outbreak
+- Best Western Room 225 carbon-monoxide deaths, Boone
+- Tokaimura JCO criticality accident, 1999
+- Lake Peigneur disaster, 1980
+- Boeing 737 rudder-reversal mystery: United 585 / USAir 427 / Eastwind 517
+- King’s Cross fire and the trench effect, 1987
+- AeroPerú Flight 603 / taped static ports
+- Malaysia Airlines MH134 A330 / all three Pitot covers left on
+- XL Airways Germany Flight 888T / frozen A320 AoA sensors
+- Birgenair Flight 301 / blocked Pitot tube
+- Guadalajara sewer explosions, 1992
+- Sayano-Shushenskaya hydroelectric disaster, 2009
+- Alexander L. Kielland platform collapse, 1980
+- Eschede ICE disaster, 1998
+- China Airlines Flight 611 / bad 1980 tailstrike repair
+- British Airways Flight 9 / volcanic ash and four-engine flameout
+- Hyatt Regency walkway collapse, 1981
+- Piper Alpha disaster, 1988
+- PEPCON ammonium-perchlorate explosions, 1988
+- Damascus Titan II missile explosion, 1980
+- Qantas Flight 72 / A330 ADIRU pitch-down incidents
+- Bangladesh Bank SWIFT heist, 2016
+- Ru-106 radioactive cloud over Europe / probable Mayak release, 2017
+- Banco Central Fortaleza tunnel robbery, 2005
+- Antwerp Diamond Center heist, 2003
+- Banco Río Acassuso “Robbery of the Century”, 2006
+- Isabella Stewart Gardner Museum heist, 1990
+- Chicago Tylenol cyanide murders, 1982
+
+## Narratives created in this batch
+
+- Erie collar-bomb robbery / Brian Wells, 2003
+- Clifford Stoll / Markus Hess computer espionage investigation, 1986–1990
+- Operation Mincemeat, 1943
+- Charles Urschel kidnapping / George and Kathryn Kelly, 1933
+- Graham Young / Bovingdon poisonings, 1971–1972
+- Piltdown Man forgery and its exposure, 1912–1953 / 2016
+- Chowchilla school-bus kidnapping, 1976
+- Baker Street bank burglary, 1971
+- Discovery and identification of Richard III, Leicester, 2012–2013
+- John Snow / Broad Street cholera investigation, 1854
+- William Sebold / Duquesne spy ring investigation, 1939–1941
+- Boston molasses flood and liability investigation, 1919
+- Morris worm, 1988
+- Kuru / Fore prion-disease investigation, Papua New Guinea
+- Minamata methylmercury disease investigation, Japan, 1956–1973
