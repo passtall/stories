@@ -1,81 +1,291 @@
-# The First Trench
+# Der erste Graben
 
-On August 25, 2012, archaeologists began digging in a council car park in Leicester. The surface was familiar municipal space, useful for leaving cars rather than for thinking about the fifteenth century. Beneath it, the team hoped to locate traces of a demolished church. Their search had grown out of years of archival work, persuasion, and an ambitious historical question.
+Am 25. August 2012 beginnen Archäologen auf einem Parkplatz in Leicester zu graben.
 
-In the first trench, human leg bones appeared. They lay in what seemed to be an undisturbed burial. The discovery was promising, but it could also be ordinary. A former religious site might contain many dead people. Finding a skeleton was not the same thing as finding the particular person the project sought, and the trench had not yet supplied enough context to decide which kind of discovery this was.
+Nicht an einem romantischen Burghügel.
 
-## A story about a river
+Nicht unter einer Kathedrale.
 
-The search concerned a royal burial believed to have taken place in Leicester after a battle in 1485. Historical accounts placed the body at Greyfriars, a Franciscan friary. During the dissolution of the monasteries in the sixteenth century, the religious complex was dismantled. Later construction changed the land until the church's exact arrangement was no longer visible.
+Auf einem kommunalen Parkplatz.
 
-A tradition developed that the king's bones had been thrown into the River Soar. It was repeated often enough to become part of local memory. Yet repetition did not establish what had happened. The account was late, and a map associated with its development appeared to confuse the locations of two former religious houses. A story about remains being removed from one place was weak if its author had not reliably identified that place.
+Unter dem Asphalt hoffen sie, Überreste eines längst verschwundenen Franziskanerklosters zu finden.
 
-Philippa Langley, John Ashdown-Hill, and other people associated with the Richard III Society pursued the alternative: the grave might remain beneath later development. They assembled historical, genealogical, and geographical arguments and helped secure backing for an excavation. University of Leicester archaeologists supplied the fieldwork and scientific expertise. The car park was not selected because buried kings habitually prefer municipal parking. It was open ground over part of a site identified through research.
+Die Suche beruht auf jahrelanger Archivarbeit, alten Karten, genealogischen Recherchen und einer ziemlich kühnen Frage:
 
-Even a good site choice left enormous uncertainty. The church had to be located within the available area. The relevant part of the church had to survive. The burial had to remain intact enough to investigate. Each condition was necessary; none followed automatically from the others.
+Könnte unter diesem Parkplatz noch das Grab eines englischen Königs liegen?
 
-## Putting the bones inside a building
+Schon im **ersten Suchgraben** erscheinen menschliche Beinknochen.
 
-Rather than immediately treating the first skeleton as a solution, the team continued excavating walls and rooms. These traces made it possible to reconstruct the friary's layout and identify the church. The burial's position became more meaningful when it could be located within the eastern part, associated with the choir.
+Das ist aufregend.
 
-That was consistent with the historical description of where the royal body had been buried. It was a useful match, but not a personal identification. Other people could have been interred in a church, including in important locations. Context narrowed the field; it did not print a name on the bones.
+Aber zunächst auch vollkommen unspektakulär.
 
-After obtaining the required permission, the team excavated the skeleton in early September. The grave appeared too short for the body, and the head occupied an awkward position. No coffin was evident. The feet were missing, apparently affected by later disturbance. These details suggested a hurried or unsatisfactory burial, although the exact actions of the people who carried it out could not be recovered from their consequences alone.
+Wenn man auf dem Gelände einer mittelalterlichen Kirche gräbt, ist ein Skelett ungefähr das archäologische Äquivalent dazu, in einem alten Bahnhof Schienen zu finden.
 
-The spine was conspicuously curved. There were severe injuries to the skull. Suddenly the burial was no longer interesting only because it occupied a promising position. The person inside it had characteristics that could be compared with a particular historical death.
+Die Frage ist nicht, ob dort ein Mensch begraben liegt.
 
-## The man the bones described
+Sondern welcher.
 
-Osteological examination identified an adult male, with an age estimate consistent with death in his early thirties. The historical target had been thirty-two. The skeleton's build was relatively slender, another potentially compatible feature. Neither characteristic was unique, but each contributed to the comparison.
+## Der König, dessen Knochen angeblich im Fluss lagen
 
-The spinal curvature was scoliosis, a sideways curvature, rather than the simple theatrical idea of a hunched back. It could have made one shoulder appear higher and reduced apparent height. It did not imply that the man had been incapable of physical activity. The distinction mattered because descriptions of the king had acquired layers of political hostility and dramatic invention.
+Gesucht wird **Richard III.**
 
-The injuries supplied a more immediate account of death. Several wounds affected the head, and two were potentially fatal. The skull damage was consistent with exposure to bladed weapons without a helmet protecting it at the relevant moments. Other injuries to the torso and pelvis were interpreted as possibly inflicted on an unarmored body after death.
+1485 stirbt Richard in der Schlacht von Bosworth. Seine Niederlage beendet seine kurze Herrschaft und bringt Henry Tudor auf den englischen Thron.
 
-Those interpretations had to remain carefully bounded. Bones preserve some injuries, not the entire fight. They could support a conclusion that the man had suffered violent death and possibly later indignities. They could not identify every weapon's wielder or reconstruct a particular soldier's final movement. The dramatic version of a battle is not made certain simply because a skull contains a wound that resembles it.
+Zeitgenössische beziehungsweise frühe Quellen berichten, Richards Leiche sei nach Leicester gebracht und im Franziskanerkloster Greyfriars beigesetzt worden.
 
-## A date that seemed too early
+Dann kommt die Reformation.
 
-Radiocarbon tests initially produced dates earlier than the death the team was investigating. That was not a detail to conceal. If the skeleton belonged to a much earlier period, the most exciting physical resemblance would be irrelevant to the identification.
+Im 16. Jahrhundert werden die Klöster aufgelöst.
 
-Diet offered a reason to examine the result more closely. The bones contained evidence of significant fish consumption. Carbon entering marine or freshwater food chains can make a person's remains appear older in radiocarbon terms than the actual time of death. The effect is not an excuse available for any inconvenient date; it requires evidence about diet and appropriate modelling.
+Greyfriars verschwindet.
 
-With that correction considered, the date range became compatible with the late fifteenth century. This strengthened the identification while preserving an important limit: the dating did not pinpoint one afternoon in 1485. It established that the burial could belong to the relevant period. Compatibility was a prerequisite, not a signature.
+Spätere Bebauung überzieht das Gelände.
 
-The dietary evidence also suggested a person with access to expensive food. That was consistent with high status, but could not distinguish a king from every other well-fed individual. The investigation was accumulating several imperfect pieces rather than searching for a single magical test.
+Irgendwann entsteht sogar die Geschichte, Richards Knochen seien aus dem Grab geholt und in den River Soar geworfen worden.
 
-## A family line through women
+Diese Erzählung wird oft genug wiederholt, dass sie wie ein historischer Fakt wirkt.
 
-Genetics offered a much more specific comparison. Ashdown-Hill's genealogical work had traced a maternal family line to living descendants. One was Michael Ibsen, a cabinetmaker in London whose mother, Joy, had died in 2008. Michael supplied a sample that could be compared with ancient DNA from the skeleton.
+Nur ist sie schlecht belegt.
 
-The relevant material was mitochondrial DNA. It passes through the maternal line: both sons and daughters inherit it, but ordinarily only daughters pass it onward. That inheritance pattern can preserve a sequence across many generations without requiring a modern person to be a direct descendant of the man in the grave. A relative connected through the right line can supply the comparison.
+Die Quellen sind spät, und eine mit dieser Tradition verbundene Ortsbeschreibung scheint sogar verschiedene ehemalige Klöster miteinander zu verwechseln.
 
-Turi King and the genetic team had to recover reliable ancient material and guard against contamination. The mere existence of a genealogical candidate did not guarantee usable DNA in five-hundred-year-old bones. When a sequence was obtained, it matched the maternal comparison. A second independently traced living relative supplied closely matching evidence in the wider research.
+Philippa Langley von der Richard III Society und andere Forscher verfolgen deshalb eine einfachere Möglichkeit:
 
-A mitochondrial match still does not identify a unique individual by itself. Other people sharing the same maternal ancestry might match. The question was whether an alternative person could also account for the burial location, date, age, anatomy, status indicators, and violent injuries. The genetic evidence became powerful through convergence with those other findings.
+Vielleicht wurden die Knochen nie irgendwohin geworfen.
 
-## The identification
+Vielleicht liegen sie noch dort, wo man Richard 1485 begraben hatte.
 
-On February 4, 2013, the University of Leicester announced that the remains were those of Richard III. The search had reached the king killed at Bosworth in 1485, whose death ended his reign and brought Henry Tudor to the throne.
+Das Problem ist nur herauszufinden, wo „dort“ heute eigentlich ist.
 
-The identification made several earlier clues intelligible together. The church and choir position agreed with burial accounts. The skeleton's age matched Richard's. The scoliosis supplied a real anatomical condition beneath hostile and theatrical descriptions. The injuries matched a violent battlefield death and accounts of a body subjected to indignities. The maternal genetic link added evidence unavailable to earlier historians.
+## Erst muss die Kirche gefunden werden
 
-Later genetic work also produced a complication: Y-chromosome comparisons with men descended through another documented royal male line did not match as the paper genealogy predicted. This did not simply cancel the identification. Over many generations, a recorded paternal line can contain a biological break. The finding could not, on its own, specify where that break occurred.
+Die Archäologen behandeln das erste Skelett nicht sofort als Sensation.
 
-Critics questioned aspects of the reasoning, including how much weight to place on mitochondrial evidence. The team's answer relied on the whole evidentiary combination rather than on DNA alone. The accepted identification is therefore best explained as a cumulative case, not a laboratory result that somehow made history unnecessary.
+Stattdessen graben sie weiter.
 
-## What the skeleton could not adjudicate
+Sie finden Mauerreste.
 
-Richard was reburied in Leicester Cathedral in March 2015, after a dispute over where the reinterment should occur. A man given a hurried burial after defeat had become the subject of a national ceremony. The discovery had changed a lost location into a place people could visit.
+Fundamente.
 
-It had not solved every controversy about his reign. A skeleton cannot determine responsibility for the disappearance of the Princes in the Tower, establish the fairness of every historical accusation, or supply a complete moral verdict on a monarch. Correcting a caricature of his body does not automatically acquit him of political actions. Those questions require their own sources and arguments.
+Strukturen des ehemaligen Klosters.
 
-The strongest result was more precise and more surprising. A late legend had said that the remains were gone. Careful work showed that the relevant ground was still available, and excavation showed that a burial survived. Scientific tests then connected it to a named person without requiring the legend to have been true.
+Nach und nach lässt sich die Position der Kirche rekonstruieren.
 
-The first trench makes the discovery look like extraordinary luck, and luck certainly played a part. But luck found bones because years of work had brought the trench to that patch of ground. The car park had never been empty of history. It had only been a place where history was no longer visible from the surface.
+Und damit bekommt die Lage des Skeletts plötzlich Bedeutung.
 
-## Sources and evidence
+Die Bestattung befindet sich im östlichen Bereich, nahe dem Chor.
 
-- [BBC News, “Richard III dig: DNA confirms bones are king's”](https://www.bbc.co.uk/news/uk-england-leicestershire-21063882), February 4, 2013; consulted for the announcement, skeletal findings, genealogy, and contemporary explanations from the researchers.
-- [Wikipedia, “Exhumation and reburial of Richard III of England”](https://en.wikipedia.org/wiki/Exhumation_and_reburial_of_Richard_III_of_England), consulted for site history, excavation chronology, dietary effects on radiocarbon dates, later genetic results, criticism, and reburial.
-- The narrative separates the cumulative identification from conclusions it cannot support about Richard's political character or the Princes in the Tower. Possible bound wrists and postmortem wounds are not presented as certain reconstructions of every burial or battlefield action.
+Genau dort würde eine bedeutende Beisetzung gut zu den historischen Berichten passen.
+
+Aber auch das beweist noch nichts.
+
+Kirchen enthalten viele Gräber.
+
+Ein Mann in einem guten Grabplatz ist nicht automatisch ein König.
+
+Anfang September wird das Skelett vollständig freigelegt.
+
+Das Grab ist ungewöhnlich eng.
+
+Es gibt keinen erkennbaren Sarg.
+
+Der Körper scheint eher hastig hineingelegt worden zu sein.
+
+Die Füße fehlen, offenbar wegen späterer Störungen.
+
+Dann sehen die Archäologen die Wirbelsäule.
+
+Sie ist deutlich gekrümmt.
+
+Und am Schädel befinden sich schwere Verletzungen.
+
+Jetzt hat das Skelett plötzlich Eigenschaften, die sich mit einer sehr konkreten historischen Person vergleichen lassen.
+
+## Ein Mann mit einer gekrümmten Wirbelsäule
+
+Die Knochen stammen von einem erwachsenen Mann.
+
+Das geschätzte Sterbealter liegt ungefähr in den frühen Dreißigern.
+
+Richard III. war 32 Jahre alt.
+
+Das Skelett ist relativ schlank gebaut.
+
+Auch das passt, ist aber natürlich noch lange kein Fingerabdruck.
+
+Die Wirbelsäule zeigt eine deutliche **Skoliose**.
+
+Das ist wichtig, weil Richard in späterer Propaganda und besonders durch Shakespeare als körperlich deformierter Buckliger berühmt wurde.
+
+Die Knochen zeigen etwas viel konkreteres.
+
+Er hatte tatsächlich eine seitliche Wirbelsäulenkrümmung, die wahrscheinlich eine Schulter höher erscheinen ließ.
+
+Das ist nicht dasselbe wie die groteske Bühnenfigur.
+
+Und es hätte ihn nicht daran hindern müssen, körperlich aktiv zu sein oder zu kämpfen.
+
+Dann kommen die Verletzungen.
+
+Mehrere Wunden treffen den Schädel.
+
+Mindestens zwei davon wären tödlich gewesen.
+
+Die Art der Verletzungen passt zu scharfen Waffen und zu einem Zeitpunkt, an dem kein Helm mehr schützte.
+
+Weitere Verletzungen an Becken und Körper könnten nach dem Tod entstanden sein, als der Körper bereits ungeschützt war.
+
+Hier muss die Archäologie vorsichtig bleiben.
+
+Knochen können zeigen, **dass** Gewalt geschah.
+
+Sie können nicht zuverlässig erzählen, welcher Soldat welchen Schlag geführt hat oder welche einzelne mittelalterliche Chronik jede Sekunde korrekt beschreibt.
+
+Aber das Gesamtbild ist klar:
+
+Dieser Mann starb gewaltsam.
+
+Und zwar auf eine Weise, die sehr gut zu einem getöteten Kämpfer passt.
+
+Dann liefert die Datierung zunächst ein Problem.
+
+## Zu alt
+
+Radiokarbondatierungen scheinen das Skelett zunächst in eine etwas frühere Zeit zu setzen.
+
+Das ist unangenehm.
+
+Denn wenn der Mann Jahrzehnte oder Jahrhunderte vor 1485 gestorben ist, helfen weder Skoliose noch Schädelwunden.
+
+Dann ist er schlicht der falsche Tote.
+
+Die Forscher untersuchen deshalb die Ernährung.
+
+Und finden Hinweise auf einen hohen Konsum von Fisch.
+
+Das ist relevant, weil Kohlenstoff aus marinen beziehungsweise bestimmten aquatischen Nahrungsketten Radiokarbondaten beeinflussen kann. Wer viel Fisch isst, kann in einer Datierung scheinbar älter wirken, als er tatsächlich ist.
+
+Das ist kein Joker, den man immer dann ausspielt, wenn ein Datum stört.
+
+Man braucht konkrete Hinweise auf eine entsprechende Ernährung und muss den Effekt modellieren.
+
+Mit dieser Korrektur passt die Datierung zum späten 15. Jahrhundert.
+
+Auch die Ernährung selbst deutet auf einen Menschen hin, der sich teurere Lebensmittel leisten konnte.
+
+Das passt zu hohem Status.
+
+Aber selbstverständlich gab es 1485 mehr als einen reichen Mann mit Zugang zu Fisch.
+
+Der Fall lebt nicht von einem magischen Einzelbeweis.
+
+Er wird immer stärker, weil mehrere unvollständige Dinge gleichzeitig passen.
+
+Dann kommt die DNA.
+
+## Ein Verwandter nach mehr als 500 Jahren
+
+Genealogen hatten eine mütterliche Abstammungslinie von Richards Familie bis zu heute lebenden Personen verfolgt.
+
+Einer davon ist **Michael Ibsen**, ein in London lebender Schreiner.
+
+Er ist nicht Richards direkter Sohn-Sohn-Sohn-Nachfahre.
+
+Das ist nicht nötig.
+
+Die entscheidende Spur läuft über **mitochondriale DNA**.
+
+Diese wird über die mütterliche Linie weitergegeben. Sowohl Söhne als auch Töchter erhalten sie von ihrer Mutter, aber normalerweise geben nur Töchter sie an die nächste Generation weiter.
+
+Damit kann eine weit entfernte Person über eine sauber rekonstruierte weibliche Linie einen genetischen Vergleich liefern.
+
+Forscher um Turi King gewinnen alte DNA aus dem Skelett.
+
+Das allein ist nach mehr als fünf Jahrhunderten bereits heikel, weil Kontamination vermieden werden muss.
+
+Dann vergleichen sie die Sequenz.
+
+Sie passt zur mütterlichen Linie.
+
+Ein weiterer unabhängig rekonstruierter Verwandter unterstützt den Befund.
+
+Auch das ist noch kein alleiniger Namensstempel.
+
+Andere Menschen aus derselben mütterlichen Linie könnten dieselbe mitochondriale DNA besitzen.
+
+Aber nun müsste ein alternatives Skelett gleichzeitig erklären:
+
+warum es im Chor von Greyfriars liegt,
+
+warum es ins späte 15. Jahrhundert datiert,
+
+warum der Tote etwa Anfang dreißig war,
+
+warum er Skoliose hatte,
+
+warum er gewaltsam starb,
+
+warum die Verletzungen zu einem Schlachtentod passen,
+
+warum seine Ernährung auf hohen Status deutet
+
+und warum seine mitochondriale DNA zu Richards mütterlicher Linie passt.
+
+Irgendwann wird Zufall mathematisch ziemlich anstrengend.
+
+## Der König unter dem Parkplatz
+
+Am 4. Februar 2013 gibt die University of Leicester bekannt:
+
+Die Überreste sind mit sehr hoher Wahrscheinlichkeit die von **Richard III.**
+
+Spätere genetische Untersuchungen bringen noch eine interessante Komplikation. Y-Chromosom-Vergleiche mit Männern aus einer dokumentierten männlichen königlichen Linie stimmen nicht so überein, wie es der Stammbaum auf dem Papier erwarten lässt.
+
+Das widerlegt die Richard-Identifizierung nicht automatisch.
+
+Über viele Generationen kann irgendwo in einer offiziell dokumentierten Vater-Sohn-Linie ein biologischer Vater ein anderer gewesen sein als der eingetragene.
+
+Die Y-DNA sagt: Irgendwo stimmt eine männliche Abstammungslinie nicht.
+
+Sie sagt nicht automatisch: Dieser Tote ist nicht Richard.
+
+Die Identifizierung beruht ohnehin auf der **Gesamtheit** der Belege.
+
+2015 wird Richard III. in der Kathedrale von Leicester neu bestattet.
+
+Mehr als 500 Jahre nach einem offenbar hastigen Begräbnis bekommt er eine offizielle Zeremonie.
+
+Was die Knochen allerdings nicht können, ist die gesamte historische Debatte um Richard lösen.
+
+Sie sagen nichts darüber, ob er die Prinzen im Tower ermorden ließ.
+
+Sie können keinen moralischen Freispruch ausstellen.
+
+Und die Tatsache, dass seine körperliche Erscheinung später übertrieben wurde, bedeutet nicht automatisch, dass jede politische Anschuldigung gegen ihn erfunden war.
+
+Das Skelett beantwortet eine viel engere Frage.
+
+Wo ist Richard III.?
+
+Die Antwort war erstaunlich prosaisch.
+
+Er war nie im Fluss.
+
+Er lag unter einem Parkplatz.
+
+Und das wirklich Absurde am berühmten „ersten Graben“ ist, dass es tatsächlich wie unglaubliches Glück wirkt.
+
+Das war es zum Teil auch.
+
+Aber Glück konnte dort nur Knochen finden, weil jahrelange historische Arbeit entschieden hatte, **wo man den Graben überhaupt ziehen sollte**.
+
+Der Parkplatz war nie geschichtslos.
+
+Man hatte nur jahrhundertelang darüber geparkt.
+
+## Quellen und Beleglage
+
+- [BBC News, „Richard III dig: DNA confirms bones are king's“](https://www.bbc.co.uk/news/uk-england-leicestershire-21063882), 4. Februar 2013, genutzt für Bekanntgabe, Skelettbefunde, Genealogie und zeitgenössische Erklärungen des Forschungsteams.
+- [Wikipedia, „Exhumation and reburial of Richard III of England“](https://en.wikipedia.org/wiki/Exhumation_and_reburial_of_Richard_III_of_England), genutzt für Standortgeschichte, Grabungschronologie, Ernährungseffekt auf Radiokarbondaten, spätere Genetik, Kritik und Wiederbestattung.
+- Die Geschichte behandelt die Identifizierung als kumulative Beweiskette und trennt sie von Fragen, die ein Skelett nicht beantworten kann, etwa Richards politische Verantwortung oder das Schicksal der Prinzen im Tower.
