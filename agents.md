@@ -1,178 +1,239 @@
-# Mystery Storytelling Instructions
+# Storytelling Instructions for This Repository
 
 ## Purpose
 
-When the user asks for `next`, `next story`, or otherwise asks to continue the mystery-story series, tell one detailed true story about a real-world mystery, crime, strange event, disaster, intelligence operation, scientific puzzle, technological incident, sabotage case, heist, unusual criminal, disappearance, expedition, or similar event.
+This repository contains a continuing series of true mystery stories.
 
-The goal is not merely to explain what happened. The goal is to let the user experience the mystery approximately in the order in which witnesses, investigators, scientists, authorities, journalists, or the public experienced it.
+When the user asks for `next`, `next story`, asks to add another story, or otherwise asks to continue the series, create one new narrative that matches the style of the existing stories in `narratives/`.
 
-The strongest stories begin with something strange, frightening, improbable, or apparently inexplicable, then gradually become understandable as evidence accumulates.
+The existing rewritten stories **01 through 15 are the primary style reference**. Before writing a new story, read at least two or three recent files from `narratives/` if they are available. Their actual prose style takes precedence over abstract wording in this file.
 
-The user wants a story, not a case summary.
+The desired result should feel like a strong German long-form newspaper feature, magazine story, or nonfiction chapter: factual, chronological, investigative, readable, and suspenseful without becoming melodramatic.
+
+The user wants to experience the investigation, not receive a case summary.
 
 ---
 
-## Most Important Rule: Do Not Spoil the Solution
+## Output Language
 
-Never reveal the actual explanation in the title, opening paragraph, or introductory sentence.
+Write the narratives in **German**.
+
+Keep established proper names, organization names, technical terms, operation names, court case names, and titles in their standard form where appropriate.
+
+The prose itself should be natural modern German, not a literal translation from English and not stiff academic German.
+
+---
+
+## Core Storytelling Model
+
+The basic experience should be:
+
+**Something strange happens. The people involved do not yet understand it. Evidence accumulates. Early explanations fail or become incomplete. A small clue changes the shape of the problem. Eventually the hidden story becomes visible.**
+
+Do not start by explaining the answer.
+
+The reader should discover the case in approximately the same order in which witnesses, investigators, scientists, police, engineers, journalists, or authorities could have understood it at the time.
+
+A typical progression is:
+
+**ordinary situation → strange event → escalation → first interpretation → contradiction → investigative clues → narrowing possibilities → reveal → consequences → memorable final observation**
+
+This is a narrative pattern, not a mandatory template. Do not make every story mechanically identical.
+
+---
+
+## The Existing Stories Are the Style Guide
+
+Match the tone, pacing, and paragraph structure of files such as:
+
+- `01-the-man-in-the-parking-lot.md`
+- `02-seventy-five-cents.md`
+- `03-the-officer-on-the-shore.md`
+- `05-the-prisoner-who-counted-the-sounds.md`
+- `07-the-bones-that-fitted-too-well.md`
+- `09-the-bus-that-did-not-come-home.md`
+- `10-the-voices-after-midnight.md`
+- `12-the-houses-the-epidemic-skipped.md`
+- `13-the-office-with-two-audiences.md`
+- `15-the-night-the-network-stopped.md`
+
+Do not merely imitate their topics. Imitate how they tell the story.
+
+Important recurring qualities in those files:
+
+- They begin with a concrete scene, date, place, person, or observation.
+- The first paragraphs create a question without immediately answering it.
+- They use relatively long, cohesive paragraphs.
+- Short paragraphs are used selectively for rhythm and emphasis.
+- Very short standalone lines are rare enough to remain effective.
+- Section headings mark genuine turns in the investigation.
+- The explanation is delayed until the evidence has earned it.
+- Technical ideas are explained intuitively before being named.
+- The prose includes occasional dry humor, but the facts remain central.
+- The ending usually returns to the most elegant clue, irony, mistaken assumption, or causal reversal.
+- A `## Quellen und Beleglage` section appears at the end.
+
+When this file and the existing narratives seem to differ stylistically, follow the narratives.
+
+---
+
+## Do Not Spoil the Solution
+
+This is the most important storytelling rule.
+
+Do not reveal the central explanation in:
+
+- the title
+- the opening sentence
+- the opening paragraph
+- a subtitle
+- an introductory summary before the story
 
 Bad:
 
-> “The plane that crashed because its Pitot tubes were blocked.”
+> # Die Methylquecksilbervergiftung von Minamata
 
-Good:
+Better:
 
-> “A passenger jet takes off normally. Minutes later, its instruments begin contradicting one another.”
+> # Die Katzen an der Küste
 
 Bad:
 
-> “The radioactive cloud released by Mayak.”
+> 1988 legte der Morris-Wurm Tausende Computer lahm.
 
-Good:
+Better:
 
-> “Radiation monitors across Europe suddenly begin detecting an artificial isotope, but no country has reported an accident.”
+> Am Abend des 2. November 1988 bemerken Administratoren an amerikanischen Universitäten etwas Merkwürdiges.
 
-The reader should encounter the event first and the answer later.
+Bad:
 
-A good sequence is:
+> Ein britischer Geheimdienstplan legte 1943 eine falsche Leiche in Spanien ab.
 
-strange event → confusion → early theories → clues → contradictions → narrowing possibilities → reveal → consequences.
+Better:
 
-The solution should feel earned.
+> Am Morgen des 30. April 1943 entdeckt ein Fischer vor der Küste bei Huelva einen Toten im Wasser.
 
----
-
-## What Makes a Strong Story
-
-Before selecting a case, ask internally whether it has most of these qualities:
-
-- a genuinely compelling opening situation
-- a mystery that existed at the time, rather than one manufactured afterward
-- multiple meaningful clues or investigative turns
-- surprising but understandable evidence
-- a resolution, strong conclusion, or at least a strongly evidenced leading explanation
-- enough human detail to make the event feel real
-- an unusual mechanism, motive, deception, discovery, or investigative method
-- material that supports a substantial narrative rather than a short factoid
-- something the user is unlikely to predict from the first paragraph
-
-If the case can be summarized as “something broke, investigators inspected it, and found the broken component,” it is probably too weak unless there is much more to the story.
+The title should usually describe the mystery, image, person, place, or clue rather than the final answer.
 
 ---
 
-## Preferred Categories
+## Opening Style
 
-Keep the overall mix broad. Over a long run of stories, aim for roughly equal representation among major categories rather than becoming trapped in one theme.
+Start close to the event.
 
-Good categories include:
+Prefer:
 
-- crime and sophisticated heists
-- espionage and intelligence operations
-- cyberattacks and digital investigations
-- scientific mysteries
-- forensic reconstruction
-- strange medical or toxicological events
-- radiation and contamination mysteries
-- industrial and engineering disasters
-- sabotage
-- assassinations and poisonings
-- unusual serial offenders
-- covert government programs
-- archaeological or historical mysteries with strong evidence
-- extraordinary expeditions or survival/disappearance cases
-- major frauds
-- unexplained physical events later resolved
-- historical mysteries from any period if the story is strong
+- a person doing something ordinary
+- an object that should not be there
+- a system behaving strangely
+- a body, signal, sound, illness, transaction, disappearance, machine, or observation that does not yet make sense
+- a concrete date and place when they help orientation
 
-Do not let several consecutive stories come from the same category unless they are genuinely exceptional.
+Do not begin with:
+
+- a Wikipedia-style overview
+- a biography of the main investigator
+- a paragraph explaining the historical context before anything happens
+- a statement of the final cause
+- “This is the story of...”
+- a list of themes
+
+Historical context should enter only when the reader needs it to understand the next step.
 
 ---
 
-## Crime and Serial Offenders
+## Paragraph and Formatting Style
 
-Serial killers, poisoners, cult leaders, terrorists, organized criminals, fraudsters, and similarly unusual offenders can make excellent stories.
+This repository deliberately uses **longer prose paragraphs** than the original chat stories did.
 
-The user is interested in what such people actually did, how the pattern developed, what made the crimes unusual, how long they escaped detection, and what ultimately happened to them.
+Do not write the story like:
 
-The story should have a real conclusion.
+> Dann kam der Alarm.
 
-Avoid ordinary murder investigations where the entire plot is merely:
+> Niemand wusste warum.
 
-victim found → police investigate → boyfriend did it.
+> Drei Minuten später explodierte etwas.
 
-If the investigative method is exceptional, the offender is highly unusual, or the pattern itself creates a genuine mystery, the case can work.
+That becomes theatrical and exhausting.
 
-The focus should be on the remarkable story, not gratuitous descriptions of suffering.
+Instead, combine connected thoughts into natural prose.
 
----
+Paragraphs should usually contain multiple related sentences. They can vary in length. A short paragraph or one-line statement is useful when it creates a real turn, for example:
 
-## Disappearances and Expeditions
+> Er hatte recht.
 
-Disappearances are acceptable, but the quality bar is high.
+or:
 
-Do not choose a case merely because someone vanished and probably died.
+> Nur war Major William Martin nie existent.
 
-A disappearance should have exceptional circumstances, strong clues, a remarkable search, a surprising later discovery, or a plausible resolution.
+Use such moments sparingly.
 
-Cases where the entire conclusion is essentially:
+### Headings
 
-> “They went somewhere dangerous and presumably died, but we found nothing”
+Use `##` section headings to mark real changes in the story.
 
-are usually unsatisfying.
+A typical 1,500–2,500 word story might use roughly 5–9 meaningful sections.
 
-By contrast, expeditions, balloon voyages, mountaineering incidents, lost crews, explorers, or historical disappearances can be excellent if the surrounding story and evidence are strong.
+Good headings:
 
-Older cases are fully welcome.
+- `## Der zweite Tote`
+- `## Die Schnitzeljagd`
+- `## Ein deutscher Funkkanal, betrieben vom FBI`
+- `## Der König unter dem Parkplatz`
 
-Do not restrict the series to post-1950 events.
+Avoid headings for every minor event.
 
-A great nineteenth-century story is better than a mediocre modern one.
-
----
-
-## State Secrecy, Intelligence and Disputed Attribution
-
-Stories involving governments, intelligence agencies, weapons programs, covert operations, or state secrecy are welcome.
-
-Disputed conclusions are also fine when there is strong evidence.
-
-However, do not overuse the narrative pattern:
-
-> strong evidence points to Russia / USSR → Russia denies it → story ends.
-
-That pattern becomes repetitive even when accurate.
-
-Use Soviet, Russian, American, British, Chinese, Israeli, or other state-related cases when the specific investigation is excellent, but maintain geographic and political variety.
-
-When attribution is disputed, explain the actual evidence.
-
-Do not substitute:
-
-> “Country X denied it”
-
-for an interesting investigative conclusion.
-
-Strong circumstantial evidence, forensic signatures, intercepted communications, financial records, intelligence findings, or independent scientific analyses can make a disputed case satisfying.
-
-A mere accusation followed by denial cannot.
+Avoid headings that reveal the final answer too early.
 
 ---
 
-## Fatal vs. Nonfatal Events
+## Tone
 
-Do not select stories based on whether people died.
+The tone should be:
 
-Fatal incidents often feel more consequential because the stakes were real, but death is not itself a quality criterion.
+- intelligent
+- conversational
+- vivid
+- calm
+- curious
+- confident when the evidence is strong
+- cautious when the evidence is not
+- occasionally dry or sarcastic
+- never sensationalistic for its own sake
 
-A nonfatal case can be excellent if something substantial actually happened.
+The narrator may point out absurdity.
 
-Avoid overusing stories whose entire appeal is:
+Examples of acceptable targets for dry humor:
 
-> “Something almost went catastrophically wrong.”
+- bureaucracy
+- institutional complacency
+- criminals making obvious mistakes after elaborate planning
+- systems protecting the wrong thing
+- a technically sophisticated plan defeated by something mundane
+- human overconfidence
+- misleadingly ordinary explanations
 
-A near miss needs an unusually strong story, mechanism, or investigation to justify itself.
+Do not joke at the expense of victims.
 
-Conversely, never use death toll as a substitute for an interesting mystery.
+Do not place a punchline immediately after describing a death, severe injury, grief, or suffering.
+
+A good rule is that the humor may attack the **situation, system, institution, criminal, or bad assumption**, not the person harmed by it.
+
+---
+
+## Story Length
+
+The current narrative length is the target.
+
+Default to roughly **1,500–2,500 words**.
+
+Do not pad a weak case to reach a number.
+
+A strong case may run longer.
+
+A simpler case may be shorter.
+
+The story should stop when the narrative and evidentiary arc are complete.
 
 ---
 
@@ -180,391 +241,508 @@ Conversely, never use death toll as a substitute for an interesting mystery.
 
 Before choosing a story:
 
-1. Check `already-told-stories.md`.
-2. Never intentionally repeat anything on it.
-3. Treat a closely related case as a repeat if it would substantially retell the same mechanism.
-4. Look at the previous 2-3 stories and deliberately vary the category.
-5. Do not worry about obscurity for its own sake. Famous cases are completely acceptable if the story is strong.
-6. An obscure but weak story is worse than a famous but excellent one.
-7. Prefer cases with enough reliable information for a detailed reconstruction.
-8. Prefer cases with a real conclusion or a strongly supported explanation.
-9. If the likely ending is simply “nobody knows,” reconsider the case.
-10. If the candidate resembles a recently told story too closely, choose another.
+1. Read `already-told-stories.md`.
+2. Never intentionally repeat a case listed there.
+3. Treat a closely related event as a repeat if it would substantially retell the same mechanism or investigation.
+4. Check the most recent stories and vary the category.
+5. Prefer the strongest story, not merely the most obscure one.
+6. Famous cases are acceptable if the actual story is excellent.
+7. Prefer cases with a satisfying resolution or a strongly evidenced leading explanation.
+8. Cases ending only in “nobody knows” should be rare and exceptional.
+9. Prefer cases containing several meaningful clues, reversals, or investigative steps.
+10. Avoid choosing a story merely because it has a high death toll.
 
-If the user says a story was already told, stop immediately and choose another. Do not continue the duplicate.
+If the user says a story was already told, abandon it immediately and choose a different one.
 
----
-
-## Research Requirements
-
-Research factual stories before writing them.
-
-Prefer primary or authoritative sources where available:
-
-- official investigation reports
-- court records
-- government inquiries
-- scientific papers
-- accident investigation agencies
-- police or FBI material
-- justice department records
-- regulatory reports
-- parliamentary inquiries
-- archival material
-
-Use strong journalism for:
-
-- witness recollections
-- scene-setting
-- later discoveries
-- historical context
-- investigative chronology
-
-Do not repeat folklore merely because it makes the story better.
-
-Clearly distinguish among:
-
-- established fact
-- official conclusion
-- strong inference
-- participant testimony
-- disputed interpretation
-- speculation
-
-If a colorful technical detail comes mainly from a criminal, memoir, interview, documentary, or journalist rather than official evidence, say so.
-
-Never invent dialogue.
+Do not defensively explain why the duplicate was technically different.
 
 ---
 
-## Story Construction
+## Desired Variety
 
-Tell the story chronologically unless there is a compelling reason not to.
-
-The narrative should feel like long-form journalism or a nonfiction book chapter.
-
-### Opening
-
-Begin with the date, place, and ordinary situation.
-
-Then introduce the first strange event.
-
-Use concrete details.
-
-Do not start with a broad history lecture.
-
-Do not explain the answer.
-
-The opening should make the reader think:
-
-> “Wait. What is happening?”
-
-### Escalation
-
-Follow events as they happened.
-
-Show what witnesses actually saw, heard, measured, received, or believed.
-
-Let the scale become apparent progressively.
-
-If something initially looked harmless but later became terrifying, preserve that progression.
-
-### The Investigation
-
-Introduce evidence in the order that makes the mystery understandable.
-
-Do not dump every clue at once.
-
-Useful clues can include:
-
-- autopsy results
-- isotope ratios
-- banking records
-- CCTV
-- radar tracks
-- intercepted communications
-- laboratory tests
-- strange physical damage
-- phone records
-- recovered objects
-- maps
-- weather reconstruction
-- financial transactions
-- witness contradictions
-- metadata
-- geological or biological evidence
-- undercover work
-- forensic experiments
-
-When investigators pursue a plausible wrong theory, explain why it seemed reasonable before showing what disproved it.
-
-### The Reveal
-
-Only reveal the central explanation after enough evidence has accumulated.
-
-Explain why the decisive clues matter.
-
-The ideal reaction is:
-
-> “That explains everything.”
-
-Technical explanations should be accurate but intuitive.
-
-### Aftermath
-
-Continue only with aftermath that improves the narrative.
-
-Good aftermath includes:
-
-- arrests
-- confessions
-- convictions
-- reforms
-- recovered money
-- missing suspects
-- political consequences
-- scientific discoveries
-- later forensic breakthroughs
-- remaining uncertainty
-
-Do not turn the ending into a chronological list of administrative actions.
-
-### Ending
-
-End on the strongest implication, irony, clue, unresolved piece, or causal chain.
-
-Often the best ending returns to a small detail introduced near the beginning.
-
-Do not ask whether the user wants another story.
-
-The user will type `next`.
-
----
-
-## Formatting
-
-This is important.
-
-Do **not** format the story like a presentation, listicle, or collection of dramatic one-line fragments.
-
-Use longer, cohesive paragraphs resembling a newspaper feature, magazine article, or nonfiction novel.
-
-Section headings are useful, but use fewer of them.
-
-A typical long story might have perhaps 5-10 meaningful sections rather than twenty tiny sections.
-
-Avoid sequences like:
-
-> Then the alarm.
-
-> Another explosion.
-
-> Nobody knows why.
-
-> Three minutes later.
-
-That style becomes exhausting.
-
-Instead write:
-
-> Three minutes later, a second explosion hit the complex. By then investigators would later conclude that the first blast had already damaged several adjoining systems, allowing the incident to escalate from a local fire into a much larger failure.
-
-Paragraphs can still vary in length for pacing, but most should contain several connected sentences.
-
-Use occasional isolated lines only when they genuinely deserve emphasis.
-
-The story should look and read like prose, not a PowerPoint deck.
-
----
-
-## Length
-
-The existing story length is good.
-
-A strong default is roughly:
-
-**1,500-2,500 words.**
-
-Do not obey a word count mechanically.
-
-A great case can run longer.
-
-A simpler case should be shorter rather than padded.
-
-Depth matters more than length.
-
----
-
-## Tone
-
-Write in the user's current language.
-
-Follow the language of the ongoing series unless the user clearly switches.
-
-Tone should be:
-
-- intelligent
-- conversational
-- vivid
-- confident
-- occasionally dry or sarcastic
-- serious when victims are involved
-- curious rather than sensationalistic
-
-Dry humor works particularly well when aimed at:
-
-- bureaucratic absurdity
-- institutional incompetence
-- criminals making stupid mistakes
-- bad incentives
-- wildly disproportionate consequences
-- human overconfidence
-
-Avoid jokes at the expense of victims.
-
-Do not place a punchline immediately after describing someone's death or severe injury.
-
----
-
-## Technical Detail
-
-The user is technically literate and enjoys understanding real mechanisms.
-
-Do not remove interesting technical details merely to simplify the story.
-
-Instead use this order:
-
-1. intuitive explanation
-2. technical terminology
-3. evidence showing why it mattered
-
-For example:
-
-> The lighter fuel accumulated above the water instead of flowing away. Engineers would describe the relevant structure as an inverted siphon.
-
-Analogies are welcome when accurate.
-
-Avoid drowning the story in unexplained acronyms.
-
----
-
-## Uncertainty and Conclusions
-
-Use judgment about how much uncertainty to emphasize.
-
-If the case is essentially solved, state the conclusion confidently.
-
-If the evidence strongly points in one direction but does not prove it, explain why investigators believe it.
-
-If two serious explanations remain, present them fairly and explain what evidence favors each.
-
-Do not force certainty.
-
-But equally, do not weaken a strong conclusion with endless generic caveats.
-
-A story should still feel as though it went somewhere.
-
-Cases with absolutely no meaningful conclusion should be rare and must be exceptional enough to justify the lack of resolution.
-
----
-
-## Variety
-
-Over time, approximately balance:
+Across a long run, rotate roughly among:
 
 - crime / heists / unusual offenders
-- espionage / intelligence / political operations
-- science / medicine / environmental mysteries
-- engineering / disasters / infrastructure
+- espionage / intelligence / covert operations
+- science / medicine / toxicology / environmental mysteries
+- engineering / infrastructure / disasters
 - cyber / technology / financial crime
-- historical / exploration / disappearance / unusual events
+- archaeology / history / exploration / disappearance
 
 This is not a quota.
 
-It is protection against accidentally telling six aircraft investigations or five Soviet nuclear mysteries in a row.
+It exists to prevent accidental runs of six aircraft investigations, five radioactive accidents, or repeated state-attribution stories with the same ending.
 
 ---
 
-## Calibration From Previous Stories
+## Case Preferences
 
-Stories that worked particularly well included:
+Cases that tend to work especially well have one or more of these qualities:
 
-- Stuxnet
-- Alexander Litvinenko
-- Kramatorsk radiation case
-- Kim Jong-nam
-- Salisbury / Skripal
-- Ciudad Juárez cobalt-contaminated steel
-- Lia RTG accident
-- PEPCON
-- sophisticated bank and diamond heists
-- cases solved through unusual forensic or scientific evidence
-- the historical three-man balloon story
+- a strange opening scene
+- a clever adversary
+- an apparently impossible crime
+- a physical clue that changes the case
+- a scientific measurement that reveals hidden history
+- an investigation that uses multiple independent evidence streams
+- a system whose normal safety assumption turns out to be wrong
+- an intelligence operation involving deception
+- a criminal plan defeated by an ordinary administrative or human mistake
+- a delayed medical or environmental cause
+- a forensic reconstruction that genuinely changes what investigators believe
+- a historical mystery with strong modern evidence
+- a final explanation that makes several earlier oddities suddenly fit together
 
-Stories or patterns that worked less well included:
+Strong previous examples include Stuxnet, Litvinenko, Kramatorsk, Kim Jong-nam, Salisbury, Ciudad Juárez cobalt contamination, the Lia RTG case, PEPCON, sophisticated heists, the historical balloon story, and the rewritten repository stories.
 
-- Kerala red rain
-- Norway Spiral
-- Belgian Coca-Cola illness
-- TRITON/TRISIS
-- straightforward aircraft failure diagnosis
-- China Airlines 611
-- disappearances where the likely answer was merely that someone died in a dangerous location without useful evidence
-- repeated “Russian/Soviet state probably did it but denied responsibility” endings
+Cases that tend to work less well:
 
-Use these reactions as calibration, not hard prohibitions.
+- straightforward aircraft failures where the whole mystery is diagnosis of a component
+- a disappearance where the only conclusion is that someone probably died in a dangerous place
+- vague paranormal stories
+- mass psychogenic illness without a stronger investigative twist
+- simple “Russia/USSR probably did it, Russia denied it” stories repeated too often
+- technical incidents that amount to “engineers found the broken part”
+- cases where the most interesting fact can be explained in three paragraphs
 
 ---
 
-## Maintaining Continuity
+## Crime and Unusual Offenders
 
-Treat a bare `next` as a complete instruction.
+Serial killers, poisoners, cult leaders, terrorists, fraudsters, organized criminals, kidnappers, and other unusual offenders are valid topics.
 
-Do not ask what kind of story the user wants.
+The user is more interested in:
 
-Choose the strongest unused case yourself.
+- what they actually did
+- what made the pattern unusual
+- how long it remained hidden
+- how the system around them failed
+- what finally exposed them
+- what evidence established responsibility
 
-Do not first provide a shortlist.
+The user is less interested in ordinary murder investigations where the story is essentially:
+
+**victim found → police investigate → obvious intimate partner did it**
+
+A murder story should have an exceptional offender, pattern, method, investigation, or conclusion.
+
+Do not provide operational instructions that would meaningfully enable poisoning, violence, evasion, or other wrongdoing. Narrative detail is fine; exact harmful recipes, doses, construction steps, or bypass procedures are not needed.
+
+---
+
+## Disappearances and Expeditions
+
+Disappearances are acceptable only when the story itself is exceptional.
+
+A good disappearance may contain:
+
+- strong physical clues
+- a remarkable search
+- later remains or objects
+- a compelling forensic reconstruction
+- a surprising location
+- unusual survival behavior
+- evidence that substantially narrows what happened
+
+Avoid cases whose ending is merely:
+
+> They entered a dangerous environment, vanished, and probably died.
+
+Older history is welcome. Do not impose a modern-date cutoff.
+
+A great nineteenth-century investigation is better than a mediocre modern one.
+
+---
+
+## Intelligence, Governments, and Disputed Attribution
+
+Espionage and state secrecy are excellent topics when the investigation itself is strong.
+
+Disputed attribution is acceptable.
+
+When attribution is disputed, explain the evidence that points toward a state or service:
+
+- forensic signatures
+- intercepted communication
+- travel records
+- intelligence findings
+- financial trails
+- operational overlap
+- scientific evidence
+- court findings
+- independently verified reporting
+
+Do not treat “the accused government denied it” as an interesting ending by itself.
+
+Do not overuse one geopolitical pattern, especially repeated stories whose final structure is merely:
+
+**strong evidence points to Russia or the USSR → official denial → no further resolution**
+
+Maintain geographic and political variety.
+
+---
+
+## Fatal and Nonfatal Cases
+
+Do not use fatality as a selection rule.
+
+Deaths often make stakes more concrete, but a nonfatal story can be excellent if something consequential actually happened.
+
+Avoid weak near-miss stories whose entire appeal is that something *could* have become catastrophic.
+
+A near miss needs a remarkable mechanism, investigation, or consequence.
+
+Similarly, do not use a large body count as a substitute for an interesting story.
+
+---
+
+## Research Standard
+
+Research every factual story before writing it.
+
+Prefer, where available:
+
+- court records
+- official investigation reports
+- scientific papers
+- police / FBI / justice department material
+- government inquiries
+- parliamentary reports
+- regulatory findings
+- accident investigation agencies
+- archival documents
+- contemporary primary accounts
+
+Use strong journalism for:
+
+- chronology
+- witness accounts
+- historical context
+- later developments
+- explanatory narrative
+
+Wikipedia may be used as a discovery and orientation source, but important disputed claims should ideally be checked against stronger material when possible.
+
+Never invent dialogue.
+
+Never write a colorful detail as fact merely because it appears in a popular retelling.
+
+If a detail comes mainly from:
+
+- a participant
+- memoir
+- criminal
+- later interview
+- documentary
+- secondary reconstruction
+
+label it appropriately in the prose or sources section when it matters.
+
+---
+
+## Evidence Discipline
+
+The stories should feel confident because they are well sourced, not because uncertainty has been deleted.
+
+Distinguish among:
+
+- established fact
+- court finding
+- official conclusion
+- strong inference
+- participant testimony
+- later reconstruction
+- disputed interpretation
+- speculation
+
+Do not bury the story in caveats.
+
+State uncertainty where it changes what the reader should believe.
+
+Good:
+
+> Nach Barnes' Darstellung wusste Wells im Voraus von einem Raubplan, glaubte aber, die Bombe sei eine Attrappe. Wells selbst konnte diesen Vorwurf nie vor Gericht beantworten.
+
+Bad:
+
+> Wells was definitely an innocent random victim.
+
+Also bad:
+
+> Wells definitely planned the whole thing.
+
+If the conclusion is strong, state it strongly.
+
+If only one specific detail remains disputed, do not weaken the entire case.
+
+---
+
+## Investigation Structure
+
+Reveal clues progressively.
+
+Do not dump all known evidence into the first third.
+
+Let an early explanation make sense before showing why it fails.
+
+Useful clue types include:
+
+- autopsy findings
+- toxicology
+- isotope ratios
+- bank records
+- CCTV
+- radio traffic
+- intercepted communication
+- weather
+- flight schedules
+- maps
+- DNA
+- radiocarbon dating
+- geological evidence
+- network logs
+- accounting discrepancies
+- transaction records
+- recovered objects
+- physical damage
+- witness contradictions
+- unusual survivor groups
+- failed alarms
+- ordinary documents such as leases or receipts
+
+The best clues often look trivial before their importance becomes clear.
+
+Examples from existing stories:
+
+- 75 cents in an accounting system
+- an aircraft that failed to pass at its normal time
+- a note unnecessarily insisting that a freezer corpse had nothing to do with another case
+- brewery workers who did not drink from a local pump
+- a second fossil find that eventually helped expose the first
+- a radio conversation overheard by the wrong listener
+- an apparently secure vault door that protected the wrong route
+
+Use this kind of evidentiary reversal when the case genuinely contains one.
+
+---
+
+## Technical Explanation
+
+The user is technically literate.
+
+Do not remove the interesting mechanism.
+
+Explain it in this order:
+
+1. intuitive description
+2. technical term
+3. why that mechanism explains the evidence
+
+Example:
+
+> Die Flüssigkeitssäule übte enormen Druck auf den unteren Teil des Tanks aus. In technischer Sprache geht es um hydrostatischen Druck. Sobald die Tankwand versagte, wurde die gespeicherte Lageenergie der gesamten Flüssigkeitsmasse frei.
+
+Avoid unexplained acronym soup.
+
+Do not over-explain familiar concepts merely to inflate word count.
+
+---
+
+## How to Handle Wrong Theories
+
+Wrong theories are useful when they were genuinely plausible at the time.
+
+Explain why people believed them.
+
+Then introduce the evidence that weakened them.
+
+Do not mock historical investigators merely because later science knew more.
+
+A wrong theory is interesting when the available evidence once made it reasonable.
+
+Examples:
+
+- infection before poisoning is recognized
+- bad air before waterborne transmission is demonstrated
+- sabotage before structural failure is established
+- inheritance before behavioral transmission is understood
+
+The reader should understand why the wrong path existed.
+
+---
+
+## The Reveal
+
+The reveal should occur when enough clues have accumulated that the answer feels earned.
+
+Do not announce it with artificial TV-documentary language.
+
+Prefer a clean transition:
+
+> Der Tote hieß nicht William Martin.
+
+> Der Schädel und der Kiefer gehörten nicht zum selben Wesen.
+
+> Die spätere Erklärung lautet: Methylquecksilber.
+
+Then explain how the answer resolves earlier observations.
+
+The reveal is not merely the name of the culprit or mechanism.
+
+The satisfying part is showing **why the clues now fit**.
+
+---
+
+## Aftermath
+
+Include aftermath only when it adds something meaningful.
+
+Useful aftermath includes:
+
+- arrests
+- convictions
+- recovered property
+- reforms
+- later scientific confirmation
+- compensation
+- institutional changes
+- later DNA or forensic work
+- what remained missing
+- what remained disputed
+
+Do not turn the final third into an administrative timeline.
+
+The story should remain a narrative.
+
+---
+
+## Endings
+
+The final paragraphs matter.
+
+Prefer endings that return to:
+
+- the earliest overlooked clue
+- a false assumption
+- a mundane object that solved the case
+- an ironic reversal
+- the difference between what people thought they were protecting and what actually mattered
+- the gap between a sophisticated plan and the trivial mistake that exposed it
+
+Examples of the desired shape:
+
+- the hacker hid almost everything except 75 cents
+- the kidnappers covered a prisoner's eyes but could not hide the timetable of the aircraft overhead
+- a bank protected its vault door while thieves came through the floor
+- a fake fossil's second “confirming” discovery later helped prove the forgery
+- a worm damaged the same network its author then needed to distribute the warning
+
+Do not end with a generic moral.
+
+Do not end by asking whether the user wants another story.
+
+A bare `next` is expected to continue the series.
+
+---
+
+## Sources and Beleglage Section
+
+Every narrative should end with:
+
+`## Quellen und Beleglage`
+
+Use a short source list, typically 2–6 items depending on the case.
+
+The section should do two jobs:
+
+1. identify the strongest sources used
+2. briefly disclose important evidentiary limitations
+
+Example structure:
+
+> ## Quellen und Beleglage
+>
+> - [FBI, „Case Name“](...), genutzt für Chronologie, Ermittlungen und Urteile.
+> - [Scientific paper / court record / major reporting](...), genutzt für ...
+> - Die Geschichte behandelt X als Rekonstruktion und Y als gesicherte Feststellung. Z wird nicht als bewiesen dargestellt.
+
+Do not clutter every paragraph with inline citations unless the user explicitly asks for that format.
+
+The narrative should remain readable.
+
+---
+
+## Writing New Files
+
+When adding a new repository story:
+
+1. Check the highest existing story number.
+2. Use the next two-digit number.
+3. Use a short English filename slug for repository consistency unless the user requests otherwise.
+4. Write the narrative itself in German.
+5. Add the case to `already-told-stories.md` after the story is created.
+6. Preserve the `## Quellen und Beleglage` section.
+7. Do not modify older stories unless requested.
+
+Example:
+
+`16-the-name-on-the-passport.md`
+
+The title inside the file may be German:
+
+`# Der Name im Reisepass`
+
+---
+
+## Continuity
+
+Treat a bare `next` as a complete request.
+
+Do not ask which category the user wants.
+
+Do not provide several candidates first.
 
 Do not summarize the previous story.
 
-Start the new one.
+Choose the strongest unused case, research it, and write it.
 
-After telling a substantial new story, append its identifying name to `already-told-stories.md`.
-
-Also add cases the user says they already know or have already heard.
-
-The purpose of the blacklist is aggressive duplicate prevention.
+When possible, avoid choosing the same broad category as the immediately preceding story.
 
 ---
 
 ## Final Quality Check
 
-Before sending a story, silently verify:
+Before saving a new narrative, verify:
 
-- Has this case already been told?
-- Is it too similar to the last few?
-- Is the opening mysterious without spoiling the explanation?
-- Does something meaningful actually happen?
-- Is there a real investigative progression?
-- Are the strongest clues presented progressively?
-- Does the story reach a satisfying conclusion?
-- Have disputed claims been labeled correctly?
-- Is the prose mostly cohesive paragraphs rather than dramatic fragments?
-- Have I avoided padding?
-- Is the ending memorable?
-- Would the user learn something they probably did not know?
+- Is it definitely not already listed in `already-told-stories.md`?
+- Is it sufficiently different from the last few stories?
+- Does the title avoid spoiling the answer?
+- Does the opening begin with an event rather than an explanation?
+- Does the reader learn the case chronologically?
+- Are there multiple real investigative steps or clues?
+- Does at least one clue materially change the interpretation?
+- Are wrong theories presented fairly?
+- Is the central explanation delayed until it has been earned?
+- Is the prose mostly cohesive paragraphs?
+- Are headings limited to genuine turns?
+- Is dry humor used sparingly and never against victims?
+- Are technical details understandable without being dumbed down?
+- Are disputed details labeled where they matter?
+- Does the story reach a meaningful conclusion?
+- Does the ending return to a strong clue, irony, or mistaken assumption?
+- Is there a `## Quellen und Beleglage` section?
+- Does it read like stories 01–15 rather than like a Wikipedia article?
 
-If not, pick another case.
+If several answers are no, revise before saving.
 
 ---
 
 ## Core Principle
 
-The user is not looking for “interesting facts.”
+Do not write an article **about** a mystery.
 
-They want the experience of discovering:
+Recreate the experience of **solving** it.
 
-> Something strange happened. People initially misunderstood it. Evidence accumulated. Each clue changed what seemed possible. Eventually the hidden story became visible.
+The reader should begin with the same incomplete world the people inside the story had.
 
-Tell that story.
+Then let the evidence change that world one clue at a time.
