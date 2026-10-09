@@ -1,79 +1,217 @@
-# The Disease That Waited
+# Die Krankheit, die wartete
 
-In 1957, physicians working in the Eastern Highlands of what was then Australian-administered New Guinea encountered people whose ordinary movements were becoming impossible. A person who had walked and worked began trembling, stumbling, and losing coordination. The decline continued until sitting, swallowing, and caring for oneself could no longer be taken for granted. Families recognized the illness, and feared what followed it.
+1957 stoßen Ärzte im östlichen Hochland des damaligen australisch verwalteten Neuguinea auf eine Krankheit, die zunächst kaum in bekannte Kategorien passt.
 
-The disease was called kuru, a word associated with trembling. It appeared especially often among women and children of the Fore people and neighboring communities. Once symptoms developed, death followed. Yet the distribution was peculiar. Adult men were affected much less frequently, and the illness did not sweep through everyone who stood near a patient. It looked like a local epidemic, but its pattern did not behave like an obvious contagious fever.
+Menschen, die bis vor Kurzem normal gearbeitet und sich bewegt haben, beginnen zu zittern. Sie stolpern. Bewegungen, die vorher selbstverständlich waren, werden ungenau. Später können einige nicht mehr ohne Hilfe sitzen, schlucken oder sich versorgen.
 
-## A clinical problem inside a community
+Sobald die Symptome deutlich einsetzen, endet die Krankheit tödlich.
 
-Outside reports from the early 1950s had already recorded the illness. Some observers misunderstood it, including a suggestion that it might be a psychological consequence of belief in sorcery. Such an interpretation failed to account adequately for the progressive physical disease. The symptoms were not merely the performance of fear.
+Die lokale Bezeichnung lautet **Kuru**, ein Wort, das mit Zittern in Verbindung steht.
 
-For Fore families, the condition existed within their own understandings of illness, kinship, and harmful action. Researchers entering the region did not arrive in a blank space where nobody had noticed anything. Local people could describe who had become ill, where cases appeared, and how the pattern had changed. That knowledge would become indispensable to reconstructing the epidemic.
+Besonders häufig trifft es Frauen und Kinder der Fore und benachbarter Gemeinschaften.
 
-Vincent Zigas and Daniel Carleton Gajdusek documented the clinical syndrome. Later work involved Michael Alpers and anthropologists including Shirley Lindenbaum and Robert Glasse. Their contributions were different but complementary. A physician could characterize a loss of coordination. Understanding why that loss selected particular people required a history of everyday and ceremonial behavior.
+Erwachsene Männer erkranken deutlich seltener.
 
-The investigation's difficulty lay partly in time. An infectious disease might be expected to follow exposure within days or weeks. Here, researchers were confronting patients whose relevant experiences could have happened years earlier. A visit, meal, or ceremony near the beginning of visible illness might be entirely unrelated to the event that caused it.
+Und obwohl ganze Familien betroffen sein können, steckt sich niemand einfach dadurch an, dass er einen Kranken pflegt oder neben ihm lebt.
 
-## The families that seemed to explain it
+Es sieht aus wie eine Epidemie.
 
-Kuru clustered in families and communities. That made inheritance a plausible early hypothesis. A disease affecting related people within a geographically concentrated population can suggest a genetic disorder, particularly when no familiar microbe is found and the clinical course involves degeneration of the nervous system.
+Nur verhält sie sich nicht wie eine.
 
-But family relationships connect more than genes. Relatives share practices, obligations, histories, and exposures. The same cluster that makes inheritance plausible can conceal an acquired disease. Distinguishing those possibilities required looking at which relationships actually carried risk.
+## Familien, die gleichzeitig zu viel und zu wenig erklären
 
-The imbalance between women, children, and adult men was especially revealing. A hereditary explanation had to account for it. So did any proposed local toxin or ordinary infection. The answer could not simply be that all Fore people shared the same environment, because the observed outcomes differed within that environment.
+Schon vor 1957 hatten Außenstehende über die Krankheit berichtet. Manche frühe Beobachter hielten sie sogar für eine psychologische Reaktion auf den Glauben an Zauberei.
 
-Historical reconstruction also suggested that the condition had spread through communities over time rather than existing as an unchanging ancestral burden. Accounts placed its appearance within living memory in parts of the region. That chronology did not conclusively disprove every genetic contribution, but it strengthened the need to investigate how a practice or exposure could move through social connections.
+Das passt schlecht zu dem, was die Ärzte tatsächlich sehen: eine fortschreitende, körperliche neurologische Erkrankung.
 
-## The brain's unfamiliar damage
+Vincent Zigas und Daniel Carleton Gajdusek beginnen, das Krankheitsbild systematisch zu dokumentieren. Später arbeiten unter anderem Michael Alpers sowie die Anthropologen Shirley Lindenbaum und Robert Glasse an der Frage, warum Kuru genau jene Menschen trifft, die es trifft.
 
-Examination of affected brains showed degeneration of a distinctive kind. The disease belonged to what would later be understood as the transmissible spongiform encephalopathies, in which brain tissue develops characteristic damage including microscopic spaces. Related observations in animal disease, particularly scrapie in sheep, suggested that a slowly acting transmissible factor might be involved.
+Die Krankheit häuft sich in Familien.
 
-The word “slow” became crucial. A disease agent that required a long interval to produce symptoms could be missed by short observation and mistaken for a noninfectious degenerative condition. Failure to find an ordinary rapid infection did not establish that nothing transmissible existed.
+Damit ist eine Erbkrankheit zunächst eine durchaus vernünftige Hypothese. Verwandte Menschen in einer räumlich begrenzten Bevölkerung teilen Gene. Eine seltene genetische Störung könnte genau so aussehen.
 
-Experimental work with material from affected patients eventually produced similar disease in chimpanzees after a prolonged interval. This was a major result: the process could cross from affected tissue to another host. It could not be adequately explained as a psychological response particular to one human community or as a condition inherited only within Fore families.
+Nur teilen Familien noch etwas anderes.
 
-The experiments did not immediately identify the agent's molecular nature. Showing that disease was transmissible and showing exactly what transmitted it were separate achievements. Researchers had established a powerful biological fact before they could fully explain the object responsible for it.
+Sie teilen Essen.
 
-## The obligations around the dead
+Rituale.
 
-Anthropological investigation supplied the social route. In some Fore communities, mortuary practices included consuming the bodies of deceased relatives. This was not a random appetite or an inexplicable lapse into violence. It formed part of how people understood care for the dead and the continuation of relationships with them.
+Pflichten.
 
-Participation was not distributed evenly. Women and children were more involved in practices that exposed them to the tissues carrying the greatest risk. Adult men's participation differed. The pattern that had puzzled the clinicians began to fit a difference in what people did rather than a difference in who happened to stand nearby.
+Lebensweisen.
 
-The evidence linked kuru transmission to these funerary practices. The outbreak is thought to have begun when a person with a sporadic degenerative prion disease entered that chain of exposure. That proposed original event is an inference, not an identified first patient whose diagnosis survives in a laboratory record. The established transmission mechanism does not require certainty about that earliest individual.
+Und bestimmte Risiken.
 
-This distinction also prevents a misleading story in which all disease comes from a timeless cultural practice. The practice created a route for amplification once infectious material was present. The emergence of that material, the history of the practice, and the later end of transmission are related questions, not one interchangeable explanation.
+Der entscheidende Hinweis steckt in der Verteilung. Wenn Kuru genetisch ist, warum erkranken erwachsene Männer so viel seltener als Frauen und Kinder? Eine genetische Erklärung müsste diesen Unterschied ebenfalls erklären.
 
-## The cases after the practice ended
+Auch ein Gift aus Wasser oder Boden hätte Schwierigkeiten, wenn alle im selben Dorf leben, aber nicht annähernd gleich häufig erkranken.
 
-Mortuary consumption declined and was largely abandoned around 1960 under a combination of changing practices and colonial pressure. This happened before the full scientific account of transmission had been established. It would be historically inaccurate to present the change simply as a community following a finished medical explanation.
+Dazu kommt die Erinnerung der Fore selbst. Die Krankheit scheint nicht seit unvordenklicher Zeit unverändert vorhanden gewesen zu sein. In manchen Gebieten erinnern sich Menschen daran, wie sie sich innerhalb lebender Generationen ausbreitete.
 
-If the practice was responsible, cases ought eventually to decline. They did. But they did not vanish quickly. People continued becoming ill years after the relevant exposure had stopped. To someone expecting the timetable of influenza, those continuing cases might seem to refute the explanation.
+Das sieht immer weniger nach einem fest eingebauten genetischen Merkmal aus.
 
-The demographic pattern supplied the answer. New illness increasingly occurred among people old enough to have participated before the practice ended. The disease was revealing exposures from the past rather than proving that every new patient had recently encountered the same risk. Long follow-up made it possible to separate the end of transmission from the end of illness.
+Es sieht aus, als würde sich **etwas bewegen**.
 
-Some incubation periods extended over decades, with cases continuing into the twenty-first century. An intervention could therefore succeed in preventing new exposure while a community still endured deaths caused by old exposure. Those deaths were not evidence that the intervention was meaningless. They showed how long the consequences could remain latent.
+Nur findet niemand einen normalen Erreger.
 
-## An agent without the expected machinery
+## Das Gehirn sieht aus wie bei einer Infektion, die niemand findet
 
-The eventual molecular explanation was stranger than an ordinary hidden virus. Prion diseases involve proteins that adopt an abnormal form and promote the same damaging change in other copies of the protein. The name “prion” refers to this protein-based infectious agent. A conventional bacterium or virus was not required to account for the disease process.
+Untersuchungen des Gehirngewebes zeigen charakteristische Schäden. Unter dem Mikroskop entstehen kleine Hohlräume, wodurch das Gewebe schwammartig wirken kann.
 
-An intuitive way to understand the mechanism is that a molecule's shape can matter as much as its ingredients. The abnormal form encourages further proteins to take on a pathological form, and the resulting process damages the brain. That is an analogy to a biological mechanism, not a suggestion that all protein misfolding is contagious or that every neurological disease works in the same way.
+Ähnliche Veränderungen kennt man von anderen Krankheiten, darunter **Scrapie** bei Schafen.
 
-The idea challenged familiar assumptions about what an infectious agent had to contain. It also explained why the early investigation had struggled to find the expected microbial culprit. Kuru contributed to a much wider understanding of prion disease; it was not the sole experiment through which the entire theory was established.
+Das bringt Forscher auf eine verstörende Idee: Vielleicht ist Kuru tatsächlich übertragbar, nur auf eine Weise, die viel langsamer funktioniert als die Infektionen, an die Mediziner normalerweise denken.
 
-Modern accounts sometimes reduce the case to a sensational label involving laughter or cannibalism. Both can obscure what made the investigation important. The patients' neurological illness was real and fatal. The social practices mattered because they explained exposure. The years of observation mattered because they explained why that exposure could seem absent when illness finally appeared.
+Denn ein gewöhnlicher Erreger erzeugt nach einer gewissen Inkubationszeit Symptome. Bei Grippe sind es Tage. Bei anderen Infektionen Wochen oder Monate.
 
-## A clock the investigators had to learn
+Was, wenn hier zwischen Ansteckung und Erkrankung **Jahre** liegen?
 
-The scientific conclusion is now strong: kuru was an acquired prion disease transmitted through mortuary practices, with unusually long incubation. The clinical, anthropological, experimental, and later molecular evidence explain different parts of the same pattern. No single investigator's insight replaces the contributions of the others or the knowledge supplied by Fore communities.
+Dann wäre die offensichtliche Suche nach einem kürzlich stattgefundenen Kontakt fast nutzlos.
 
-The most haunting clue was the sequence after transmission stopped. Each new case appeared to belong to the present. In causal terms, some belonged to a ceremony many years earlier. The epidemic's clock ran much more slowly than the human expectation that a cause should be recent enough to remember easily.
+Forscher testen schließlich Gewebe von Kuru-Patienten experimentell an Schimpansen.
 
-What first looked like a disease moving mysteriously through families became a history of exposure preserved inside individual bodies. The danger could end before its consequences did. Understanding that delay was part of understanding the disease itself.
+Lange passiert nichts.
 
-## Sources and evidence
+Dann entwickeln auch die Tiere eine entsprechende neurologische Erkrankung.
 
-- [Wikipedia, “Kuru”](https://en.wikipedia.org/wiki/Kuru_(disease)), consulted for clinical patterns, research history, Fore mortuary practices, experimental transmission, declining exposure, and long incubation.
-- [CDC, “About Prion Diseases”](https://www.cdc.gov/prions/about/index.html), consulted directly for the contemporary explanation of prion proteins, brain disease, and fatal outcomes.
-- The inferred origin in an initial sporadic case is not presented as a proven identification. The narrative separates evidence for transmission from the later molecular explanation and avoids treating the affected communities as a sensational backdrop.
+Das ist ein Wendepunkt.
+
+Kuru kann übertragen werden.
+
+Es ist keine rein psychologische Reaktion.
+
+Es ist auch keine Krankheit, die ausschließlich über die Gene der Fore weitergegeben werden kann.
+
+Etwas im betroffenen Gewebe kann die Erkrankung in einem neuen Wirt auslösen.
+
+Aber wie gelangt dieses Gewebe im normalen Leben von einem Menschen zum anderen?
+
+Hier wird die medizinische Untersuchung ohne Anthropologie fast blind.
+
+## Was mit den Toten geschah
+
+In Teilen der Fore-Gemeinschaften gab es Bestattungspraktiken, bei denen verstorbene Angehörige rituell verzehrt wurden.
+
+Von außen ist es verführerisch, daraus eine Sensationsgeschichte über „Kannibalismus“ zu machen und damit aufzuhören. Das verfehlt jedoch genau den Teil, der für die Untersuchung wichtig ist.
+
+Für die Beteiligten war dies keine zufällige Gewalt und kein exotischer Appetit. Die Rituale waren Teil des Umgangs mit Verstorbenen, Verwandtschaft und Trauer.
+
+Und entscheidend ist: Nicht alle Menschen nahmen auf dieselbe Weise daran teil.
+
+Frauen und Kinder kamen wesentlich häufiger mit bestimmten Geweben in Kontakt als erwachsene Männer.
+
+Damit passt plötzlich die merkwürdige Statistik.
+
+Die Verteilung der Krankheit folgt nicht einfach dem Geschlecht.
+
+Sie folgt dem **Verhalten**.
+
+Wenn ein verstorbener Mensch bereits Kuru oder eine verwandte Prionerkrankung in sich trug, konnten besonders infektiöse Gewebe bei diesen Ritualen weitergegeben werden.
+
+Die wahrscheinlichste Ursprungserklärung ist, dass irgendwann ein Mensch spontan an einer anderen Prionerkrankung erkrankte und sein Gewebe anschließend in diese Übertragungskette gelangte. Ein eindeutig identifizierter „Patient Null“ existiert nicht. Dieser Anfang ist eine gut begründete Rekonstruktion, keine erhaltene Laborakte.
+
+Aber der Übertragungsweg selbst wird immer stärker belegt.
+
+Dann passiert etwas, das die Forscher zunächst fast wieder verwirren könnte.
+
+Die relevanten Bestattungspraktiken werden um etwa 1960 weitgehend aufgegeben.
+
+Trotzdem sterben noch Jahrzehnte später Menschen an Kuru.
+
+## Eine Epidemie, die nach ihrem Ende weiterläuft
+
+Wenn die Rituale der Übertragungsweg waren, müsste Kuru nach ihrem Ende verschwinden.
+
+Und langfristig tut es das auch.
+
+Nur eben nicht schnell.
+
+Neue Erkrankungen treten weiterhin auf, obwohl die betreffenden Menschen seit vielen Jahren keinen solchen Kontakt mehr hatten.
+
+Auf den ersten Blick könnte das gegen die Theorie sprechen.
+
+Tatsächlich liefert es einen der wichtigsten Hinweise auf die Krankheit.
+
+Die späteren Patienten sind überwiegend alt genug, um **vor** dem Ende der entsprechenden Praktiken exponiert worden zu sein.
+
+Die Ursache ihrer Erkrankung liegt nicht wenige Tage oder Monate zurück.
+
+Sie liegt teilweise **Jahrzehnte** zurück.
+
+Bei manchen Kuru-Fällen werden extrem lange Inkubationszeiten beobachtet, bis weit ins 21. Jahrhundert hinein.
+
+Damit entsteht eine ungewöhnliche Situation: Die Übertragung kann längst beendet sein, während Menschen weiterhin an alten Expositionen erkranken.
+
+Eine heutige Erkrankung bedeutet also nicht automatisch eine heutige Infektion.
+
+Der Körper trägt die Vergangenheit mit sich herum.
+
+Und nun bleibt noch die Frage, was für ein Erreger so lange warten kann.
+
+Die Antwort ist noch seltsamer als die Epidemie.
+
+## Ein infektiöser Erreger ohne eigenes Erbgut
+
+Bei Kuru handelt es sich um eine **Prionerkrankung**.
+
+Prionen funktionieren nicht wie Bakterien und auch nicht wie klassische Viren.
+
+Vereinfacht gesagt geht es um ein körpereigenes Protein, das eine falsche räumliche Form annimmt. Diese fehlgefaltete Form kann andere Proteine dazu bringen, ebenfalls in die problematische Form überzugehen.
+
+Man kann sich das ungefähr wie eine falsch gefaltete Schablone vorstellen, die normale Exemplare in denselben falschen Zustand zwingt.
+
+Mit der Zeit sammeln sich diese abnormalen Proteinformen an und schädigen Nervengewebe.
+
+Das ungewöhnliche daran ist fundamental: Für diesen infektiösen Prozess benötigt man keinen Erreger mit eigener DNA oder RNA im klassischen Sinn.
+
+Das erklärt, warum frühe Forscher vergeblich nach einem normalen Mikroorganismus suchten.
+
+Kuru half später wesentlich dabei, die größere Klasse der transmissiblen spongiformen Enzephalopathien zu verstehen. Die vollständige Priontheorie entstand nicht allein aus diesem einen Fall, aber Kuru war ein entscheidender Teil des wissenschaftlichen Puzzles.
+
+Und damit passen am Ende vier zunächst getrennte Geschichten zusammen.
+
+Die Ärzte beschreiben eine tödliche neurologische Erkrankung.
+
+Die Anthropologen zeigen, warum bestimmte Gruppen häufiger betroffen sind.
+
+Experimentelle Übertragung beweist, dass krankes Gewebe die Krankheit weitergeben kann.
+
+Und die Molekularbiologie erklärt schließlich, wie ein Protein selbst zum infektiösen Prinzip werden kann.
+
+## Der wichtigste Hinweis kam erst Jahre später
+
+Das Unheimlichste an Kuru ist vielleicht nicht die ungewöhnliche Biologie.
+
+Es ist die Zeit.
+
+Wir erwarten, dass Ursachen zeitlich halbwegs in der Nähe ihrer Folgen liegen.
+
+Du isst etwas Verdorbenes und wirst am nächsten Tag krank.
+
+Du wirst von einem Virus infiziert und bekommst einige Tage später Fieber.
+
+Bei Kuru konnte ein Mensch erkranken, während das entscheidende Ereignis Jahrzehnte zurücklag.
+
+Die Gemeinschaft hatte den Übertragungsweg bereits verändert.
+
+Die wissenschaftliche Erklärung war noch nicht vollständig.
+
+Und trotzdem kamen weiterhin neue Patienten.
+
+Jeder Fall sah aus wie etwas, das jetzt geschah.
+
+Biologisch hatte er möglicherweise in einer Bestattungszeremonie viele Jahre zuvor begonnen.
+
+Was zuerst wie eine mysteriöse Krankheit aussah, die durch Familien wanderte, erwies sich deshalb als etwas fast Archäologisches:
+
+eine alte Exposition, gespeichert in lebenden Körpern.
+
+Die Gefahr konnte verschwinden.
+
+Ihre Folgen brauchten wesentlich länger.
+
+## Quellen und Beleglage
+
+- [Wikipedia, „Kuru“](https://en.wikipedia.org/wiki/Kuru_(disease)), genutzt für klinische Verteilung, Forschungsgeschichte, Fore-Bestattungspraktiken, experimentelle Übertragung und die außergewöhnlich langen Inkubationszeiten.
+- [CDC, „About Prion Diseases“](https://www.cdc.gov/prions/about/index.html), genutzt für die heutige Erklärung von Prionproteinen, neurologischer Schädigung und tödlichem Verlauf.
+- Der vermutete Ursprung in einem einzelnen spontanen Prionfall ist eine Rekonstruktion und wird nicht als historisch identifizierter Patient dargestellt. Die Geschichte trennt bewusst zwischen dem belegten Übertragungsmechanismus und der später entwickelten molekularen Erklärung.
