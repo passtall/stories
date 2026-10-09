@@ -1,70 +1,268 @@
-# The Voices After Midnight
+# Die Stimmen nach Mitternacht
 
-Late on September 11, 1971, Robert Rowlands was listening to his radio in a flat in London's Wimpole Street when he picked up a conversation that did not sound intended for him. Men were discussing work, money, and whether to continue through the night. Someone was watching from a separate position. The speakers seemed to be inside a place they should not have entered.
+Spät am Abend des 11. September 1971 sitzt Robert Rowlands in seiner Wohnung in der Wimpole Street in London und hört Funk.
 
-Rowlands initially thought a nearby cigarette shop might be under attack. Around 11:30 p.m., he called the police. The response was skeptical. If there was something worth hearing, he was told, he should record it. He did. A small cassette recorder turned a strange reception into evidence that could be replayed to someone who had not been beside the radio at the crucial moment.
+Dann fängt sein Empfänger ein Gespräch auf, das ganz offensichtlich nicht für ihn bestimmt ist.
 
-## A crime with a running commentary
+Mehrere Männer reden über Arbeit, Geld und darüber, ob sie noch in dieser Nacht weitermachen sollen. Einer scheint an einem anderen Ort zu sitzen und die Umgebung zu beobachten. Die anderen befinden sich offenbar irgendwo in einem Gebäude.
 
-The voices kept talking. The details grew harder to reconcile with a harmless exchange. There was discussion of fumes, a break, a return in the morning, and sums of money that were far beyond the contents of an ordinary till. The lookout disagreed with the people doing the work. The argument itself supplied useful information: several participants occupied different positions and needed to coordinate what would happen next.
+Das Gespräch klingt nicht wie Funkamateure.
 
-Around two in the morning, Rowlands called Scotland Yard rather than repeating his original approach to the local station. Officers came to listen. This time the problem was not persuading police that something was happening. It was locating what was happening somewhere in a city full of buildings that could contain valuables.
+Es klingt wie ein Verbrechen.
 
-The radio signal placed the crime within a broad area, not at a street address. There was no handy map marker attached to an overheard transmission. Police sought help from banks and security staff and checked hundreds of premises in a radius of several miles. Rowlands and officers continued listening as the morning arrived and the voices returned.
+Gegen 23:30 Uhr ruft Rowlands die Polizei an.
 
-The situation was absurd in a very specific way. Investigators could hear criminals discussing their progress while still failing to find the room in which they were speaking. More information did not automatically become the right information. An exact statement about the work was less useful for intervention than a vague statement that happened to identify a building.
+Die Reaktion ist eher mäßig begeistert.
 
-## The secure door
+Wenn es wirklich etwas Interessantes zu hören gebe, solle er es aufnehmen.
 
-Among the premises police visited on Sunday was the Lloyds Bank branch at 185 Baker Street. From the accessible parts of the building, the vault appeared secure. Its time lock prevented staff from opening it for an immediate internal inspection. The ordinary security arrangement was doing what it was supposed to do: keeping the door unavailable outside its permitted hours.
+Also tut er genau das.
 
-That apparent reassurance rested on an unstated assumption about how an intruder would enter. A closed vault door could show that nobody had opened the vault door. It could not show that nobody was inside the vault. Police did not discover the burglary during that visit. Whether the gang was still inside at the moment of the check is not firmly established; accounts describe it as a possibility, not a scene that can be narrated with certainty.
+Ein kleiner Kassettenrekorder verwandelt ein seltsames Radiosignal in etwas, das später auch Menschen hören können, die nicht zufällig um Mitternacht neben Rowlands' Gerät saßen.
 
-On Monday morning, bank staff opened the vault. Hundreds of safe-deposit boxes had been attacked. A hole in the floor supplied the answer the front of the building had concealed. The route led through a tunnel to a shop two doors away.
+## Ein Einbruch mit Live-Kommentar
 
-The radio voices had not been a prank or an unrelated petty crime. Rowlands had been listening to a major burglary as it happened, within roughly half a mile of his home. Police had visited the correct bank and still missed the means of entry.
+Die Männer funken weiter.
 
-## The shop that had acquired a second purpose
+Sie sprechen über Dämpfe.
 
-The tunnel began beneath Le Sac, a leather-goods shop at 189 Baker Street. The lease had been acquired months earlier. To neighboring businesses, changes of tenancy and activity within a shop did not necessarily imply anything more than commercial life continuing. Beneath that ordinary cover, the gang had prepared a passage toward the bank.
+Über Pausen.
 
-Anthony Gavin was a principal organizer. Later accounts linked his plan to *The Red-Headed League*, the Sherlock Holmes story involving a tunnel into a bank. The literary connection is memorable, especially on Baker Street, but it should not be asked to prove more than the accounts support. A real tunnel, a rented property, and stolen contents explain the crime without requiring the neighborhood to have fulfilled a fictional destiny.
+Über Geldsummen, die viel zu groß sind, um zu einem normalen Ladendiebstahl zu passen.
 
-Another participant, Reg Tucker, had opened an account and rented a safe-deposit box. Customers were given privacy when accessing their property. Tucker used that legitimate access to observe and measure the room. Reporting describes him using his arm span, an umbrella, and the floor tiles as measuring aids. Those details come from reconstructed accounts of the planning, not from an investigator secretly watching him do it.
+Ein Mann scheint als Ausguck zu fungieren und streitet mit denen, die die eigentliche Arbeit erledigen.
 
-The crucial insight is simpler than the props. Security treated a paying customer as someone entitled to be in the vault. That provided repeated opportunities to collect information that would help approach it from outside. The bank did not have to be deceived about whether he was a customer; it had to be deceived about why he was one.
+Damit weiß Rowlands immer mehr darüber, **was** geschieht.
 
-## Beneath the reassurance
+Nur nicht, **wo**.
 
-The gang excavated over several weekends, leaving removed material in the shop. Their tunnel extended roughly forty feet and approached the vault floor from below. The work was difficult, and their initial attempt to force an opening did not succeed as planned. An old well beneath the working area complicated the application of pressure. They changed methods before eventually opening a hole.
+Gegen zwei Uhr morgens ruft er Scotland Yard an.
 
-By the weekend of the burglary, the vault's resistance had become a physical problem the gang had spent weeks studying. The usual front-facing defenses—doors, locks, and customer procedures—did not address the route they had prepared. Accounts also report that vibration alarms had been affected by nearby roadwork, making the timing especially favorable. That claim explains a potentially important protection, but the documented tunnel is stronger evidence than any sweeping assertion that the whole alarm system had simply been switched off.
+Diesmal kommen Beamte vorbei und hören selbst zu.
 
-Once inside, the gang targeted safe-deposit boxes rather than the bank's main cash safe. They opened 268 boxes. The total value taken is difficult to establish because privately stored property does not come with a single reliable public inventory. Estimates vary widely. A precise-looking figure would make the narrative tidier and the evidence worse.
+Nun glauben sie, dass tatsächlich irgendwo ein größerer Einbruch läuft.
 
-They used walkie-talkies to communicate with a lookout. This addressed one risk while creating another. People underground needed warning about what happened outside, but their messages travelled farther than the trusted listener on the roof. The device that made coordination possible also made the operation available to an unintended audience.
+Das Problem ist fast absurd.
 
-## The name on the lease
+Die Polizei kann die Täter reden hören.
 
-After discovery, investigators had an extensive physical scene: the tunnel, equipment, abandoned material, and the altered vault. They also had a comparatively mundane document. Benjamin Wolfe had signed the shop lease in his own name.
+Sie hört, wann sie weitermachen.
 
-The lease did not instantly convict everyone who had used the premises. It provided an identifiable starting point. Information from informers, examination of associates, and surveillance developed that lead into a group of suspects. By the end of October, police arrested Wolfe, Gavin, Tucker, and Thomas Stephens. Some of the stolen money had moved onward, adding another trail to investigate.
+Sie hört, wann sie Pause machen.
 
-The subsequent trial distinguished among defendants rather than treating every person near the money as automatically guilty. Two men charged with handling stolen property were acquitted. Gavin, Tucker, and Stephens received twelve-year sentences; Wolfe received eight years. Police recovered only a portion of the stolen property. The convictions resolved the main burglary even though not every reported participant was identified and not every box's contents were restored.
+Sie hört Diskussionen über ihre Beute.
 
-There was a final bureaucratic indignity for the person who had supplied the running commentary. Authorities considered whether Rowlands's listening might violate wireless-telegraphy rules. He was not prosecuted. The bank later sent him a reward. It had benefited from conduct someone briefly considered treating as an offense, though the benefit came through investigation rather than prevention.
+Aber London enthält sehr viele Gebäude mit Geld.
 
-## The story that grew afterward
+Das Funksignal grenzt den Bereich nur grob ein.
 
-Rumors attached themselves to the stolen boxes. Some versions involved embarrassing photographs of prominent people, secret official intervention, and suppression of reporting. These claims helped transform the burglary into material for a film and a much more elaborate popular legend.
+Also beginnt die Polizei, Banken und andere mögliche Ziele in einem Radius von mehreren Meilen zu überprüfen.
 
-The existence of private boxes and restricted records is not evidence for a particular sensational content. A temporary decision to avoid revealing police monitoring while criminals were still active is not, by itself, proof of a state conspiracy. The documented crime already contains an extraordinary failure and an effective investigation. It does not need a royal photograph to become interesting.
+Hunderte Gebäude kommen infrage.
 
-Its sharpest irony is the secure vault door. People searched for a broken boundary and found a boundary apparently intact. The gang had spent weeks making another one irrelevant. Rowlands, meanwhile, encountered the opposite problem: a boundary that should have kept a conversation private did not exist at all.
+Und die Stimmen senden weiter.
 
-A bank could contain a burglary behind a locked door, and a flat half a mile away could contain the evidence of it. The investigators' task was to recognize that those two facts belonged to the same event. By the time they did, the voices had stopped. The lease, less dramatic than anything on the tape, remained.
+## Die verschlossene Tresortür
 
-## Sources and evidence
+Zu den überprüften Gebäuden gehört am Sonntag auch die Lloyds-Bankfiliale in **185 Baker Street**.
 
-- [Wikipedia, “Baker Street robbery”](https://en.wikipedia.org/wiki/Baker_Street_robbery), consulted for Rowlands's calls, the recording, police visits, tunnel reconstruction, arrests, verdicts, and the unsupported later rumors.
-- Reconstructions of measurement and planning are described as reported accounts. The narrative does not claim the gang was certainly present when police visited on Sunday, does not fix an uncertain haul at a single exact value, and does not repeat the royal-blackmail story as fact.
+Von den zugänglichen Bereichen aus sieht alles in Ordnung aus.
+
+Die Tresortür ist geschlossen.
+
+Sie besitzt eine Zeitschaltung und kann nicht einfach geöffnet werden, nur weil die Polizei gern kurz hineinsehen würde.
+
+Das klingt beruhigend.
+
+Nur beruht diese Beruhigung auf einer unausgesprochenen Annahme:
+
+Wer im Tresorraum ist, muss durch die Tresortür hineingekommen sein.
+
+Die Beamten finden bei dieser Kontrolle nichts.
+
+Ob die Täter in genau diesem Moment noch im Tresorraum waren, lässt sich aus den Quellen nicht sicher rekonstruieren. Die hübsche Filmszene, in der Polizei und Einbrecher nur durch eine Wand getrennt sind, ist möglich, aber nicht sauber belegt.
+
+Am Montagmorgen öffnet die Bank.
+
+Und dann wird klar, was passiert ist.
+
+Hunderte Schließfächer sind aufgebrochen.
+
+Im Boden des Tresorraums befindet sich ein Loch.
+
+Dahinter führt ein Tunnel zu einem Geschäft zwei Häuser weiter.
+
+Rowlands hatte tatsächlich einen großen Bankeinbruch live mitgehört.
+
+Die Polizei war sogar in der richtigen Bank gewesen.
+
+Sie hatte nur die falsche Grenze überprüft.
+
+## Das Lederwarengeschäft
+
+Der Tunnel beginnt unter **Le Sac**, einem Lederwarengeschäft in 189 Baker Street.
+
+Das Geschäft war Monate zuvor angemietet worden.
+
+Nach außen sieht das vollkommen normal aus. Läden wechseln Besitzer. Räume werden renoviert. In Kellern wird gearbeitet.
+
+Unterhalb dieser gewöhnlichen Fassade bereitet eine Gruppe jedoch einen Tunnel Richtung Bank vor.
+
+Einer der zentralen Organisatoren ist **Anthony Gavin**.
+
+Spätere Berichte erzählen gern, er habe sich von Sherlock Holmes' Geschichte *The Red-Headed League* inspirieren lassen, in der ebenfalls ein Tunnel zu einer Bank gegraben wird.
+
+Auf Baker Street ist diese Verbindung natürlich fast zu schön.
+
+Sie ist aber nicht nötig, um den realen Fall interessant zu machen.
+
+Ein angemietetes Geschäft.
+
+Ein echter Tunnel.
+
+Eine Bank.
+
+Das reicht vollkommen.
+
+Ein weiterer Beteiligter, **Reg Tucker**, mietet sogar ganz offiziell ein Schließfach in der Bank.
+
+Als zahlender Kunde darf er den Tresorraum betreten.
+
+Diese legitime Zugangsberechtigung nutzt er, um den Raum auszumessen und sich seine Struktur einzuprägen.
+
+Berichte beschreiben improvisierte Messmethoden mit Körpermaßen, Regenschirm und Bodenfliesen.
+
+Ob jedes Detail exakt so stattfand, ist weniger wichtig als der Kern.
+
+Die Bank musste nicht darüber getäuscht werden, **ob** Tucker Kunde war.
+
+Er war Kunde.
+
+Sie musste nur nicht merken, **warum** er einer war.
+
+## Unter der Bank
+
+Über mehrere Wochenenden gräbt die Gruppe vom Geschäft aus einen ungefähr zwölf Meter langen Tunnel.
+
+Der ausgehobene Boden bleibt teilweise im Laden.
+
+Der Tunnel nähert sich dem Tresorraum von unten.
+
+Die Arbeit ist schwieriger als geplant. Unter dem Gebäude befindet sich ein alter Brunnen beziehungsweise eine problematische Struktur, die den Versuch erschwert, den Tresorboden zu durchbrechen.
+
+Die Täter müssen ihre Methode ändern.
+
+Schließlich gelingt ihnen der Durchbruch.
+
+Und damit werden all die offensichtlichen Sicherheitsmaßnahmen der Bank plötzlich erstaunlich irrelevant.
+
+Tresortür?
+
+Geschlossen.
+
+Schlösser?
+
+Unberührt.
+
+Zugangskontrolle?
+
+Funktioniert.
+
+Nur kommt niemand durch diese Richtung.
+
+Die Täter steigen von unten ein.
+
+Im Tresorraum öffnen sie **268 Schließfächer**.
+
+Wie viel sie tatsächlich erbeuten, ist bis heute schwer exakt zu sagen, weil private Schließfächer naturgemäß keine zentrale öffentliche Inventarliste besitzen.
+
+Dann begehen sie den Fehler, der Rowlands überhaupt erst in die Geschichte bringt.
+
+Sie verwenden Funkgeräte.
+
+Das löst ein praktisches Problem. Die Männer unter der Erde müssen mit einem Ausguck kommunizieren.
+
+Gleichzeitig senden ihre Gespräche weit über den Kreis der vorgesehenen Zuhörer hinaus.
+
+In einer Wohnung ungefähr eine halbe Meile entfernt sitzt ein Mann mit einem Radio.
+
+Und hört mit.
+
+## Der Name auf dem Mietvertrag
+
+Als der Einbruch entdeckt wird, besitzt die Polizei plötzlich sehr viel mehr als ein mysteriöses Funksignal.
+
+Es gibt den Tunnel.
+
+Werkzeuge.
+
+Material.
+
+Das gemietete Geschäft.
+
+Und vor allem einen Mietvertrag.
+
+**Benjamin Wolfe** hatte den Laden unter seinem echten Namen angemietet.
+
+Das ist weniger glamourös als Funkpeilung und Tunnelarchäologie, aber erheblich nützlicher.
+
+Ein Mietvertrag liefert einen Menschen.
+
+Von dort aus arbeiten sich Ermittler über Kontakte, Informanten und Überwachung zu weiteren Beteiligten vor.
+
+Bis Ende Oktober werden Wolfe, Gavin, Tucker und **Thomas Stephens** festgenommen.
+
+Teile der Beute können verfolgt beziehungsweise sichergestellt werden.
+
+Vor Gericht werden nicht einfach alle Menschen verurteilt, die irgendwie mit gestohlenen Gegenständen in Berührung kamen. Zwei wegen Hehlerei angeklagte Männer werden freigesprochen.
+
+Gavin, Tucker und Stephens erhalten zwölf Jahre Haft.
+
+Wolfe acht Jahre.
+
+Ein großer Teil der Beute bleibt verschwunden.
+
+## Die Geschichte wird später noch schöner, als sie belegt ist
+
+Wie bei spektakulären Schließfachdiebstählen üblich wachsen später Legenden.
+
+In manchen Versionen befanden sich in den Fächern kompromittierende Fotos prominenter Personen.
+
+Andere Geschichten behaupten, staatliche Stellen hätten Berichterstattung unterdrückt, um bestimmte Geheimnisse zu schützen.
+
+Solche Erzählungen sind hervorragend geeignet, aus einem ohnehin filmreifen Einbruch noch einen politischen Thriller zu bauen.
+
+Belegt sind sie nicht in derselben Qualität wie der Tunnel, die Verhaftungen und die Gerichtsverfahren.
+
+Und ehrlich gesagt braucht dieser Fall die Zusatzlegende nicht.
+
+Seine beste Ironie steckt bereits in der Nacht selbst.
+
+Die Polizei sucht nach einem Einbruch und findet eine verschlossene Tresortür.
+
+Die Tür ist tatsächlich sicher.
+
+Nur hat niemand die Tür benutzt.
+
+Gleichzeitig glauben die Täter, ihre Gespräche seien auf ihren kleinen Funkkreis beschränkt.
+
+Auch diese Grenze existiert nur in ihrer Vorstellung.
+
+Die Bank schützt die falsche Wand.
+
+Die Einbrecher schützen die falsche Funkreichweite.
+
+Und am Ende bleibt ausgerechnet der langweiligste Beweis am zuverlässigsten:
+
+nicht die Aufnahme.
+
+nicht der Tunnel.
+
+nicht irgendein geheimnisvolles Foto.
+
+Sondern ein Mann, der einen Mietvertrag mit seinem eigenen Namen unterschrieben hat.
+
+## Quellen und Beleglage
+
+- [Wikipedia, „Baker Street robbery“](https://en.wikipedia.org/wiki/Baker_Street_robbery), genutzt für Rowlands' Anrufe, die Aufnahme, die Polizeikontrollen, Tunnel, Festnahmen, Urteile und die späteren unbewiesenen Legenden.
+- Rekonstruktionen der Vermessung und Planung werden als spätere Berichte behandelt. Die Geschichte behauptet nicht, dass die Täter bei der Polizeikontrolle am Sonntag nachweislich noch im Tresor waren, und legt sich bei der unsicheren Gesamthöhe der Beute nicht auf eine künstlich exakte Zahl fest.
