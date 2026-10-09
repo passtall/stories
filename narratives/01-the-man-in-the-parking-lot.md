@@ -1,247 +1,249 @@
-# The Man in the Parking Lot
+# Der Mann auf dem Parkplatz
 
-On the afternoon of August 28, 2003, a forty-six-year-old pizza delivery driver named Brian Wells walked into a PNC Bank outside Erie, Pennsylvania. He was carrying what looked like a homemade walking cane. Under his shirt was something much stranger: a heavy metal collar locked around his neck, connected to a box-like device sitting against his chest.
+Am Nachmittag des 28. August 2003 betritt der 46-jährige Pizzabote Brian Wells eine PNC-Bank außerhalb von Erie, Pennsylvania. In der Hand trägt er etwas, das wie ein selbstgebauter Spazierstock aussieht. Unter seinem Hemd befindet sich etwas deutlich Merkwürdigeres: ein schwerer Metallkragen ist um seinen Hals geschlossen und mit einem kastenförmigen Gerät verbunden, das auf seiner Brust liegt.
 
-Wells handed a teller a note demanding $250,000. He showed her the device and made clear that there was a bomb involved. The cane, meanwhile, was not a cane at all. It had been built to conceal a gun.
+Wells reicht einer Bankangestellten einen Zettel. Darauf fordert er 250.000 Dollar. Er zeigt ihr das Gerät und macht klar, dass eine Bombe im Spiel ist. Der Spazierstock ist ebenfalls nicht das, was er zu sein scheint. In seinem Inneren verbirgt sich eine Schusswaffe.
 
-The teller could not produce anything close to a quarter of a million dollars. She gathered what was available from the drawers and handed Wells $8,702. He took the money, left the bank, got back into his car and drove away.
+Die Angestellte kann unmöglich eine Viertelmillion Dollar auftreiben. Sie sammelt, was in den Kassen verfügbar ist, und übergibt Wells 8.702 Dollar. Er nimmt das Geld, verlässt die Bank, steigt in sein Auto und fährt davon.
 
-If that were all anyone knew, the obvious conclusion would have been that this was an unusually theatrical bank robbery. A man had disguised a firearm, strapped what appeared to be an explosive device to himself, and tried to intimidate a teller into handing over a large amount of cash.
+Wenn man nur diese ersten Minuten kennen würde, wäre die naheliegende Erklärung simpel: ein ungewöhnlich theatralischer Bankraub. Ein Mann hat eine Waffe getarnt, sich offenbar selbst einen Sprengsatz umgehängt und versucht, eine Bankangestellte mit möglichst viel Schrecken zur Herausgabe von Geld zu bewegen.
 
-That interpretation lasted only a few minutes.
+Diese Erklärung hält nur wenige Minuten.
 
-## The robber who said he was a hostage
+## Der Räuber, der behauptet, eine Geisel zu sein
 
-Wells did not get far. Pennsylvania State Police stopped him near the bank in the parking lot of an Eyeglass World store. Officers ordered him out of the vehicle, handcuffed him behind his back and sat him on the pavement.
+Wells kommt nicht weit. Die Pennsylvania State Police stoppt ihn in der Nähe der Bank auf dem Parkplatz eines Eyeglass-World-Geschäfts. Die Beamten befehlen ihm auszusteigen, legen ihm hinter dem Rücken Handschellen an und setzen ihn auf den Asphalt.
 
-Then Wells began telling them that the bomb was real.
+Dann beginnt Wells ihnen zu erklären, dass die Bombe echt sei.
 
-He said men had forced the device onto him. He said he had been sent to rob the bank. He said he did not have much time.
+Männer hätten ihm das Gerät gegen seinen Willen umgelegt. Sie hätten ihn gezwungen, die Bank zu überfallen. Er habe nicht mehr viel Zeit.
 
-This immediately created a problem for the police. The man in front of them had undeniably just committed an armed bank robbery. He had carried a disguised gun and a demand note into a bank and walked out with thousands of dollars. But he was also sitting on the asphalt with a locked metal collar around his neck, insisting that he had been forced into the crime.
+Damit hat die Polizei plötzlich ein ausgesprochen unangenehmes Problem. Der Mann vor ihr hat zweifellos gerade einen bewaffneten Bankraub begangen. Er ist mit einer getarnten Schusswaffe und einem Forderungsschreiben in eine Bank gegangen und mit mehreren Tausend Dollar wieder herausgekommen. Gleichzeitig sitzt er nun mit einem verriegelten Metallkragen um den Hals auf dem Boden und behauptet, selbst zu der Tat gezwungen worden zu sein.
 
-The officers could not simply walk up and inspect the device. If it was real, the person who had built it might have included anti-tamper mechanisms. Moving Wells could make things worse. Cutting the collar could make things worse. Treating it as a fake could make things catastrophically worse.
+Die Beamten können nicht einfach hingehen und das Gerät untersuchen. Wenn es echt ist, könnte der Konstrukteur Sicherungen gegen Manipulation eingebaut haben. Wells zu bewegen könnte alles verschlimmern. Den Kragen aufzuschneiden könnte alles verschlimmern. Das Ganze für eine Attrappe zu halten könnte alles katastrophal verschlimmern.
 
-So the area was cleared and a bomb squad was called.
+Also wird der Bereich geräumt und das Bombenentschärfungskommando gerufen.
 
-While everyone waited, Wells sat handcuffed in the parking lot. Television cameras eventually arrived and captured one of the strangest crime scenes in modern American history: a bank robber surrounded at a distance by police, calmly but increasingly desperately explaining that the thing around his neck was going to explode.
+Während alle warten, sitzt Wells mit Handschellen auf dem Parkplatz. Schließlich treffen Fernsehteams ein und filmen eine der bizarrsten Tatortszenen der jüngeren US-Kriminalgeschichte: einen Bankräuber, den die Polizei aus sicherer Entfernung umstellt, während er zunehmend verzweifelt erklärt, dass das Ding um seinen Hals explodieren werde.
 
-He was right.
+Er hat recht.
 
-Before the bomb squad reached him, the device detonated. Wells died in the parking lot.
+Bevor das Bombenkommando ihn erreicht, detoniert das Gerät. Brian Wells stirbt auf dem Parkplatz.
 
-The police now had the bank's money back, the apparent robber was dead, and the object around his neck had proved beyond argument that this had not been an ordinary robbery.
+Die Polizei hat nun das Geld der Bank zurück. Der offensichtliche Räuber ist tot. Und das Gerät an seinem Hals hat unmissverständlich bewiesen, dass dies kein gewöhnlicher Banküberfall war.
 
-The question was what, exactly, it had been.
+Die Frage ist nur: Was war es dann?
 
-## The scavenger hunt
+## Die Schnitzeljagd
 
-Investigators found that Wells had been carrying more than the bank demand note. He had a set of detailed written instructions.
+Die Ermittler stellen fest, dass Wells nicht nur den Forderungszettel aus der Bank bei sich hatte. Er trug eine ganze Reihe detaillierter schriftlicher Anweisungen.
 
-The robbery was only the first task.
+Der Bankraub war lediglich die erste Aufgabe.
 
-After leaving the bank, Wells was told to go to a nearby McDonald's, where another note had been hidden beneath a rock. That note was supposed to send him onward to another location, then another. The instructions presented the route as a timed scavenger hunt. Complete the tasks quickly enough, and he would supposedly receive information that could help remove or disable the bomb.
+Nach Verlassen der Bank sollte Wells zu einem nahe gelegenen McDonald's fahren. Unter einem Stein war dort eine weitere Nachricht versteckt. Diese sollte ihn zum nächsten Ort schicken, dann zum nächsten. Die Anweisungen inszenierten die Route wie eine Schnitzeljagd unter Zeitdruck. Wenn Wells die Aufgaben schnell genug erledigte, sollte er angeblich Informationen bekommen, mit denen sich die Bombe entfernen oder entschärfen ließ.
 
-It was an extraordinarily cruel design because it gave the wearer something psychologically useful: a next step.
+Das ist psychologisch besonders perfide, weil es dem Träger etwas gibt, das in einer solchen Situation enorm wertvoll ist: einen nächsten Schritt.
 
-As long as there was another destination, there was still the possibility that obedience might lead to survival. Do what the page says. Drive faster. Find the next clue. Earn more time. Reach the final instruction.
+Solange es noch einen weiteren Zielort gibt, besteht zumindest die Hoffnung, dass Gehorsam zum Überleben führen könnte. Tu, was auf dem Zettel steht. Fahr schneller. Finde den nächsten Hinweis. Gewinne mehr Zeit. Erreiche die letzte Anweisung.
 
-The FBI reconstructed the route.
+Das FBI rekonstruiert später die Strecke.
 
-There was a problem.
+Und stößt auf ein Problem.
 
-It could not realistically be completed within the time available.
+Sie ist innerhalb der vorgegebenen Zeit praktisch nicht zu schaffen.
 
-The first emergency call about the bank robbery came at approximately 2:38 p.m. The bomb exploded around forty minutes later. The written sequence gave Wells roughly fifty-five minutes to complete several stops and tasks before reaching what was represented as the path to disarming the device. Investigators concluded that the schedule itself was effectively impossible.
+Der erste Notruf wegen des Bankraubs geht ungefähr um 14:38 Uhr ein. Rund vierzig Minuten später explodiert die Bombe. Die schriftliche Abfolge gab Wells etwa 55 Minuten für mehrere Stationen und Aufgaben, bevor er angeblich zu einem Punkt gelangen sollte, an dem die Entschärfung möglich gewesen wäre. Die Ermittler kommen zu dem Schluss, dass der Zeitplan selbst faktisch unmöglich war.
 
-The promise of escape was therefore almost certainly part of the control mechanism.
+Damit wird die versprochene Fluchtmöglichkeit zu einem Teil des Kontrollsystems.
 
-The instructions were not a rescue plan. They were another component of the bomb.
+Die Anweisungen waren kein Rettungsplan.
 
-And the bomb itself was no crude prop. The metal frame around Wells's neck had been deliberately fabricated. The collar was locked. The explosive box was attached to it. The construction included features intended to complicate interpretation and make tampering dangerous. Whoever had designed the device had put real thought into the problem of controlling the person wearing it.
+Sie waren ein weiterer Bestandteil der Bombe.
 
-That raised a darker possibility. Perhaps the robbery was not the main crime at all. Perhaps the bank was only one stage in a plan whose architects expected the man wearing the collar to die.
+Auch der Sprengsatz selbst war keine improvisierte Attrappe. Der Metallrahmen um Wells' Hals war bewusst angefertigt worden. Der Kragen war verriegelt. Der Sprengsatz war daran befestigt. Die Konstruktion enthielt Elemente, die das Verständnis erschweren und Manipulation gefährlich machen sollten. Wer dieses Gerät gebaut hatte, hatte ernsthaft darüber nachgedacht, wie man die Person darin kontrolliert.
 
-But to understand why anyone would build such a thing, investigators had to work backwards.
+Das eröffnet eine noch düsterere Möglichkeit. Vielleicht war der Bankraub gar nicht das eigentliche Verbrechen. Vielleicht war die Bank nur eine Etappe in einem Plan, dessen Erfinder von Anfang an damit rechneten, dass der Mann im Kragen sterben würde.
 
-They started with the pizza.
+Um herauszufinden, warum irgendjemand so etwas bauen sollte, müssen die Ermittler rückwärts arbeiten.
 
-## The last delivery
+Sie beginnen mit der Pizza.
 
-Before the robbery, Wells had been working his normal job at Mama Mia's Pizzeria. He had been a delivery driver there for years and was well known to regular customers.
+## Die letzte Lieferung
 
-That afternoon, the pizzeria received an order for two pizzas to be delivered to a television transmission tower at the end of a dirt road off Peach Street.
+Vor dem Bankraub hatte Wells ganz normal bei Mama Mia's Pizzeria gearbeitet. Er war dort seit Jahren als Lieferfahrer beschäftigt und vielen Stammkunden bekannt.
 
-It was an odd delivery address, but not impossible. Wells took the order.
+An diesem Nachmittag erhält die Pizzeria eine Bestellung über zwei Pizzen. Lieferadresse: ein Fernsehsendemast am Ende einer unbefestigten Straße nahe der Peach Street.
 
-Sometime after arriving near the tower, he encountered the people behind the robbery. When he later emerged, the metal collar was around his neck, the bomb was attached to him, and he had the cane-gun and the instructions.
+Eine merkwürdige Adresse, aber keine unmögliche. Wells übernimmt die Lieferung.
 
-The isolated tower site was nearly ideal for what had happened. A pizza driver could be summoned there without attracting attention, and anyone waiting for him would have privacy.
+Irgendwann nach seiner Ankunft am Sendemast trifft er dort auf die Menschen hinter dem Überfall. Als er später wieder auftaucht, trägt er den Metallkragen um den Hals, die Bombe ist an ihm befestigt, und er besitzt sowohl die getarnte Stockwaffe als auch die schriftlichen Anweisungen.
 
-The investigators now had a geographical starting point.
+Der abgelegene Ort war für so etwas beinahe ideal. Man konnte einen Pizzaboten dorthin bestellen, ohne Aufsehen zu erregen, und wer dort auf ihn wartete, hatte genügend Privatsphäre.
 
-But one question immediately became central: had Wells gone there as an entirely unsuspecting victim, or had he known that some kind of robbery was planned?
+Die Ermittler besitzen nun zumindest einen geografischen Ausgangspunkt.
 
-Wells himself had told police that strangers had forced the bomb onto him. His family maintained that he had been an innocent delivery driver trapped in a nightmare.
+Aber eine Frage wird sofort zentral: War Wells völlig ahnungslos dorthin gefahren, oder wusste er bereits, dass irgendein Bankraub geplant war?
 
-Federal prosecutors would eventually present a more complicated version. Their case was that Wells had initially agreed to participate in a robbery involving what he believed would be a fake bomb, but that the plan changed when he discovered the collar was real. Kenneth Barnes, one of the conspirators who later cooperated with prosecutors, testified that Wells had expected a harmless device and became frightened when he realized what was actually being placed around his neck.
+Wells selbst hatte der Polizei gesagt, Fremde hätten ihm die Bombe gegen seinen Willen angelegt. Seine Familie bestand später darauf, er sei ein unschuldiger Pizzabote gewesen, der in einen Albtraum geraten war.
 
-That distinction matters enormously when judging Wells's role, and it was never tested in a trial of Wells himself because he was dead. The later criminal convictions established a conspiracy around the robbery and bomb, but they do not magically turn every disputed detail about Wells's advance knowledge into certainty.
+Die Bundesstaatsanwaltschaft wird Jahre später eine kompliziertere Version vertreten. Ihrer Darstellung zufolge hatte Wells zunächst zugestimmt, bei einem Bankraub mitzumachen, bei dem er glaubte, eine Attrappe tragen zu sollen. Erst am Sendemast habe er erkannt, dass die Bombe echt war. Kenneth Barnes, einer der später kooperierenden Mitverschwörer, sagte aus, Wells habe mit einem harmlosen Gerät gerechnet und sei in Panik geraten, als ihm klar wurde, was man ihm tatsächlich um den Hals legte.
 
-For the investigators in 2003, however, even that argument was still years away.
+Diese Unterscheidung ist für die Beurteilung von Wells' Rolle enorm wichtig. Gleichzeitig wurde sie nie in einem Prozess gegen Wells selbst geprüft, weil er bereits tot war. Die späteren Verurteilungen bewiesen eine reale Verschwörung rund um den Bankraub und die Bombe. Sie verwandeln aber nicht automatisch jedes strittige Detail über Wells' Vorwissen in eine gesicherte Tatsache.
 
-At first they simply had a tower, a bomb, a dead pizza driver and a trail of instructions that appeared designed to waste his remaining time.
+Für die Ermittler im Jahr 2003 liegt diese Debatte ohnehin noch Jahre in der Zukunft.
 
-Then, less than a month later, a man living almost next door to the tower called the police and announced that there was a dead body in his freezer.
+Zunächst haben sie nur einen Sendemast, eine echte Bombe, einen toten Pizzaboten und eine Spur aus Anweisungen, die offenbar darauf angelegt war, seine verbleibende Zeit zu verbrauchen.
 
-## The body in William Rothstein's garage
+Dann, weniger als einen Monat später, ruft ein Mann, der fast direkt neben dem Sendemast wohnt, die Polizei an und erklärt, in seiner Gefriertruhe liege eine Leiche.
 
-On September 20, 2003, William Rothstein called 911 from his property on Peach Street.
+## Die Leiche in William Rothsteins Garage
 
-He told the dispatcher that there was a frozen body in his garage.
+Am 20. September 2003 wählt William Rothstein von seinem Grundstück an der Peach Street aus den Notruf.
 
-Police arrived and discovered the corpse of forty-five-year-old James Roden inside a chest freezer.
+Er erklärt dem Dispatcher, in seiner Garage befinde sich eine eingefrorene Leiche.
 
-Rothstein had a story. Roden, he said, had been killed by a woman named Marjorie Diehl-Armstrong, a former girlfriend of Rothstein's and Roden's current partner. According to Rothstein, Diehl-Armstrong had shot Roden during an argument and then asked Rothstein to help dispose of the body. He had cleaned up evidence, hidden the corpse and even worked on destroying the murder weapon.
+Die Polizei fährt hin und findet in einer Gefriertruhe den Körper des 45-jährigen James Roden.
 
-That alone would have been an impressive amount of trouble for one address.
+Rothstein hat eine Geschichte dazu. Roden, sagt er, sei von einer Frau namens Marjorie Diehl-Armstrong getötet worden. Sie war eine frühere Freundin Rothsteins und zu diesem Zeitpunkt Rodens Partnerin. Laut Rothstein hatte Diehl-Armstrong Roden während eines Streits erschossen und ihn anschließend gebeten, bei der Beseitigung der Leiche zu helfen. Er habe Spuren beseitigt, den Körper versteckt und sogar daran gearbeitet, die Tatwaffe zu vernichten.
 
-Then investigators found a note Rothstein had written while contemplating suicide.
+Das wäre für eine einzige Adresse bereits ein bemerkenswertes Maß an Ärger gewesen.
 
-It identified the body in the freezer and denied that Rothstein had killed Roden.
+Dann finden die Ermittler einen Zettel, den Rothstein geschrieben hatte, als er über Selbstmord nachdachte.
 
-It also opened with an extraordinarily specific disclaimer:
+Darin erklärt er, wer in der Gefriertruhe liegt, und bestreitet, Roden selbst getötet zu haben.
 
-"This has nothing to do with the Wells case."
+Der Text beginnt außerdem mit einer erstaunlich spezifischen Versicherung:
 
-At the time, police had not accused Rothstein of having anything to do with Wells.
+"Das hat nichts mit dem Fall Wells zu tun."
 
-This was the sort of sentence that tends to make investigators more curious rather than less.
+Zu diesem Zeitpunkt hatte die Polizei Rothstein überhaupt nicht beschuldigt, irgendetwas mit Brian Wells zu tun zu haben.
 
-And Rothstein's property sat beside the road leading to the television tower where Wells had made his final pizza delivery.
+Es ist die Art von Satz, die Ermittler normalerweise neugieriger macht, nicht beruhigter.
 
-There was another detail. Rothstein was not merely some random homeowner living near the relevant location. He was mechanically talented. He had worked as a handyman and shop teacher and possessed exactly the sort of practical fabrication skills investigators would later find interesting when considering the construction of the collar bomb.
+Und Rothsteins Grundstück liegt direkt an der Straße, die zu jenem Fernsehsendemast führt, an dem Wells seine letzte Pizza ausgeliefert hatte.
 
-Initially, the FBI publicly said it had no evidence connecting the freezer case to Wells's death. That was true at the time. Coincidence is not evidence, and "strange man near crime scene owns tools" is not a prosecutable theory.
+Dann gibt es noch ein Detail. Rothstein war nicht einfach irgendein Nachbar mit ungünstiger Wohnlage. Er war handwerklich und mechanisch sehr begabt. Er hatte als Handwerker und Werklehrer gearbeitet und besaß genau die praktischen Fähigkeiten, die für Ermittler später interessant werden sollten, als sie sich fragten, wer einen solchen Bombenkragen überhaupt bauen konnte.
 
-But the circle around the mystery had suddenly become much smaller.
+Das FBI erklärt zunächst öffentlich, es gebe keinen Beweis für eine Verbindung zwischen der Leiche in der Gefriertruhe und Wells' Tod. Das war zu diesem Zeitpunkt korrekt. Zufall ist kein Beweis, und "merkwürdiger Mann in Tatortnähe besitzt Werkzeug" ist noch keine anklagefähige Theorie.
 
-Rothstein led police to Diehl-Armstrong. Diehl-Armstrong eventually pleaded guilty but mentally ill to killing Roden.
+Aber der Kreis um das Rätsel ist plötzlich deutlich kleiner geworden.
 
-And as investigators dug into her relationships, another name kept appearing.
+Über Rothstein gelangen die Ermittler zu Diehl-Armstrong. Sie bekennt sich später wegen der Tötung Rodens schuldig, jedoch unter Anerkennung einer psychischen Erkrankung.
+
+Und je tiefer die Ermittler in ihre Beziehungen eindringen, desto häufiger taucht ein weiterer Name auf.
 
 Kenneth Barnes.
 
-## A robbery to pay for another murder
+## Ein Bankraub, um einen weiteren Mord zu bezahlen
 
-Barnes had known Diehl-Armstrong for years. According to the case later accepted by federal courts, she had approached him with a proposition: she wanted her father killed.
+Barnes kannte Diehl-Armstrong seit Jahren. Nach der Darstellung, die später vor Bundesgerichten Bestand hatte, machte sie ihm irgendwann einen Vorschlag: Sie wollte ihren Vater töten lassen.
 
-She believed she would benefit financially from his death and offered Barnes money to do it.
+Sie glaubte, finanziell von seinem Tod zu profitieren, und bot Barnes Geld dafür an.
 
-The problem was obtaining the money.
+Das Problem war nur, dieses Geld überhaupt aufzutreiben.
 
-That was where the bank robbery came in.
+Hier kommt der Bankraub ins Spiel.
 
-The prosecution's reconstruction was bizarre even by the standards of a case that already contained a cane-gun, a timed bomb collar and a corpse in a freezer. Diehl-Armstrong and Barnes discussed using a bank robbery to obtain enough money to finance the murder of her father. The planned demand was $250,000.
+Die Rekonstruktion der Staatsanwaltschaft ist selbst für einen Fall grotesk, in dem bereits eine getarnte Stockwaffe, ein Bombenkragen mit Zeitschaltung und eine Leiche in einer Gefriertruhe vorkommen. Diehl-Armstrong und Barnes diskutierten, einen Bankraub zu nutzen, um genug Geld für die Ermordung ihres Vaters zu beschaffen. Die geplante Forderung betrug 250.000 Dollar.
 
-At a gathering in 2003, the robbery plan was discussed among a small group that included Diehl-Armstrong, Barnes, Rothstein and James Roden.
+Bei einem Treffen im Jahr 2003 wird der Raubplan in einer kleinen Gruppe besprochen. Dazu gehören Diehl-Armstrong, Barnes, Rothstein und James Roden.
 
-Roden objected.
+Roden widerspricht.
 
-According to the later court record, he threatened to go to police.
+Laut den späteren Gerichtsakten droht er damit, zur Polizei zu gehen.
 
-In August, before the collar-bomb robbery took place, Diehl-Armstrong shot him.
+Im August, noch bevor der Bombenkragen-Raub stattfindet, erschießt Diehl-Armstrong ihn.
 
-Then she asked Rothstein to help hide his body.
+Danach bittet sie Rothstein, bei der Beseitigung der Leiche zu helfen.
 
-Rothstein put Roden in the freezer.
+Rothstein legt Roden in die Gefriertruhe.
 
-A few weeks later, Brian Wells received the pizza order that led him to the television tower near Rothstein's property.
+Einige Wochen später erhält Brian Wells jene Pizzabestellung, die ihn zum Sendemast in der Nähe von Rothsteins Grundstück führt.
 
-The separate grotesque stories were beginning to collapse into a single one.
+Die zwei grotesken Geschichten beginnen zu einer einzigen zusammenzufallen.
 
-The body in the freezer was not an unrelated murder that happened to occur beside the starting point of the collar-bomb route. Roden had known about the robbery plot. His death removed someone who objected to it. Rothstein, the man storing his corpse, was part of the same social circle later tied to the bomb conspiracy.
+Die Leiche in der Gefriertruhe war kein unabhängiger Mord, der rein zufällig neben dem Ausgangspunkt der Bombenroute stattgefunden hatte. Roden wusste vom Raubplan. Sein Tod beseitigte jemanden, der dagegen war. Und Rothstein, der Mann, der seine Leiche versteckte, gehörte zu genau jenem sozialen Kreis, der später mit der Bombenverschwörung verbunden wurde.
 
-Rothstein died of cancer in 2004 before he could ever be tried for the collar-bomb case.
+Rothstein stirbt 2004 an Krebs, bevor ihm im Zusammenhang mit dem Bombenkragen-Fall jemals der Prozess gemacht werden kann.
 
-For investigators, that was a serious loss. A man who appeared to sit near the center of the physical preparations was gone, leaving behind statements, evidence, and a remarkably unhelpful note insisting that none of this had anything to do with Brian Wells.
+Für die Ermittler ist das ein schwerer Verlust. Ein Mann, der offenbar nahe am Zentrum der praktischen Vorbereitungen stand, ist tot. Zurück bleiben Aussagen, Spuren und ein bemerkenswert wenig hilfreicher Zettel, auf dem ausgerechnet steht, all das habe nichts mit Brian Wells zu tun.
 
-The case still needed someone alive to explain how the plan had worked.
+Der Fall braucht nun jemanden, der noch lebt und erklären kann, wie der Plan tatsächlich funktioniert haben soll.
 
-Eventually, Kenneth Barnes did.
+Irgendwann tut Kenneth Barnes genau das.
 
-## What the prosecution said happened at the tower
+## Was laut Staatsanwaltschaft am Sendemast geschah
 
-Barnes was already in legal trouble on unrelated drug charges when investigators developed evidence of his involvement in the plot. He ultimately pleaded guilty in federal court in 2008 to conspiracy and weapons-related charges.
+Barnes steckte bereits wegen anderer Drogendelikte in juristischen Schwierigkeiten, als Ermittler belastendes Material zu seiner Rolle in der Verschwörung sammelten. 2008 bekannte er sich vor einem Bundesgericht schließlich wegen Verschwörung und waffenbezogener Delikte schuldig.
 
-He also cooperated.
+Und er kooperierte.
 
-According to Barnes's account, Wells had not been selected completely at random. Wells had some advance knowledge of a plan to rob the bank, but he believed the bomb involved would be fake. At the tower, when he saw the real device, he tried to back out.
+Nach Barnes' Darstellung war Wells nicht völlig zufällig ausgewählt worden. Wells wusste demnach im Voraus, dass ein Bankraub geplant war, glaubte aber, die Bombe werde nur eine Attrappe sein. Als er am Sendemast das echte Gerät sah, wollte er aussteigen.
 
-The later court record describes Rothstein attaching the bomb to Wells and starting its timer while Wells was threatened into going through with the robbery.
+Die späteren Gerichtsakten beschreiben, wie Rothstein Wells den Bombenkragen anlegte und den Timer startete, während Wells unter Drohung gezwungen wurde, den Raub durchzuführen.
 
-That version explains several otherwise awkward facts. It explains why Wells could arrive at the bank with a prepared cane-gun and know what he was supposed to demand, while also explaining his genuine panic after police stopped him. It allows him to have been involved in an intended robbery without having volunteered to spend his final hour wearing a functioning bomb.
+Diese Version erklärt mehrere ansonsten schwer zusammenpassende Details. Sie erklärt, warum Wells mit einer vorbereiteten Stockwaffe in der Bank auftauchen und genau wissen konnte, welche Summe er verlangen sollte. Gleichzeitig erklärt sie seine offensichtliche Angst, nachdem ihn die Polizei gestoppt hatte. Er könnte an einem geplanten Raub beteiligt gewesen sein, ohne freiwillig zugestimmt zu haben, seine letzte Stunde mit einer echten Bombe um den Hals zu verbringen.
 
-But it remains important to say what kind of evidence this is. Barnes was a conspirator seeking a reduced sentence. Prosecutors found his account useful and courts accepted the broader conspiracy case, but Wells never stood trial and never had the chance to answer the accusation that he had initially agreed to participate.
+Man muss allerdings sauber benennen, auf welcher Art von Beweis diese Rekonstruktion beruht. Barnes war selbst Mitverschwörer und hatte ein klares Interesse daran, durch Kooperation seine eigene Lage zu verbessern. Staatsanwälte hielten seine Darstellung für brauchbar, und Gerichte akzeptierten den größeren Verschwörungskomplex. Wells selbst stand jedoch nie vor Gericht und konnte auf den Vorwurf, er habe ursprünglich mitmachen wollen, nie antworten.
 
-His family rejected the government's characterization.
+Seine Familie wies diese Darstellung zurück.
 
-So the cleanest conclusion is narrower than either extreme: Wells unquestionably carried out the bank robbery. The bomb was unquestionably real. The conspiracy around him was real and produced criminal convictions. The extent to which Wells understood or agreed to the plan before arriving at the television tower remains disputed.
+Die sauberste Schlussfolgerung liegt deshalb zwischen den Extremen: Wells hat den Bankraub tatsächlich durchgeführt. Die Bombe war zweifellos echt. Die Verschwörung um ihn war real und führte zu Verurteilungen. Wie viel Wells vor seiner Ankunft am Sendemast wusste oder freiwillig akzeptiert hatte, bleibt umstritten.
 
-What is much less ambiguous is what happened once the collar was locked around his neck.
+Viel weniger umstritten ist, was geschah, nachdem der Metallkragen geschlossen war.
 
-By then, whatever arrangement he may or may not have believed he had joined was over.
+Ab diesem Moment war jede mögliche frühere Absprache irrelevant.
 
-He was being controlled by a real explosive device and a set of instructions that offered an escape route investigators later concluded was not realistically achievable.
+Wells wurde von einem echten Sprengsatz und einer Serie von Anweisungen kontrolliert, deren versprochener Fluchtweg nach späterer Einschätzung der Ermittler praktisch nicht zu schaffen war.
 
-## Convictions, but not a perfectly clean ending
+## Verurteilungen, aber kein vollkommen sauberes Ende
 
-Kenneth Barnes pleaded guilty and received a forty-five-year federal prison sentence.
+Kenneth Barnes bekannte sich schuldig und erhielt eine 45-jährige Bundesgefängnisstrafe.
 
-Marjorie Diehl-Armstrong went to trial in 2010. Prosecutors presented her as a central organizer of the conspiracy and argued that the robbery was intended to produce money for the planned murder of her father. The jury convicted her. She was sentenced to life in federal prison plus an additional consecutive term.
+Marjorie Diehl-Armstrong kam 2010 vor Gericht. Die Staatsanwaltschaft stellte sie als zentrale Organisatorin der Verschwörung dar und argumentierte, der Bankraub habe Geld für die geplante Ermordung ihres Vaters liefern sollen. Die Geschworenen verurteilten sie. Sie erhielt lebenslange Haft im Bundesgefängnis sowie eine zusätzliche, danach zu verbüßende Strafe.
 
-Rothstein, who prosecutors believed had played a central role in constructing and attaching the device, was already dead.
+Rothstein, dem die Staatsanwaltschaft eine zentrale Rolle beim Bau und Anlegen des Geräts zuschrieb, war bereits tot.
 
-James Roden was dead before the robbery ever happened.
+James Roden war schon vor dem Bankraub tot.
 
-Brian Wells had died in the parking lot.
+Brian Wells war auf dem Parkplatz gestorben.
 
-The case was therefore solved in an awkward way. The conspiracy was established. People were convicted. Investigators could explain the proposed motive, the relationships among the participants, the murder that preceded the robbery, and the strange route laid out for the man wearing the bomb.
+Der Fall wurde deshalb auf eine seltsam unbefriedigende Weise gelöst. Die Verschwörung war nachweisbar. Menschen wurden verurteilt. Die Ermittler konnten das angenommene Motiv erklären, die Beziehungen zwischen den Beteiligten, den Mord vor dem Bankraub und die bizarre Route, die für den Mann mit der Bombe vorbereitet worden war.
 
-But the most famous person in the story remained the one person whose precise role could never be resolved in court.
+Aber die bekannteste Person des gesamten Falls war zugleich diejenige, deren genaue Rolle niemals vor Gericht endgültig geklärt werden konnte.
 
-And that uncertainty has tended to obscure something even stranger about the case.
+Und diese Unsicherheit verdeckt leicht, was an dem Plan vielleicht noch verstörender war als die Bombe selbst.
 
-The most ingenious part of the plot was not the explosive device.
+Der raffinierteste Teil der Konstruktion war nicht der Sprengsatz.
 
-It was the promise attached to it.
+Es war das Versprechen, das daran hing.
 
-The pages Wells carried told him that survival was always one task farther away. Go to the bank. Get the money. Drive to the next point. Find the next note. Keep moving.
+Die Seiten, die Wells bei sich trug, vermittelten ihm, dass das Überleben immer nur eine Aufgabe weiter entfernt sei. Geh zur Bank. Hol das Geld. Fahr zum nächsten Punkt. Finde den nächsten Zettel. Beweg dich weiter.
 
-The instructions converted panic into obedience by giving him the appearance of a way out.
+Die Anweisungen verwandelten Panik in Gehorsam, indem sie ihm den Eindruck gaben, es gebe einen Ausweg.
 
-Investigators later drove the route themselves and concluded that there was not enough time.
+Die Ermittler fuhren die Strecke später selbst ab und kamen zu dem Schluss, dass die Zeit nicht ausreichte.
 
-The scavenger hunt was essentially unwinnable.
+Die Schnitzeljagd war im Wesentlichen nicht zu gewinnen.
 
-So when Wells sat handcuffed in that parking lot telling police that the bomb would explode, the most important part of the trap had already worked. He had spent the final part of his life following a sequence designed by people who controlled not only the bomb, but also the information he had about it.
+Als Wells also mit Handschellen auf dem Parkplatz saß und der Polizei erklärte, die Bombe werde explodieren, hatte der wichtigste Teil der Falle längst funktioniert. Er hatte seine letzten Minuten damit verbracht, einer Sequenz zu folgen, die von Menschen entworfen worden war, die nicht nur die Bombe kontrollierten, sondern auch die Informationen, die er über sie bekam.
 
-The police initially had to decide whether the man in front of them was a robber or a hostage.
+Die Polizei musste zunächst entscheiden, ob der Mann vor ihr ein Räuber oder eine Geisel war.
 
-The eventual answer was much uglier.
+Die spätere Antwort war deutlich hässlicher.
 
-He may, according to the prosecution, have entered the scheme believing he was helping commit a robbery.
+Nach Darstellung der Staatsanwaltschaft könnte Wells in den Plan eingestiegen sein, weil er glaubte, bei einem Bankraub mitzumachen.
 
-But by the time anyone outside the conspiracy understood what was happening, Brian Wells was unquestionably the hostage of the machine around his neck.
+Aber spätestens als Menschen außerhalb der Verschwörung überhaupt begriffen, was geschah, war Brian Wells zweifellos die Geisel des Geräts um seinen Hals.
 
-And the last lie it told him was that there was still enough time.
+Und seine letzte Lüge lautete, dass noch genug Zeit übrig sei.
 
-## Sources and evidence
+## Quellen und Beleglage
 
-- Federal court record in United States v. Marjorie Diehl-Armstrong, including the prosecution's reconstruction of the robbery conspiracy, the proposed motive involving Diehl-Armstrong's father, Roden's murder, and the sequence leading to Wells's death: https://www.govinfo.gov/content/pkg/USCOURTS-pawd-1_07-cr-00026/pdf/USCOURTS-pawd-1_07-cr-00026-7.pdf
-- U.S. Court of Appeals summary of the Diehl-Armstrong case and conspiracy evidence: https://law.justia.com/cases/federal/appellate-courts/ca3/11-1614/11-1614-2012-11-20.html
-- FBI multimedia archive containing photographs of the collar bomb and instruction notes: https://multimedia.fbi.gov/item?id=6766&type=image
-- Associated Press/CBS reporting on Barnes's guilty plea, cooperation, and the disputed claim that Wells initially expected a fake bomb: https://www.cbsnews.com/news/confession-in-bizarre-collar-bomb-plot/
-- Associated Press/CBS reporting on the federal government's 2007 allegation that Wells had some advance involvement, and his family's rejection of that conclusion: https://www.cbsnews.com/news/collar-bomb-victims-family-outraged/
-- Contemporary reporting on the investigators' conclusion that the scavenger-hunt route could not be completed in the allotted time: https://www.latimes.com/archives/la-xpm-2004-sep-12-adna-pizza12-story.html
-- WIRED's long-form reconstruction of the case, useful especially for the chronology surrounding Rothstein, Roden, and the freezer discovery. Some colorful details in that account derive from participant testimony and should not be treated as independent judicial findings: https://www.wired.com/2010/12/ff-collarbomb/
+- Bundesgerichtsakten in *United States v. Marjorie Diehl-Armstrong*, darunter die Rekonstruktion der Raubverschwörung durch die Staatsanwaltschaft, das Motiv rund um Diehl-Armstrongs Vater, Rodens Ermordung und die Ereignisse bis zu Wells' Tod: https://www.govinfo.gov/content/pkg/USCOURTS-pawd-1_07-cr-00026/pdf/USCOURTS-pawd-1_07-cr-00026-7.pdf
+- Zusammenfassung des Berufungsverfahrens vor dem U.S. Court of Appeals und der Beweislage zur Verschwörung: https://law.justia.com/cases/federal/appellate-courts/ca3/11-1614/11-1614-2012-11-20.html
+- FBI-Multimediaarchiv mit Fotos des Bombenkragens und der Anweisungen: https://multimedia.fbi.gov/item?id=6766&type=image
+- AP/CBS-Berichterstattung über Barnes' Schuldbekenntnis, seine Kooperation und die umstrittene Behauptung, Wells habe ursprünglich mit einer Attrappe gerechnet: https://www.cbsnews.com/news/confession-in-bizarre-collar-bomb-plot/
+- AP/CBS-Berichterstattung über die 2007 veröffentlichte Position der Bundesbehörden, Wells habe ein gewisses Vorwissen gehabt, sowie über die Ablehnung dieser Darstellung durch seine Familie: https://www.cbsnews.com/news/collar-bomb-victims-family-outraged/
+- Zeitgenössische Berichterstattung über die Einschätzung der Ermittler, dass die Schnitzeljagd in der vorgegebenen Zeit nicht zu schaffen war: https://www.latimes.com/archives/la-xpm-2004-sep-12-adna-pizza12-story.html
+- Die ausführliche Rekonstruktion von WIRED ist besonders nützlich für die Chronologie rund um Rothstein, Roden und den Fund der Leiche in der Gefriertruhe. Einige farbige Details darin stammen allerdings aus Aussagen von Beteiligten und sollten nicht mit unabhängigen gerichtlichen Feststellungen verwechselt werden: https://www.wired.com/2010/12/ff-collarbomb/
