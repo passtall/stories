@@ -92,3 +92,13 @@ The user confirmed that all cases in `stories.md` have already been heard.
 - Kuru / Fore prion-disease investigation, Papua New Guinea
 - Minamata methylmercury disease investigation, Japan, 1956–1973
 - ANOM / Operation Trojan Shield / Operation Ironside, 2018–2021
+- Crypto AG / Operation Rubicon / Hans Bühler, 1950s–2020
+- 2011 E. coli O104:H4 outbreak / fenugreek seed tracing, Germany and France
+- Silk Road / Ross Ulbricht / Dread Pirate Roberts investigation, 2011–2013
+- AlphaBay / Alexandre Cazes investigation and takedown, 2014–2017
+- Operation Ivy Bells / Soviet undersea cable tap / Ronald Pelton
+- Hatton Garden safe deposit burglary, 2015
+- Volkswagen Dieselgate / WVU on-road emissions investigation, 2014–2017
+- Great Canadian Maple Syrup Heist, 2011–2012
+- Operation Bernhard / Nazi counterfeit pounds
+- Wirecard collapse / missing €1.9 billion / Jan Marsalek, 2020–2026
