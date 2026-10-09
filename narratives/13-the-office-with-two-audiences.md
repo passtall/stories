@@ -1,80 +1,334 @@
-# The Office with Two Audiences
+# Das Büro mit zwei Zuhörern
 
-In February 1939, William Sebold returned to Germany to visit his mother. He had spent years abroad and become an American citizen. His experience in industrial and aircraft plants made him a person who might know useful things about American manufacturing. During what should have been a family visit, men acting for the German state began taking an interest in him.
+Im Februar 1939 reist William Sebold nach Deutschland, um seine Mutter zu besuchen.
 
-The approaches became more explicit over the following months. Sebold was questioned about military aircraft and equipment. He was asked to go back to the United States as an agent. With relatives still in Germany, refusing the request did not seem like a decision affecting only his own safety. A visit home was turning into an assignment he had not volunteered to accept.
+Sebold lebt seit Jahren in den USA und ist inzwischen amerikanischer Staatsbürger. Er hat in Industrie- und Flugzeugbetrieben gearbeitet und verfügt damit über genau jene Art von technischem Hintergrund, die in einem Europa kurz vor dem Krieg plötzlich interessant wird.
 
-## The replacement passport
+Während seines Aufenthalts beginnen Männer, die für den deutschen Staat arbeiten, sich für ihn zu interessieren.
 
-Sebold's passport was stolen. To replace it, he went to the American consulate in Cologne. There he secretly told officials about the proposed espionage role and expressed a desire to cooperate with American authorities when he returned.
+Zunächst wird er befragt.
 
-That disclosure was the beginning of a second operation concealed inside the first. German intelligence would prepare a man to communicate with its agents in the United States. American investigators would prepare to receive that same man as a source. Both sides would know parts of his journey; only one side would understand whom he had told about the other.
+Dann wird die Sache direkter.
 
-The German service trained Sebold in coded communication and microphotography. It supplied instructions, contacts, and an assumed identity: Harry Sawyer. The plan was not simply for him to collect information alone. He was to help connect other operatives with their superiors and pass material through a communications channel.
+Man möchte, dass Sebold in die Vereinigten Staaten zurückkehrt.
 
-He arrived in New York on February 8, 1940. The FBI had advance notice of the mission and of his intention to cooperate. That meant the bureau did not have to infer a network from isolated suspicious behavior after the fact. It could help build the arrangements into which members of the network expected to place their information.
+Als deutscher Agent.
 
-## An engineer with helpful connections
+Für ihn ist die Situation unangenehm kompliziert. Verwandte leben weiterhin in Deutschland. Eine Ablehnung ist nicht nur eine persönliche Entscheidung über seine eigene Sicherheit.
 
-Under FBI supervision, Sebold established himself as Sawyer, a diesel-engineering consultant. The identity fit his technical background and offered a practical reason for people with industrial interests to meet him. It was a professional cover suited to a network seeking information about production, shipping, aircraft, and weapons.
+Dann wird sein Reisepass gestohlen.
 
-The stakes were substantial even though the United States had not yet entered the war. Britain was fighting Germany, American industry was important to the expanding conflict, and information about ships or manufacturing could matter to a hostile state. An apparently routine conversation about cargo or equipment might concern more than commercial competition.
+Ausgerechnet dieser Verlust gibt Sebold die Gelegenheit, die gesamte Operation umzudrehen.
 
-Sebold contacted people named in his instructions and accepted the role they expected him to perform. He would receive information and pass it toward Germany. The FBI's objective was not to announce the first suspicious meeting and make an immediate arrest. It was to establish who belonged to the network, what each person did, and what evidence could demonstrate the conduct in court.
+## Der Ersatzpass
 
-That required sustained cooperation and risk. A double agent is valuable because other agents trust the role, but the same trust places the person inside meetings where exposure may be dangerous. Sebold had to remain believable while people continued testing the usefulness of the channel.
+Um einen neuen Pass zu bekommen, geht Sebold zum amerikanischen Konsulat in Köln.
 
-## The veteran who disliked microphones
+Dort erzählt er heimlich, was passiert.
 
-One important contact was Frederick “Fritz” Duquesne, a South African-born man with a long and complicated history of espionage and anti-British activity. The FBI's account describes him as an experienced operative, not an innocent industrial enthusiast misunderstood by investigators.
+Er berichtet von der Anwerbung.
 
-At an early meeting in his own office, Duquesne worried about electronic surveillance. He indicated that they should speak elsewhere, and the men moved to an Automat. This detail matters because it prevents a lazy interpretation of the later evidence. Duquesne was not unaware that conversations could be monitored. He recognized the danger and tried to choose a safer setting.
+Und erklärt, dass er bereit sei, nach seiner Rückkehr mit den amerikanischen Behörden zusammenzuarbeiten.
 
-His caution did not extend successfully to every setting. He later met Sebold in Sawyer's Manhattan office. There he could discuss information and receive money in an environment that seemed to belong to the trusted communications contact. Suspicion about one room did not translate into a correct understanding of the next.
+Damit beginnt praktisch eine zweite Geheimdienstoperation innerhalb der ersten.
 
-The distinction is an ordinary vulnerability with extraordinary consequences. A person can accurately identify a general risk while trusting the particular arrangement that embodies it. Knowing that microphones exist is not the same as knowing which conversation already has an unseen audience.
+Der deutsche Nachrichtendienst glaubt, einen Mann für eine Mission in den USA vorzubereiten.
 
-## What the mirror was doing
+Die Amerikaner wissen nun im Voraus, dass dieser Mann kommt.
 
-The FBI had equipped Sebold's office with hidden microphones and a two-way mirror. Agents could observe and film meetings. The room supplied a controlled place where information could be offered, statements could be recorded, and investigators could later connect faces with conduct.
+Deutschland bringt Sebold Geheimschrift, Mikroaufnahmen und konspirative Kommunikation bei.
 
-The office had two audiences. Visitors spoke to Sawyer, believing him to be the person through whom their reports would reach Germany. Agents watched from the concealed side, understanding the same words as evidence. Sebold did not have to invent an incriminating confession for each visitor. The operatives' own business supplied the material.
+Er erhält Kontakte.
 
-Duquesne discussed defense information, shipping, and technology. He brought photographs and specifications concerning a new American bomb. He claimed to have obtained some material through illicit entry at a factory. The FBI history also notes that he acquired information by corresponding with industrial firms while representing himself as a student. The distinction matters: his stories about his methods need not all be accepted simply because his role in the network was real.
+Anweisungen.
 
-Another participant brought explosive material to Sebold. Others contributed information about shipping movements or industrial equipment. The network was not a single master spy performing every task. It consisted of people occupying useful positions, collecting or carrying different kinds of material, and depending on intermediaries to connect their activities.
+Eine Tarnidentität:
 
-## The radio that answered correctly
+**Harry Sawyer.**
 
-The office was only one half of the operation. FBI engineers built a clandestine shortwave transmitting station on Long Island. In May 1940, it established contact with Germany. The receiving side believed it was communicating through the arrangement assigned to Sebold.
+Seine Aufgabe soll nicht nur darin bestehen, selbst Informationen zu beschaffen.
 
-For sixteen months, the FBI operated the channel. Its history records more than three hundred outgoing messages and approximately two hundred incoming ones. Those figures describe sustained contact, not a one-time interception. The bureau could observe what Germany asked for as well as what American operatives offered.
+Er soll in den USA lebenden deutschen Agenten als Verbindungsmann dienen und ihre Berichte nach Deutschland weiterleiten.
 
-A communications system becomes convincing when it behaves like the system its users expect. Replies, acknowledgments, and continuing instructions gave the channel continuity. German intelligence was not merely reading one fabricated document. It was conducting business through a station that, unbeknownst to it, belonged to the service investigating its agents.
+Am 8. Februar 1940 trifft Sebold in New York ein.
 
-The American side still had to manage what was transmitted. A useful deception could not be allowed to become an uncontrolled release of genuine harmful information. The public FBI account describes authentic-sounding traffic rather than providing a complete technical ledger of every message. It supports the conclusion that investigators controlled the channel; it does not justify inventing the specific contents of transmissions absent from the published record.
+Das FBI wartet bereits.
 
-## Mapping the people behind the traffic
+Damit besitzt die Behörde etwas äußerst Seltenes.
 
-Meetings and messages helped investigators identify participants, relationships, and functions. Some members worked on ships and could carry material through neutral ports. Others knew about cargo or had access to manufacturing information. A restaurant served as a meeting place. The usefulness of the network often came from ordinary employment and ordinary social access.
+Sie muss keinen Spionagering mühsam aus einzelnen verdächtigen Kontakten erraten.
 
-This made attribution unusually concrete. The case did not rest on a vague accusation that a hostile government probably wanted American secrets. Investigators could connect named people to recorded meetings, materials, communications, and payments. The operation generated the evidence needed to move from an intelligence assessment to prosecutions.
+Der Ring glaubt vielmehr, dass einer seiner eigenen Kommunikationskanäle gerade eröffnet wird.
 
-The FBI ultimately arrested thirty-three people. Nineteen pleaded guilty. Fourteen went to trial in Brooklyn beginning in September 1941. Their verdicts came on December 13, six days after the attack on Pearl Harbor and two days after Germany declared war on the United States. All fourteen were convicted.
+Und das FBI darf beim Aufbau helfen.
 
-The timing can mislead if compressed. The arrests and trial preparations were the products of an investigation conducted before America's entry into the war. They were not a sudden roundup improvised in response to Pearl Harbor. Sebold's disclosure, the surveillance office, and the radio operation had preceded that transformation of the national situation.
+## Ein Ingenieur mit nützlichen Kontakten
 
-## The limit of the victory
+Unter FBI-Aufsicht richtet sich Sebold als **Harry Sawyer**, Diesel-Ingenieur und Berater, ein.
 
-Sentences imposed in January 1942 totaled more than three hundred years. Duquesne received a substantial term for espionage and an additional concurrent sentence for a registration-law offense. The network had suffered a decisive legal defeat. Its own communications arrangements had helped establish the case against it.
+Die Tarnung passt zu seinem echten technischen Hintergrund.
 
-The FBI's retrospective presents this as a major counterintelligence victory, which it was. Its broader celebratory language should not be turned into proof that no other German operative remained anywhere in the country. Eliminating an identified ring is a demonstrated outcome. Proving the absence of every unknown network is a different task.
+Und sie liefert einen vollkommen plausiblen Grund, warum Menschen mit Interesse an Industrie, Schifffahrt, Flugzeugen und Maschinen mit ihm sprechen sollten.
 
-Sebold's choice at the consulate is the small decision that gives the later operation its shape. The German service had assumed that training, pressure, and concern for family could secure a channel to America. Sebold quietly made that channel visible before it began working. Afterward, every successful-looking exchange could serve two purposes.
+Die USA sind zu diesem Zeitpunkt noch nicht offiziell im Krieg.
 
-Duquesne's concern about microphones supplies the ending. He understood that a room might betray him. What he failed to recognize was that his trusted contact, the office, and the distant radio station all belonged to the same concealed audience. The operation did not depend on persuading spies to talk to an obvious enemy. It made the enemy's listening apparatus look like their own way home.
+Europa längst.
 
-## Sources and evidence
+Britannien kämpft gegen Deutschland.
 
-- [FBI, “Duquesne Spy Ring”](https://www.fbi.gov/history/famous-cases/duquesne-spy-ring), consulted directly for Sebold's recruitment and disclosure, the consultant cover, office surveillance, radio traffic, individual operatives, pleas, trial, and sentencing.
-- Claims made by Duquesne about how he obtained material are identified as claims. The narrative treats the bureau's retrospective as an institutional account and does not adopt its broadest suggestion that the operation proved the absence of all other espionage networks.
+Amerikanische Industrie wird militärisch immer wichtiger.
+
+Informationen über Schiffe, Fabriken, Flugzeuge oder neue Waffentechnik können deshalb erheblichen Wert besitzen.
+
+Sebold nimmt Kontakt zu den Personen auf, die ihm die Deutschen genannt haben.
+
+Er tut genau das, was sie von ihm erwarten.
+
+Er nimmt Material entgegen.
+
+Er verspricht, es weiterzuleiten.
+
+Nur will das FBI nicht beim ersten verdächtigen Blatt Papier die Tür eintreten.
+
+Die Ermittler wollen wissen:
+
+Wer gehört zum Netzwerk?
+
+Wer beschafft welche Informationen?
+
+Wer bezahlt wen?
+
+Wer kommuniziert mit Deutschland?
+
+Und was lässt sich später vor Gericht beweisen?
+
+Dafür muss Sebolds Tarnung bestehen bleiben.
+
+## Der Spion, der Angst vor Mikrofonen hat
+
+Einer der wichtigsten Männer im Netzwerk ist **Frederick „Fritz“ Duquesne**.
+
+Duquesne stammt aus Südafrika und hat bereits eine lange Geschichte von anti-britischen Aktivitäten und Spionage hinter sich.
+
+Er ist kein naiver Amateur.
+
+Bei einem frühen Treffen in seinem eigenen Büro zeigt er sogar, dass er die Gefahr technischer Überwachung versteht.
+
+Er äußert Bedenken wegen möglicher Mikrofone.
+
+Deshalb wechseln die Männer den Ort und sprechen in einem Automat-Restaurant weiter.
+
+Duquesne weiß also:
+
+Räume können zuhören.
+
+Das macht das Folgende besonders schön.
+
+Denn später besucht er Sebolds Büro in Manhattan.
+
+Und dort fühlt er sich offenbar sicher genug, um über Informationen, Geld und seine Arbeit zu sprechen.
+
+Was er nicht weiß:
+
+Dieses Büro ist praktisch ein FBI-Studio.
+
+## Hinter dem Spiegel
+
+Das FBI hat Sebolds Büroräume mit versteckten Mikrofonen ausgestattet.
+
+Dazu kommt ein **Zweiwegspiegel**.
+
+Auf einer Seite sitzen Sebold und seine Besucher.
+
+Auf der anderen Seite können FBI-Agenten beobachten und filmen.
+
+Das Büro besitzt damit zwei völlig verschiedene Publika.
+
+Für Duquesne und andere Agenten ist Sawyer der vertrauenswürdige Verbindungsmann, durch den ihre Informationen Deutschland erreichen.
+
+Für das FBI sind dieselben Gespräche Beweismaterial.
+
+Sebold muss nicht ständig Fallenfragen stellen oder Menschen zu absurden Geständnissen überreden.
+
+Die Agenten kommen freiwillig und erledigen ihre normale Spionagearbeit vor einer versteckten Kamera.
+
+Duquesne bringt unter anderem Informationen über amerikanische Verteidigungstechnik, Schifffahrt und industrielle Entwicklungen.
+
+Er liefert Fotografien und technische Angaben zu einer neuen Bombe.
+
+Teilweise behauptet er, Material durch unerlaubtes Eindringen in Industrieanlagen beschafft zu haben.
+
+Solche Selbstdarstellungen sollte man nicht automatisch in jedem Detail glauben. Ein echter Spion kann über seine Methoden genauso angeben wie jeder andere Mensch.
+
+Seine Rolle im Netzwerk ist davon unabhängig gut belegt.
+
+Andere Beteiligte liefern Informationen über Schiffsbewegungen, Industrieanlagen und militärisch relevante Technik.
+
+Ein Mann bringt sogar Sprengmaterial zu Sebold.
+
+Das Netzwerk ist kein James-Bond-System mit einem einzigen genialen Superspion.
+
+Es besteht aus Menschen mit ganz normalen Berufen und sehr spezifischem Zugang.
+
+Einer weiß etwas über Schiffe.
+
+Ein anderer über Fabriken.
+
+Ein anderer kann Material transportieren.
+
+Und Sebold soll all diese Stücke mit Deutschland verbinden.
+
+Dann baut das FBI auch die andere Hälfte dieses Systems nach.
+
+## Ein deutscher Funkkanal, betrieben vom FBI
+
+FBI-Techniker errichten auf Long Island eine geheime Kurzwellenstation.
+
+Im Mai 1940 nimmt sie Kontakt mit Deutschland auf.
+
+Auf deutscher Seite glaubt man, dass dies der Funkkanal ist, der zu Sebolds Netzwerk gehört.
+
+Tatsächlich sitzt am amerikanischen Ende das FBI.
+
+Und Deutschland antwortet.
+
+Nicht einmal.
+
+Nicht zweimal.
+
+**Sechzehn Monate lang.**
+
+Nach der FBI-Darstellung werden über den Kanal mehr als 300 Nachrichten nach Deutschland gesendet und ungefähr 200 empfangen.
+
+Das ist keine einzelne geglückte Täuschung mehr.
+
+Es ist ein laufendes Kommunikationssystem.
+
+Deutschland sendet Anweisungen durch einen Kanal, den der amerikanische Geheimdienst kontrolliert.
+
+Amerikanische Ermittler können sehen, welche Informationen gefragt sind.
+
+Wer angesprochen wird.
+
+Welche Kontakte sich bewähren.
+
+Welche Aufgaben aus Deutschland kommen.
+
+Natürlich muss das FBI dabei vorsichtig sein.
+
+Ein glaubwürdiger Doppelkanal darf nicht dadurch überzeugend werden, dass man dem Gegner unbegrenzt echte sensible Informationen liefert.
+
+Die veröffentlichten Quellen geben nicht den vollständigen Inhalt jedes Funkverkehrs wieder.
+
+Also sollte man keine hübschen erfundenen Geheimtelegramme hinzufügen.
+
+Die nachweisbare Tatsache ist bereits erstaunlich genug:
+
+Der deutsche Nachrichtendienst benutzte über Monate eine Funkverbindung, deren amerikanische Seite praktisch eine FBI-Einrichtung war.
+
+## Das Netzwerk zeichnet sich selbst
+
+Mit jedem Treffen und jeder Nachricht wird das Bild klarer.
+
+Bestimmte Personen arbeiten auf Schiffen und können Informationen über Häfen und Ladungen liefern.
+
+Andere haben Zugang zu Industrie.
+
+Manche dienen als Kuriere.
+
+Treffpunkte entstehen in Restaurants und Büros.
+
+Zahlungen werden beobachtet.
+
+Die Ermittler müssen am Ende nicht bloß sagen:
+
+„Deutschland wollte wahrscheinlich spionieren.“
+
+Sie haben Namen.
+
+Gesichter.
+
+Filmaufnahmen.
+
+Gespräche.
+
+Material.
+
+Zahlungen.
+
+Funkverkehr.
+
+Der Ring liefert gewissermaßen selbst die Dokumentation seiner eigenen Existenz.
+
+Schließlich greift das FBI zu.
+
+**33 Personen** werden festgenommen.
+
+19 bekennen sich schuldig.
+
+14 weitere stehen ab September 1941 in Brooklyn vor Gericht.
+
+Dann verändert sich während des Prozesses die Weltgeschichte.
+
+Am 7. Dezember greift Japan Pearl Harbor an.
+
+Am 11. Dezember erklärt Deutschland den Vereinigten Staaten den Krieg.
+
+Am 13. Dezember werden alle 14 Angeklagten schuldig gesprochen.
+
+Diese zeitliche Nähe kann leicht den falschen Eindruck erzeugen, der Fall sei eine hektische Kriegsreaktion nach Pearl Harbor gewesen.
+
+War er nicht.
+
+Sebolds Doppelspiel, das präparierte Büro und der Funkkanal liefen schon lange vorher.
+
+Die USA waren noch offiziell neutral, als das FBI praktisch mitten im deutschen Agentennetz saß und zusah.
+
+## Der Mann, der wusste, dass Räume zuhören können
+
+Im Januar 1942 werden hohe Haftstrafen verhängt.
+
+Zusammen ergeben sie mehr als 300 Jahre.
+
+Der Duquesne-Ring ist als konkretes Netzwerk zerschlagen.
+
+Man sollte daraus nicht die triumphale Behauptung ableiten, dass danach garantiert kein anderer deutscher Agent in den gesamten Vereinigten Staaten existierte.
+
+So funktioniert Spionageabwehr nicht.
+
+Man kann einen identifizierten Ring beweisen und zerschlagen.
+
+Man kann schwer beweisen, dass keinerlei unbekannter Ring mehr existiert.
+
+Der Fall braucht diese Übertreibung ohnehin nicht.
+
+Sein bester Moment liegt viel früher.
+
+Duquesne war erfahren genug, in seinem eigenen Büro an versteckte Mikrofone zu denken.
+
+Er verließ sogar den Raum, weil er ihm nicht traute.
+
+Das war vernünftig.
+
+Nur vertraute er anschließend **Sebold**.
+
+Und Sebolds Büro.
+
+Und dem Funkkanal.
+
+Das Problem war nicht, dass Duquesne nichts von Überwachung verstand.
+
+Das Problem war, dass er die Überwachung am falschen Ort suchte.
+
+Er glaubte, Sebold sei seine Verbindung nach Deutschland.
+
+In Wirklichkeit war Sebold die Verbindung des FBI **zu ihm**.
+
+Das Büro hatte zwei Zuhörer.
+
+Und nur einer davon wusste, dass der andere existierte.
+
+## Quellen und Beleglage
+
+- [FBI, „Duquesne Spy Ring“](https://www.fbi.gov/history/famous-cases/duquesne-spy-ring), direkt genutzt für Sebolds Anwerbung und Offenlegung, die Sawyer-Tarnung, die Büroüberwachung, Funkkommunikation, einzelne Agenten, Schuldbekenntnisse, Prozess und Strafmaße.
+- Behauptungen Duquesnes darüber, wie er bestimmtes Material beschaffte, werden als seine Behauptungen behandelt. Die Geschichte übernimmt außerdem nicht die weitestgehende rückblickende FBI-Rhetorik, wonach der Erfolg automatisch bewiesen hätte, dass keinerlei weitere deutsche Spionagenetze existierten.
