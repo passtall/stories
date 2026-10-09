@@ -91,3 +91,4 @@ The user confirmed that all cases in `stories.md` have already been heard.
 - Morris worm, 1988
 - Kuru / Fore prion-disease investigation, Papua New Guinea
 - Minamata methylmercury disease investigation, Japan, 1956–1973
+- ANOM / Operation Trojan Shield / Operation Ironside, 2018–2021
