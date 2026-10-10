@@ -6,7 +6,7 @@ This repository contains a continuing series of true mystery stories.
 
 When the user asks for `next`, `next story`, asks to add another story, or otherwise asks to continue the series, create one new narrative that matches the style of the existing stories in `narratives/`.
 
-The existing rewritten stories **01 through 15 are the primary style reference**. Before writing a new story, read at least two or three recent files from `narratives/` if they are available. Their actual prose style takes precedence over abstract wording in this file.
+The **currently present narrative files** are the primary style reference. Before writing a new story, read at least two or three recent files from `narratives/` if they are available. Earlier narratives may have been deliberately deleted while remaining on the blacklist, so never assume a missing narrative is eligible for reuse. The prose of the current files takes precedence over abstract wording in this file.
 
 The desired result should feel like a strong German long-form newspaper feature, magazine story, or nonfiction chapter: factual, chronological, investigative, readable, and suspenseful without becoming melodramatic.
 
@@ -44,18 +44,7 @@ This is a narrative pattern, not a mandatory template. Do not make every story m
 
 ## The Existing Stories Are the Style Guide
 
-Match the tone, pacing, and paragraph structure of files such as:
-
-- `01-the-man-in-the-parking-lot.md`
-- `02-seventy-five-cents.md`
-- `03-the-officer-on-the-shore.md`
-- `05-the-prisoner-who-counted-the-sounds.md`
-- `07-the-bones-that-fitted-too-well.md`
-- `09-the-bus-that-did-not-come-home.md`
-- `10-the-voices-after-midnight.md`
-- `12-the-houses-the-epidemic-skipped.md`
-- `13-the-office-with-two-audiences.md`
-- `15-the-night-the-network-stopped.md`
+Match the tone, pacing, and paragraph structure of the **current files in `narratives/`**. Do not rely on old filenames from deleted batches. When several current narratives exist, sample at least two before writing the next one.
 
 Do not merely imitate their topics. Imitate how they tell the story.
 
@@ -731,7 +720,7 @@ Before saving a new narrative, verify:
 - Does the story reach a meaningful conclusion?
 - Does the ending return to a strong clue, irony, or mistaken assumption?
 - Is there a `## Quellen und Beleglage` section?
-- Does it read like stories 01–15 rather than like a Wikipedia article?
+- Does it read like the current narratives rather than like a Wikipedia article?
 
 If several answers are no, revise before saving.
 
