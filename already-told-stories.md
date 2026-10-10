@@ -102,3 +102,8 @@ The user confirmed that all cases in `stories.md` have already been heard.
 - Great Canadian Maple Syrup Heist, 2011–2012
 - Operation Bernhard / Nazi counterfeit pounds
 - Wirecard collapse / missing €1.9 billion / Jan Marsalek, 2020–2026
+- Harrison Okene / Jascon-4 underwater survival, 2013
+- CIA Project AZORIAN / Hughes Glomar Explorer / K-129 recovery, 1968–1975
+- Operation Paul Bunyan / Panmunjom axe murder incident, 1976
+- Nicholas Alkemade 18,000-foot fall without parachute, 1944
+- Goldsboro B-52 nuclear weapons accident, North Carolina, 1961
