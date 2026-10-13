@@ -125,3 +125,4 @@ These are excluded from future stories even where no narrative file exists. Trea
 - Bobby Dunbar / Charles Bruce Anderson mistaken identity, disappearance 1912, DNA revelation 2004
 - Richard Floyd McCoy Jr. / United Airlines Flight 855 hijacking, 1972; prison escape and death, 1974
 - Jan Hendrik Schön / Bell Labs fabricated molecular electronics and superconductivity data / scientific misconduct investigation, 1998–2002
+- Canadian Caper / Operation Argo / Tony Mendez / Ken Taylor / Studio Six Productions / rescue of six US diplomats from Tehran, 1979–1980
