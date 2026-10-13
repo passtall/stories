@@ -121,3 +121,4 @@ These are excluded from future stories even where no narrative file exists. Trea
 - John Schneeberger / manipulated DNA tests, Canada, 1992–1999
 - Shin Sang-ok and Choi Eun-hee / Kim Jong-il kidnapping, 1978–1986
 - Delphine LaLaurie / LaLaurie mansion, New Orleans, 1834
+- John Darwin / Anne Darwin / Canoe Man staged death and insurance fraud, 2002–2008
