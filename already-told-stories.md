@@ -126,3 +126,4 @@ These are excluded from future stories even where no narrative file exists. Trea
 - Richard Floyd McCoy Jr. / United Airlines Flight 855 hijacking, 1972; prison escape and death, 1974
 - Jan Hendrik Schön / Bell Labs fabricated molecular electronics and superconductivity data / scientific misconduct investigation, 1998–2002
 - Canadian Caper / Operation Argo / Tony Mendez / Ken Taylor / Studio Six Productions / rescue of six US diplomats from Tehran, 1979–1980
+- Scientology Operation Snow White / Guardian's Office infiltration of IRS and DOJ / Michael Meisner / Mary Sue Hubbard / FBI raids 1977 and convictions 1979–1980
