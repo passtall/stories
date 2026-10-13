@@ -130,3 +130,4 @@ These are excluded from future stories even where no narrative file exists. Trea
 - Tham Luang Nang Non Thai cave rescue / Wild Boars football team / Richard Harris and Craig Challen / 12 boys and coach rescued under anaesthesia, June–July 2018
 - Konrad Kujau / Gerd Heidemann / Stern forged Hitler Diaries scandal, 1980–1985 / forensic debunking and fraud convictions
 - Kunsthal Rotterdam 2012 seven paintings art heist / Radu Dogaru / Eugen Darie / Olga Dogaru / forensic ashes inquiry 2013 / Romanian convictions 2013–2014 / fake Picasso discovery 2018
+- 2008 Chinese melamine-contaminated infant formula / Sanlu milk scandal / baby kidney stones / 294,000 affected / Zhang Yujun and Tian Wenhua convictions 2009
