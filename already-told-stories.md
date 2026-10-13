@@ -107,3 +107,17 @@ The user confirmed that all cases in `stories.md` have already been heard.
 - Operation Paul Bunyan / Panmunjom axe murder incident, 1976
 - Nicholas Alkemade 18,000-foot fall without parachute, 1944
 - Goldsboro B-52 nuclear weapons accident, North Carolina, 1961
+
+## Further cases already told in chat (October 2026)
+
+These are excluded from future stories even where no narrative file exists. Treat aliases and substantially overlapping retellings as duplicates.
+
+- Phantom of Heilbronn / contaminated forensic DNA swabs, 1993–2009
+- Frédéric Bourdin / Nicholas Barclay impersonation, 1997–1998
+- Christian Karl Gerhartsreiter / Clark Rockefeller / John Sohus murder, 1985–2013
+- US Navy L-8 Ghost Blimp / missing pilots, 1942
+- Västberga G4S helicopter heist, Stockholm, 2009
+- Mark Hofmann / Salamander Letter forgeries and 1985 bombings
+- John Schneeberger / manipulated DNA tests, Canada, 1992–1999
+- Shin Sang-ok and Choi Eun-hee / Kim Jong-il kidnapping, 1978–1986
+- Delphine LaLaurie / LaLaurie mansion, New Orleans, 1834
