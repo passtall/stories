@@ -124,3 +124,4 @@ These are excluded from future stories even where no narrative file exists. Trea
 - John Darwin / Anne Darwin / Canoe Man staged death and insurance fraud, 2002–2008
 - Bobby Dunbar / Charles Bruce Anderson mistaken identity, disappearance 1912, DNA revelation 2004
 - Richard Floyd McCoy Jr. / United Airlines Flight 855 hijacking, 1972; prison escape and death, 1974
+- Jan Hendrik Schön / Bell Labs fabricated molecular electronics and superconductivity data / scientific misconduct investigation, 1998–2002
