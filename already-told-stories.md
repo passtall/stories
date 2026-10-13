@@ -129,3 +129,4 @@ These are excluded from future stories even where no narrative file exists. Trea
 - Scientology Operation Snow White / Guardian's Office infiltration of IRS and DOJ / Michael Meisner / Mary Sue Hubbard / FBI raids 1977 and convictions 1979–1980
 - Tham Luang Nang Non Thai cave rescue / Wild Boars football team / Richard Harris and Craig Challen / 12 boys and coach rescued under anaesthesia, June–July 2018
 - Konrad Kujau / Gerd Heidemann / Stern forged Hitler Diaries scandal, 1980–1985 / forensic debunking and fraud convictions
+- Kunsthal Rotterdam 2012 seven paintings art heist / Radu Dogaru / Eugen Darie / Olga Dogaru / forensic ashes inquiry 2013 / Romanian convictions 2013–2014 / fake Picasso discovery 2018
