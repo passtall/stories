@@ -131,3 +131,4 @@ These are excluded from future stories even where no narrative file exists. Trea
 - Konrad Kujau / Gerd Heidemann / Stern forged Hitler Diaries scandal, 1980–1985 / forensic debunking and fraud convictions
 - Kunsthal Rotterdam 2012 seven paintings art heist / Radu Dogaru / Eugen Darie / Olga Dogaru / forensic ashes inquiry 2013 / Romanian convictions 2013–2014 / fake Picasso discovery 2018
 - 2008 Chinese melamine-contaminated infant formula / Sanlu milk scandal / baby kidney stones / 294,000 affected / Zhang Yujun and Tian Wenhua convictions 2009
+- No Kum-sok / Kenneth Rowe / North Korean MiG-15bis fighter defection to Kimpo Air Base, 21 September 1953 / Operation Moolah $100,000 reward / USAF technical investigation
