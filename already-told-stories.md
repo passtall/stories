@@ -132,3 +132,4 @@ These are excluded from future stories even where no narrative file exists. Trea
 - Kunsthal Rotterdam 2012 seven paintings art heist / Radu Dogaru / Eugen Darie / Olga Dogaru / forensic ashes inquiry 2013 / Romanian convictions 2013–2014 / fake Picasso discovery 2018
 - 2008 Chinese melamine-contaminated infant formula / Sanlu milk scandal / baby kidney stones / 294,000 affected / Zhang Yujun and Tian Wenhua convictions 2009
 - No Kum-sok / Kenneth Rowe / North Korean MiG-15bis fighter defection to Kimpo Air Base, 21 September 1953 / Operation Moolah $100,000 reward / USAF technical investigation
+- McDonald's Monopoly promotion fraud / Jerome Uncle Jerry Jacobson / Simon Marketing / FBI Operation Final Answer 1989–2004 / fake $1 million winners / Michael Hoover undercover video / 2001 arrests / 2003 sentence / Chandler appeals 2004
