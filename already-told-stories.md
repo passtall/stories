@@ -164,3 +164,4 @@ These are excluded from future stories even where no narrative file exists. Trea
 - Dyatlov Pass incident, northern Urals, 1959.
 - Flannan Isles Eilean Mor lighthouse keepers disappearance December 1900 / James Ducat Thomas Marshall Donald McArthur / Hesperus Joseph Moore / western landing storm wave hypothesis (previously narrated).
 - Isdal Woman unidentified death Bergen Norway 1970 (already narrated).
+- Mary Celeste abandoned brigantine 1872 / Captain Benjamin Briggs / Dei Gratia discovery / missing lifeboat and crew / Gibraltar inquiry / evacuation hypotheses.
