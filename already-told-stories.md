@@ -162,3 +162,4 @@ These are excluded from future stories even where no narrative file exists. Trea
 
 - Securitas Tonbridge cash depot heist, 2006.
 - Dyatlov Pass incident, northern Urals, 1959.
+- Flannan Isles Eilean Mor lighthouse keepers disappearance December 1900 / James Ducat Thomas Marshall Donald McArthur / Hesperus Joseph Moore / western landing storm wave hypothesis (previously narrated).
