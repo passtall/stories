@@ -159,3 +159,6 @@ These are excluded from future stories even where no narrative file exists. Trea
 - Somerton Man / Tamam Shud Adelaide Australia 1 December 1948 unidentified body / Rubaiyat torn paper and alleged code / Jessica Jestyn Thomson / Alf Boxall false lead / suitcase Keane labels / 2021 exhumation / Derek Abbott and Colleen Fitzpatrick genetic genealogy 2022 identification Carl Charles Webb / Dorothy Webb estranged wife / 2026 police coronial confirmation pending and death cause unknown
 - North Hollywood shootout / Bank of America robbery 28 February 1997 Los Angeles / Larry Phillips Jr and Emil Matasareanu / 44 minute gunbattle / LAPD patrol officers outgunned / body armor automatic rifles / police weapons reforms
 - Maze Prison escape / H-Block 7 Long Kesh Northern Ireland 25 September 1983 / 38 IRA prisoners / firearms smuggled / prison officers overpowered and uniforms stolen / prison meal delivery van passes internal gates / Tally Lodge struggle / prison officer James Ferris death / 35 breached perimeter / 19 initially at large after recaptures / Hennessy Inquiry report January 1984 / Gerry Kelly and Brendan McFarlane later recaptured
+
+- Securitas Tonbridge cash depot heist, 2006.
+- Dyatlov Pass incident, northern Urals, 1959.
