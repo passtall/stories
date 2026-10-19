@@ -165,3 +165,4 @@ These are excluded from future stories even where no narrative file exists. Trea
 - Flannan Isles Eilean Mor lighthouse keepers disappearance December 1900 / James Ducat Thomas Marshall Donald McArthur / Hesperus Joseph Moore / western landing storm wave hypothesis (previously narrated).
 - Isdal Woman unidentified death Bergen Norway 1970 (already narrated).
 - Mary Celeste abandoned brigantine 1872 / Captain Benjamin Briggs / Dei Gratia discovery / missing lifeboat and crew / Gibraltar inquiry / evacuation hypotheses.
+- Hinterkaifeck murders Bavaria 31 March 1922 / Andreas Cäzilia Gruber Viktoria Cäzilia Josef Gabriel Maria Baumgartner / footsteps attic and footprints in snow without return tracks / Munich newspaper / six murdered / Lorenz Schlittenbauer investigated / possible post-murder occupation of farm / 1923 hidden Reuthaue weapon / unsolved murders / 2026 Bavarian state archives exhibition
