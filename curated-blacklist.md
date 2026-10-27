@@ -1,1080 +1,1080 @@
 # Kuratierte Blacklist der erzählten Geschichten
 
-Quelle: `already-told-stories.md` auf `master` (27.10.2026). Sämtliche Fälle bleiben unabhängig von der Bewertung gesperrt. `–` = nicht bewertet; 1 = schwach, 5 = herausragend.
+Quelle: `already-told-stories.md` auf `master` (27.10.2026). Sämtliche Fälle bleiben unabhängig von der Bewertung gesperrt. `–` = nicht bewertet; 1 = schwach, 5 = herausragend. 179 Bewertungen aus `story-ratings.json` übernommen am 27.10.2026.
 
 ### 1. Kalachi sleeping village, Kazakhstan
 
 Ein Dorf in Kasachstan wurde von rätselhaften Schlafanfällen heimgesucht. Bewohner fielen unvermittelt in einen tiefen Schlaf; als Ursache wurden unter anderem Gase aus Bergwerken untersucht.
 
-**Bewertung:** –
+**Bewertung:** ★★★★☆ (4/5)
 
 ### 2. Sunspot Solar Observatory evacuation, 2018
 
 Ein Sonnenobservatorium in New Mexico wurde plötzlich geräumt und vom FBI abgeriegelt. Die Geheimhaltung schürte wilde Gerüchte, obwohl sich die Ermittlungen gegen einen Mitarbeiter richteten.
 
-**Bewertung:** –
+**Bewertung:** ★★★★☆ (4/5)
 
 ### 3. Cicada 3301
 
 Unbekannte veröffentlichten extrem anspruchsvolle Rätsel mit Kryptografie, Literatur und realen Fundorten. Wer die Prüfungen von Cicada 3301 organisierte und wozu, blieb ungeklärt.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 4. Toynbee Tiles
 
 An Straßen in mehreren Städten erschienen geheimnisvolle Platten mit Botschaften über Jupiter und Auferstehung. Die Suche nach ihrem Urheber wurde selbst zu einem Rätsel.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 5. UVB-76 “The Buzzer”
 
 Ein russischer Kurzwellensender sendet seit Jahrzehnten ein monotones Summen, gelegentlich unterbrochen von verschlüsselten Meldungen. Sein genauer militärischer Zweck ist nicht öffentlich geklärt.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 6. Vela Incident, 1979
 
 Ein amerikanischer Satellit registrierte 1979 einen Doppelblitz im Südatlantik, typisch für eine mögliche Atomexplosion. Ob es sich wirklich um einen geheimen Nukleartest handelte, ist umstritten.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 7. The Bloop
 
 Unterwassermikrofone registrierten ein gewaltiges unbekanntes Geräusch im Pazifik. Die Spekulationen über gigantische Lebewesen wurden später durch die plausible Erklärung von Eisbrüchen verdrängt.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 8. Yamal
 
 In der sibirischen Tundra tauchten gewaltige Krater auf. Forscher führten sie auf explosionsartige Freisetzung von Gas im tauenden Permafrost zurück.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 9. Saiga antelope mass die-off, 2015
 
 2015 starben in Kasachstan innerhalb weniger Wochen ungeheure Mengen von Saiga-Antilopen. Eine normalerweise vorhandene Bakterienart wurde unter ungewöhnlichen Wetterbedingungen tödlich.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 10. Lake Nyos disaster, 1986
 
 1986 strömte nachts Kohlendioxid aus einem kamerunischen Kratersee in umliegende Täler. Rund 1700 Menschen erstickten, ohne überhaupt eine sichtbare Gefahr wahrzunehmen.
 
-**Bewertung:** –
+**Bewertung:** ★★★★★ (5/5)
 
 ### 11. Windsor Hum
 
 Bewohner der kanadischen Stadt Windsor klagten jahrelang über ein tiefes, störendes Brummen. Die Suche nach der Quelle führte unter anderem zu Industrieanlagen auf Zug Island.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 12. Kerala red rain, 2001
 
 In Kerala fiel zeitweise ungewöhnlich rot gefärbter Regen. Die Erklärung durch biologische Partikel konkurrierte öffentlich mit weit spekulativeren Behauptungen über außerirdisches Leben.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 13. Havana Syndrome
 
 Diplomaten in verschiedenen Ländern berichteten von auffälligen Geräuschen und gesundheitlichen Beschwerden. Über eine gemeinsame Ursache und die These einer gezielten Energiewaffe besteht keine gesicherte Einigkeit.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 14. Lady of the Dunes
 
 Jahrzehntelang blieb eine ermordete Frau in den Dünen von Massachusetts unidentifiziert. Erst genetische Genealogie gab ihr den Namen Ruth Marie Terry zurück.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 15. Sverdlovsk anthrax leak, 1979
 
 1979 erkrankten in der sowjetischen Stadt Swerdlowsk zahlreiche Menschen an Milzbrand. Nach jahrelangen Vertuschungsversuchen wurde ein Unfall in einer militärischen Anlage als Ursache anerkannt.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 16. Beebe, Arkansas bird deaths
 
 In Arkansas fielen zum Jahreswechsel Tausende Vögel tot vom Himmel. Untersuchungen verbanden das Geschehen mit nächtlichem Aufschrecken und Kollisionen, vermutlich durch Feuerwerk.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 17. Stuxnet
 
 Eine hochentwickelte Schadsoftware sabotierte gezielt iranische Urananreicherungs-Zentrifugen. Stuxnet zeigte, dass Computercode reale Industrieanlagen zerstören kann.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 18. Norway Spiral
 
 Eine gigantische leuchtende Spirale erschien nachts über Norwegen und löste UFO-Spekulationen aus. Ein misslungener russischer Raketenstart lieferte die Erklärung.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 19. Max Headroom broadcast intrusion
 
 1987 drang ein maskierter Unbekannter in zwei Fernsehsendungen in Chicago ein und zeigte bizarre Aufnahmen. Die Verantwortlichen der Signalentführung wurden nie gefasst.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 20. Spanish Toxic Oil Syndrome, 1981
 
 1981 erkrankten in Spanien Tausende schwer an einer neuartigen Vergiftung. Die Spur führte zu manipuliertem Speiseöl, nachdem zunächst andere Erklärungen im Umlauf waren.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 21. Belgian Coca-Cola illness outbreak, 1999
 
 In Belgien meldeten viele Menschen Beschwerden nach dem Trinken von Coca-Cola-Produkten. Rückrufe folgten; die Untersuchung diskutierte sowohl Verunreinigungen als auch psychogene Faktoren.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 22. South Asian vulture collapse
 
 Die Geierpopulationen Südasiens brachen innerhalb weniger Jahre dramatisch ein. Das für Nutztiere verwendete Schmerzmittel Diclofenac vergiftete die Vögel über Kadaver.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 23. Gloria Ramirez, “The Toxic Lady”
 
 Als eine sterbende Patientin im Krankenhaus behandelt wurde, kollabierten mehrere Mitarbeiter. Berichte über ungewöhnliche Gerüche führten zu chemischen Hypothesen; die genaue Ursache bleibt strittig.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 24. Rajneeshee salmonella bioterror attack, 1984
 
 Anhänger einer religiösen Bewegung kontaminierten in Oregon Restaurant-Salatbars mit Salmonellen, um Wahlen zu beeinflussen. Hunderte erkrankten, ehe die Bioterror-Aktion aufgedeckt wurde.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 25. Operation Sea-Spray, San Francisco
 
 Das US-Militär versprühte Bakterien über San Francisco, um deren Ausbreitung zu testen. Die Bewohner wussten von dem geheimen Experiment nichts.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 26. Goiânia caesium-137 accident, 1987
 
 Nach dem Diebstahl eines medizinischen Strahlengeräts spielte eine Familie mit blau leuchtendem Material. Das radioaktive Cäsium kontaminierte ganze Wohnbereiche und tötete mehrere Menschen.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 27. Four Corners hantavirus outbreak, 1993
 
 Eine rätselhafte Häufung tödlicher Atemwegserkrankungen erschreckte 1993 den Südwesten der USA. Wissenschaftler identifizierten ein Hantavirus, das von Nagetieren übertragen wurde.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 28. Alexander Litvinenko polonium poisoning
 
 Ein ehemaliger russischer Geheimdienstmitarbeiter starb in London an Poloniumvergiftung. Ermittler konnten die radioaktive Spur quer durch die Stadt und auf internationalen Reisen verfolgen.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 29. Kramatorsk radioactive apartment
 
 Über Jahre starben Bewohner einer Wohnung in der Ukraine an schweren Erkrankungen. In einer Betonwand steckte unbemerkt eine radioaktive Cäsiumquelle.
 
-**Bewertung:** –
+**Bewertung:** ★★★★★ (5/5)
 
 ### 30. Georgi Markov ricin assassination
 
 Ein bulgarischer Dissident wurde in London scheinbar beiläufig am Bein verletzt und starb kurz darauf. Eine winzige ricinhaltige Kugel deutete auf einen gezielten Mord hin.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 31. Matsumoto sarin attack
 
 Eine japanische Sekte setzte Sarin in einer Wohngegend frei, um Menschen zu töten. Die Ermittlungen waren ein Vorzeichen des späteren Anschlags auf Tokios U-Bahn.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 32. Amerithrax
 
 Nach dem 11. September trafen Briefe mit Milzbrandsporen bei Medien und Politikern ein. Fünf Menschen starben, die aufwendige FBI-Ermittlung blieb in Teilen umstritten.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 33. Kim Jong-nam VX assassination
 
 Der Halbbruder von Kim Jong-un wurde auf einem Flughafen in Kuala Lumpur mit Nervengift angegriffen. Überwachungskameras zeigten, wie zwei Frauen ihm eine Substanz ins Gesicht rieben.
 
-**Bewertung:** –
+**Bewertung:** ★★★★☆ (4/5)
 
 ### 34. Viktor Yushchenko dioxin poisoning
 
 Der ukrainische Politiker Viktor Juschtschenko wurde mit Dioxin vergiftet. Sein dramatisch verändertes Gesicht wurde während des Präsidentschaftswahlkampfs weltweit bekannt.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 35. Sergei Skripal
 
 Ein ehemaliger Doppelagent und seine Tochter wurden in England mit Nowitschok vergiftet. Die Untersuchung führte zu russischen Verdächtigen und deckte gefährliche Folgeschäden auf.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 36. Air France Flight 447
 
 Ein Passagierflugzeug verschwand nachts über dem Atlantik. Erst die Bergung der Flugschreiber erklärte den Absturz durch vereiste Sensoren, Kontrollverlust und Fehler im Cockpit.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 37. Mahmoud al-Mabhouh assassination in Dubai
 
 Ein Hamas-Funktionär wurde in einem Hotel in Dubai ermordet. Überwachungsvideos zeichneten die Bewegungen eines mutmaßlichen Geheimdienstteams mit falschen Pässen auf.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 38. NotPetya
 
 Eine als Erpressersoftware getarnte Cyberattacke zerstörte weltweit IT-Systeme großer Unternehmen. NotPetya richtete viel mehr Schaden an als ein gewöhnlicher Erpressungsangriff.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 39. TRITON
 
 Angreifer kompromittierten die Sicherheitssteuerung einer Industrieanlage, die normalerweise schwere Unfälle verhindern soll. TRITON verdeutlichte das Risiko gezielter digitaler Industriesabotage.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 40. Chernobyl first detected in Sweden
 
 Schwedische Fachleute registrierten plötzlich ungewöhnliche Radioaktivität, obwohl ihre eigenen Anlagen sicher waren. Die Spur zwang die Sowjetunion, den Unfall von Tschernobyl einzugestehen.
 
-**Bewertung:** –
+**Bewertung:** ★★★★☆ (4/5)
 
 ### 41. Therac-25 radiation overdoses
 
 Ein computergesteuertes Bestrahlungsgerät gab Patienten extrem hohe Strahlendosen. Gefährliche Softwarefehler und schwache Sicherheitsmechanismen kamen erst nach mehreren Unfällen ans Licht.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 42. Ciudad Juárez cobalt-60 contaminated steel
 
 Ein ausrangiertes medizinisches Strahlengerät geriet in Mexiko in die Schrottverwertung. Radioaktives Kobalt gelangte über Altmetall bis in Stahlprodukte.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 43. Lia, Georgia RTG radiation accident
 
 Männer fanden in Georgien kleine, auffallend warme Gegenstände und nutzten sie als Heizquellen. Es handelte sich um hochradioaktive Bestandteile eines alten Generators.
 
-**Bewertung:** –
+**Bewertung:** ★★★★☆ (4/5)
 
 ### 44. 1976 Philadelphia Legionnaires’ disease outbreak
 
 Nach einem Veteranenkongress in Philadelphia starben Teilnehmer an einer rätselhaften Lungenentzündung. Forscher identifizierten eine bis dahin unbekannte bakterielle Ursache: Legionellen.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 45. Best Western Room 225 carbon-monoxide deaths, Boone
 
 In einem Hotelzimmer starben beziehungsweise erkrankten nacheinander Gäste. Erst später wurde Kohlenmonoxid aus einer technischen Anlage als unsichtbare Ursache erkannt.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 46. Tokaimura JCO criticality accident, 1999
 
 Arbeiter in einer japanischen Nuklearfabrik mischten Uranlösung entgegen den Sicherheitsregeln. Eine unkontrollierte Kettenreaktion setzte schwere, teils tödliche Strahlung frei.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 47. Lake Peigneur disaster, 1980
 
 Eine Bohrung verband versehentlich einen See in Louisiana mit einem Salzbergwerk. Ein gigantischer Strudel verschluckte Bohrgerät und Ufergelände.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 48. Boeing 737 rudder-reversal mystery: United 585
 
 Mehrere Boeing-737-Unglücke blieben zunächst ungeklärt. Die Untersuchung identifizierte schließlich ein Problem mit der Seitenrudersteuerung, das plötzliche Kontrollverluste auslösen konnte.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 49. King’s Cross fire and the trench effect, 1987
 
 Ein Feuer unter einer Londoner U-Bahn-Rolltreppe verwandelte sich unerwartet in eine tödliche Feuerwalze. Die Untersuchung entdeckte den damals unterschätzten Trench-Effekt.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 50. AeroPerú Flight 603
 
 Nach Wartungsarbeiten waren Messöffnungen an einem Verkehrsflugzeug mit Klebeband verdeckt geblieben. Widersprüchliche Anzeigen verwirrten die Crew und führten zum Absturz ins Meer.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 51. Malaysia Airlines MH134 A330
 
 Ein Airbus startete, obwohl noch Abdeckungen auf allen drei Pitot-Sonden steckten. Die Besatzung geriet wegen falscher Geschwindigkeitswerte in erhebliche Schwierigkeiten.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 52. XL Airways Germany Flight 888T
 
 Bei einem Testflug lieferten vereiste Anstellwinkelsensoren falsche Daten. Das Schutzsystem des Airbus reagierte nicht wie erwartet, und die Maschine stürzte ab.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 53. Birgenair Flight 301
 
 Eine verstopfte Pitot-Sonde zeigte kurz nach dem Start falsche Werte. Die Crew verlor angesichts widersprüchlicher Instrumente die Kontrolle über die Passagiermaschine.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 54. Guadalajara sewer explosions, 1992
 
 Aus einer undichten Leitung gelangte Benzin in die Kanalisation von Guadalajara. Gewaltige Explosionen rissen Straßen auf und zerstörten Wohnhäuser.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 55. Sayano-Shushenskaya hydroelectric disaster, 2009
 
 Eine riesige Turbine in einem russischen Wasserkraftwerk löste sich aus ihrer Verankerung. Wasser flutete das Maschinenhaus und tötete zahlreiche Beschäftigte.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 56. Alexander L. Kielland platform collapse, 1980
 
 Eine Offshore-Wohnplattform kenterte nach dem Bruch einer beschädigten Stahlstrebe. Der Unfall zeigte gravierende Schwachstellen bei Konstruktion und Evakuierung.
 
-**Bewertung:** –
+**Bewertung:** ★★★★☆ (4/5)
 
 ### 57. Eschede ICE disaster, 1998
 
 Ein ICE entgleiste 1998 nach dem Bruch eines Radreifens und prallte gegen eine Brücke. 101 Menschen kamen bei dem Unglück von Eschede ums Leben.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 58. China Airlines Flight 611
 
 Eine Passagiermaschine zerbrach während des Flugs, ohne vorherige Notmeldung. Die Ursache lag in einer Jahrzehnte alten, fehlerhaft reparierten Beschädigung des Hecks.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 59. British Airways Flight 9
 
 Eine Boeing 747 flog nachts in Vulkanasche und verlor alle vier Triebwerke. Die Piloten konnten mehrere Triebwerke wieder starten und die Maschine landen.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 60. Hyatt Regency walkway collapse, 1981
 
 Zwei schwebende Laufstege brachen während einer Veranstaltung in einem Hotel zusammen. Die tödliche Schwachstelle lag in einer geänderten Aufhängungskonstruktion.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 61. Piper Alpha disaster, 1988
 
 Eine Ölplattform in der Nordsee wurde von Explosionen und Feuer verwüstet. Fehler in Wartung, Kommunikation und Notfallsystemen verschlimmerten die Katastrophe.
 
-**Bewertung:** –
+**Bewertung:** ★★★★☆ (4/5)
 
 ### 62. PEPCON ammonium-perchlorate explosions, 1988
 
 Eine Fabrik für Raketentreibstoff in Nevada explodierte in einer Serie riesiger Feuerbälle. Die Druckwellen richteten kilometerweit Schäden an.
 
-**Bewertung:** –
+**Bewertung:** ★★★★☆ (4/5)
 
 ### 63. Damascus Titan II missile explosion, 1980
 
 Ein fallendes Werkzeug beschädigte eine mit einem Atom-Sprengkopf bestückte Titan-II-Rakete. Austretender Treibstoff explodierte und schleuderte den Sprengkopf aus dem Silo.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 64. Qantas Flight 72
 
 Ein Airbus erlitt während des Flugs plötzlich mehrere heftige Nickbewegungen. Fehlerhafte Daten einer Bordelektronikeinheit brachten Passagiere zu Fall und verletzten viele.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 65. Bangladesh Bank SWIFT heist, 2016
 
 Hacker verschafften sich Zugang zum Zahlungssystem der Zentralbank von Bangladesch. Sie veranlassten Überweisungen in Millionenhöhe, von denen ein Teil über Casinos verschwand.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 66. Ru-106 radioactive cloud over Europe
 
 Messstationen entdeckten 2017 eine ungewöhnliche Wolke radioaktiven Rutheniums über Europa. Die Spur deutete auf Russland, doch die genaue Freisetzung wurde nicht abschließend geklärt.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 67. Banco Central Fortaleza tunnel robbery, 2005
 
 Eine Bande grub einen langen Tunnel unter eine brasilianische Bank und räumte deren Tresor aus. Der präzise vorbereitete Coup brachte eine gewaltige Bargeldbeute.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 68. Antwerp Diamond Center heist, 2003
 
 Einbrecher überwanden zahlreiche Sicherungen eines belgischen Diamantentresors. Ihre verblüffend sorgfältige Vorbereitung wurde durch zurückgelassene Spuren zunichtegemacht.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 69. Banco Río Acassuso “Robbery of the Century”, 2006
 
 Bankräuber nahmen in Argentinien Geiseln und hielten die Polizei mit Verhandlungen hin. Währenddessen verschwanden sie samt Beute durch einen vorbereiteten Tunnel.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 70. Isabella Stewart Gardner Museum heist, 1990
 
 Als Polizisten verkleidete Räuber überwältigten Sicherheitsleute in einem Museum in Boston. Viele der gestohlenen Meisterwerke blieben trotz jahrzehntelanger Fahndung verschwunden.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 71. Chicago Tylenol cyanide murders, 1982
 
 Unbekannte vergifteten in Chicago Schmerzmittelkapseln mit Cyanid. Die Todesfälle lösten eine landesweite Panik aus und veränderten Verpackungssicherheitsregeln.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 72. Erie collar-bomb robbery
 
 Ein Pizzabote wurde mit einer Bombe am Hals zu einem Bankraub gezwungen und starb bei der Explosion. Später entdeckten Ermittler ein verworrenes Komplott hinter der Tat.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 73. Clifford Stoll
 
 Ein Astronom ging einer winzigen Abrechnungsdifferenz in einem Rechnernetz nach. Daraus wurde eine internationale Jagd auf einen Hacker, der Daten für ausländische Spione sammelte.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 74. Operation Mincemeat, 1943
 
 Britische Geheimdienstler legten einer Leiche gefälschte geheime Papiere bei. Die Deutschen sollten dadurch an einen falschen Ort für die bevorstehende alliierte Landung glauben.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 75. Charles Urschel kidnapping
 
 Gangster entführten einen reichen Geschäftsmann und hielten ihn gegen Lösegeld gefangen. Der Entführte sammelte mit verbundenen Augen Hinweise für die Ermittler.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 76. Graham Young
 
 Ein besessener Giftmischer vergiftete zuerst Menschen in seinem Umfeld und später Kollegen. Die zunächst mysteriösen Erkrankungen ließen sich auf seine chemischen Experimente zurückführen.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 77. Piltdown Man forgery and its exposure, 1912–1953
 
 Angebliche Fossilien eines frühen Menschen wurden als epochale Entdeckung gefeiert. Jahrzehnte später entlarvten Untersuchungen die Knochen als raffiniert kombinierte Fälschung.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 78. Chowchilla school-bus kidnapping, 1976
 
 Drei Männer entführten 1976 einen Schulbus mit Kindern und vergruben die Geiseln in einem Anhänger. Den Eingeschlossenen gelang es, sich selbst freizukämpfen.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 79. Baker Street bank burglary, 1971
 
 Eine Bande grub von einem Laden aus in den Tresorraum einer Londoner Bank. Funkgespräche der Einbrecher wurden zufällig mitgehört, doch der Raub gelang zunächst.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 80. Discovery and identification of Richard III, Leicester, 2012–2013
 
 Archäologen entdeckten unter einem Parkplatz in Leicester menschliche Überreste. Verletzungen, historische Dokumente und DNA erlaubten die Identifizierung als König Richard III.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 81. John Snow
 
 Während einer Choleraepidemie kartierte der Arzt John Snow die Todesfälle um eine Wasserpumpe. Der Fall wurde ein Klassiker der epidemiologischen Spurensuche.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 82. William Sebold
 
 Ein vom FBI geführter Doppelagent half, ein deutsches Spionagenetz in den USA zu infiltrieren. Verdeckte Aufnahmen dokumentierten geheime Treffen und führten zu Festnahmen.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 83. Boston molasses flood and liability investigation, 1919
 
 Ein riesiger Lagertank barst in Boston und schickte eine Melassewelle durch die Straßen. Menschen starben; die Untersuchung deckte schwere Mängel am Behälter auf.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 84. Morris worm, 1988
 
 Ein sich selbst verbreitendes Computerprogramm überlastete 1988 einen großen Teil des frühen Internets. Der Morris-Wurm machte die Risiken vernetzter Systeme schlagartig sichtbar.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 85. Kuru
 
 Eine tödliche Hirnerkrankung wurde bei den Fore in Papua-Neuguinea untersucht. Forschungen zeigten den Zusammenhang mit Bestattungsritualen und infektiösen Prionen.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 86. Minamata methylmercury disease investigation, Japan, 1956–1973
 
 Menschen an einer japanischen Bucht entwickelten schwere neurologische Schäden. Industrieabwasser hatte Fisch mit Quecksilber vergiftet und damit die Nahrungskette belastet.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 87. ANOM
 
 Die Polizei verbreitete einen vermeintlich sicheren verschlüsselten Messenger unter Kriminellen. Tatsächlich lasen Ermittler die Nachrichten mit und organisierten weltweit Festnahmen.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 88. Crypto AG
 
 Eine Schweizer Herstellerfirma verkaufte Staaten manipulierte Verschlüsselungstechnik. Geheimdienste konnten dadurch jahrzehntelang als sicher betrachtete Nachrichten mitlesen.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 89. 2011 E. coli O104:H4 outbreak
 
 2011 erkrankten in Europa zahlreiche Menschen an einem gefährlichen E.-coli-Stamm. Die Suche nach der Ursache führte durch ein komplexes Lebensmittelnetz zu Bockshornkleesamen.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 90. Silk Road
 
 Ein riesiger Darknet-Markt handelte mit illegalen Waren über Tor und Bitcoin. Ermittler verknüpften technische und persönliche Spuren bis zum Betreiber Ross Ulbricht.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 91. AlphaBay
 
 AlphaBay war einer der größten illegalen Marktplätze im Darknet. Eine internationale Fahndung identifizierte den Betreiber und führte zur Abschaltung des Netzwerks.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 92. Operation Ivy Bells
 
 Amerikanische Taucher zapften heimlich ein sowjetisches Untersee-Kommunikationskabel an. Die Spionageoperation wurde durch einen Informanten kompromittiert.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 93. Hatton Garden safe deposit burglary, 2015
 
 Eine Bande älterer Einbrecher durchbrach über Ostern eine Betonwand zu Londoner Schließfächern. Ihre große Beute und spätere Festnahme machten den Fall berühmt.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 94. Volkswagen Dieselgate
 
 Forscher fanden massive Abweichungen zwischen Abgaswerten auf der Straße und in offiziellen Tests. Die Untersuchung enthüllte manipulierte Diesel-Motorsteuerungen.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 95. Great Canadian Maple Syrup Heist, 2011–2012
 
 Diebe stahlen tonnenweise Ahornsirup aus einer kanadischen Reserve und ersetzten Inhalte in Fässern. Der ungewöhnliche Rohstoffdiebstahl beschäftigte lange die Ermittler.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 96. Operation Bernhard
 
 Die Nazis ließen KZ-Häftlinge täuschend echte britische Banknoten herstellen. Die Fälschungen sollten die Kriegsgegner wirtschaftlich und geheimdienstlich schwächen.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 97. Wirecard collapse
 
 Bei der deutschen Zahlungsfirma fehlten plötzlich angeblich vorhandene 1,9 Milliarden Euro. Wirecard brach zusammen und ein gewaltiger Betrugs- und Aufsichtsskandal wurde sichtbar.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 98. Harrison Okene
 
 Nach dem Untergang eines Schiffes vor Nigeria überlebte ein Koch tagelang in einer Luftblase. Ein Taucher fand ihn völlig unerwartet lebend im Wrack.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 99. CIA Project AZORIAN
 
 Die CIA ließ ein Spezialschiff bauen, um ein gesunkenes sowjetisches U-Boot vom Meeresgrund zu bergen. Ein angebliches Tiefsee-Bergbauprojekt tarnte die Operation.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 100. Operation Paul Bunyan
 
 Nach einem tödlichen Zwischenfall an der koreanischen Grenze schickten die USA ein gigantisches militärisches Aufgebot. Ziel war eine scheinbar banale Aufgabe: einen Baum fällen.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 101. Nicholas Alkemade 18,000-foot fall without parachute, 1944
 
 Ein Flieger sprang aus einem brennenden Bomber, obwohl er keinen Fallschirm hatte. Schnee und Baumkronen bremsten seinen Sturz, und er überlebte.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 102. Goldsboro B-52 nuclear weapons accident, North Carolina, 1961
 
 Ein amerikanischer Bomber zerbrach über North Carolina und verlor zwei Wasserstoffbomben. Technische Sicherungen verhinderten, dass der Vorfall eine nukleare Katastrophe wurde.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 103. Phantom of Heilbronn
 
 Im Mittelpunkt dieses Falls steht Phantom of Heilbronn. Contaminated forensic DNA swabs, 1993–2009. 
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 104. Frédéric Bourdin
 
 Im Mittelpunkt dieses Falls steht Frédéric Bourdin. Nicholas Barclay impersonation, 1997–1998. 
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 105. Christian Karl Gerhartsreiter
 
 Im Mittelpunkt dieses Falls steht Christian Karl Gerhartsreiter. John Sohus murder, 1985–2013. 
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 106. US Navy L-8 Ghost Blimp
 
 Im Mittelpunkt dieses Falls steht US Navy L-8 Ghost Blimp. Missing pilots, 1942. 
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 107. Västberga G4S helicopter heist, Stockholm, 2009
 
 Der Fall Västberga G4S helicopter heist, Stockholm, 2009 wurde bereits erzählt. Die ursprüngliche Blacklist enthält dazu bisher kaum Einzelheiten; für eine belastbare ausführliche Zusammenfassung ist eine zusätzliche Recherche nötig.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 108. Mark Hofmann
 
 Im Mittelpunkt dieses Falls steht Mark Hofmann. Salamander Letter forgeries and 1985 bombings. 
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 109. John Schneeberger
 
 Im Mittelpunkt dieses Falls steht John Schneeberger. Manipulated DNA tests, Canada, 1992–1999. 
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 110. Shin Sang-ok and Choi Eun-hee
 
 Im Mittelpunkt dieses Falls steht Shin Sang-ok and Choi Eun-hee. Kim Jong-il kidnapping, 1978–1986. 
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 111. Delphine LaLaurie
 
 Im Mittelpunkt dieses Falls steht Delphine LaLaurie. LaLaurie mansion, New Orleans, 1834. 
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 112. John Darwin
 
 Im Mittelpunkt dieses Falls steht John Darwin. Canoe Man staged death and insurance fraud, 2002–2008. 
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 113. Bobby Dunbar
 
 Im Mittelpunkt dieses Falls steht Bobby Dunbar. Charles Bruce Anderson mistaken identity, disappearance 1912, DNA revelation 2004. 
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 114. Richard Floyd McCoy Jr
 
 Im Mittelpunkt dieses Falls steht Richard Floyd McCoy Jr. United Airlines Flight 855 hijacking, 1972; prison escape and death, 1974. 
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 115. Jan Hendrik Schön
 
 Im Mittelpunkt dieses Falls steht Jan Hendrik Schön. Bell Labs fabricated molecular electronics and superconductivity data. Scientific misconduct investigation, 1998–2002.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 116. Canadian Caper
 
 Im Mittelpunkt dieses Falls steht Canadian Caper. Studio Six Productions. Rescue of six US diplomats from Tehran, 1979–1980.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 117. Scientology Operation Snow White
 
 Im Mittelpunkt dieses Falls steht Scientology Operation Snow White. Guardian's Office infiltration of IRS and DOJ. FBI raids 1977 and convictions 1979–1980.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 118. Tham Luang Nang Non Thai cave rescue
 
 Im Mittelpunkt dieses Falls steht Tham Luang Nang Non Thai cave rescue. Wild Boars football team. Richard Harris and Craig Challen. 12 boys and coach rescued under anaesthesia, June–July 2018.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 119. Konrad Kujau
 
 Im Mittelpunkt dieses Falls steht Konrad Kujau. Stern forged Hitler Diaries scandal, 1980–1985. Forensic debunking and fraud convictions.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 120. Kunsthal Rotterdam 2012 seven paintings art heist
 
 Im Mittelpunkt dieses Falls steht Kunsthal Rotterdam 2012 seven paintings art heist. Forensic ashes inquiry 2013. Romanian convictions 2013–2014. Fake Picasso discovery 2018.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 121. 2008 Chinese melamine-contaminated infant formula
 
 Im Mittelpunkt dieses Falls steht 2008 Chinese melamine-contaminated infant formula. Zhang Yujun and Tian Wenhua convictions 2009. 
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 122. No Kum-sok
 
 Im Mittelpunkt dieses Falls steht No Kum-sok. North Korean MiG-15bis fighter defection to Kimpo Air Base, 21 September 1953. Operation Moolah $100,000 reward. USAF technical investigation.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 123. McDonald's Monopoly promotion fraud
 
 Im Mittelpunkt dieses Falls steht McDonald's Monopoly promotion fraud. Jerome Uncle Jerry Jacobson. FBI Operation Final Answer 1989–2004. Fake $1 million winners. Michael Hoover undercover video.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 124. John Leonard Orr
 
 Im Mittelpunkt dieses Falls steht John Leonard Orr. Glendale fire captain serial arson investigator. 1987 Bakersfield Craft Mart fingerprint. 1984 Oles Home Center fire four deaths. Points of Origin manuscript.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 125. L’Anse aux Meadows
 
 Im Mittelpunkt dieses Falls steht L’Anse aux Meadows. Helge and Anne Stine Ingstad Viking settlement discovery 1960–1968. 2021 Nature study Margot Kuitems Michael Dee dating Norse wood cutting to AD 1021 using AD 993 cosmic radiocarbon spike.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 126. Michael Malloy
 
 Im Mittelpunkt dieses Falls steht Michael Malloy. Bronx Murder Trust insurance-murder conspiracy 1932–1933. Tony Marino Francis Pasqua Daniel Kriesberg Joseph Murphy Harry Green. Convictions and executions 1934.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 127. Fine Cotton racing ring-in scandal
 
 Im Mittelpunkt dieses Falls steht Fine Cotton racing ring-in scandal. Bold Personality and Dashing Solitaire horse substitution. John Gillespie Hayden Haitana Robert North. Eagle Farm Brisbane 18 August 1984. White paint exposed fraud.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 128. Battle of Castle Itter
 
 Im Mittelpunkt dieses Falls steht Battle of Castle Itter. Schloss Itter Tyrol 4–5 May 1945. US Captain John C Lee. Wehrmacht Major Josef Sepp Gangl. French VIP prisoners and Jean Borotra.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 129. Rainbow Warrior bombing Auckland 10 July 1985
 
 Im Mittelpunkt dieses Falls steht Rainbow Warrior bombing Auckland 10 July 1985. Greenpeace photographer Fernando Pereira. French DGSE Operation Satanique. Alain Mafart and Dominique Prieur Swiss Turenge aliases. LB 8945 campervan lead.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 130. Bluebelle yacht 1961 mass murder
 
 Im Mittelpunkt dieses Falls steht Bluebelle yacht 1961 mass murder. Terry Jo Duperrault sole survivor 82 hours on cork life float. Captain Theo rescue 16 November 1961. Harvey false squall account and suicide. US Coast Guard 25 April 1962 investigation.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 131. Cherbourg Project
 
 Im Mittelpunkt dieses Falls steht Cherbourg Project. Five Israeli Saar class patrol boats leaving French port Cherbourg Christmas 25 December 1969. French arms embargo. Mordechai Mocca Limon. Starboat and Weill Norwegian oil company cover Panama registration.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 132. Azaria Chamberlain
 
 Im Mittelpunkt dieses Falls steht Azaria Chamberlain. Uluru Ayers Rock infant disappearance 17 August 1980. Lindy and Michael Chamberlain wrongful murder convictions 1982. Faulty fetal blood tests and Torana bitumen sound deadener. Azaria matinee jacket found during David Brett search 1986.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 133. Unabomber
 
 Im Mittelpunkt dieses Falls steht Unabomber. Theodore Ted Kaczynski. FBI UNABOM university airline mail bomb campaign 1978–1995. Buckley Crist first parcel too large for mailbox. 1987 Salt Lake City witness sketch.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 134. Ernest Shackleton Endurance Imperial Trans-Antarctic Expedition 1914–1916
 
 Im Mittelpunkt dieses Falls steht Ernest Shackleton Endurance Imperial Trans-Antarctic Expedition 1914–1916. Ship crushed and sank Weddell Sea 21 November 1915. Frank Worsley navigation. 28 crew survival and James Caird voyage. Elephant Island rescue 30 August 1916.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 135. VOC Batavia shipwreck on Morning Reef Houtman Abrolhos 4 June 1629
 
 Im Mittelpunkt dieses Falls steht VOC Batavia shipwreck on Morning Reef Houtman Abrolhos 4 June 1629. Jeronimus Cornelisz mutiny and murders of around 125 survivors on Beacon Island. Wiebbe Hayes soldiers survive on West Wallabi Island and resist. Francisco Pelsaert Sardam rescue 17 September 1629. Court trials and seven hangings 2 October 1629.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 136. Oklo natural nuclear fission reactors Gabon
 
 Im Mittelpunkt dieses Falls steht Oklo natural nuclear fission reactors Gabon. Pierrelatte CEA France uranium-235 isotope anomaly 0.7171 instead of 0.7202 in 1972. Uranium processing chain traced to Oklo. Neodymium samarium fission fingerprints. Paul Kazuo Kuroda 1956 prediction.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 137. Colin Pitchfork DNA fingerprinting murders of Lynda Mann 1983 and Dawn Ashworth 1986 in Narborough Enderby Leicestershire
 
 Im Mittelpunkt dieses Falls steht Colin Pitchfork DNA fingerprinting murders of Lynda Mann 1983 and Dawn Ashworth 1986 in Narborough Enderby Leicestershire. Richard Buckland false confession and first DNA exoneration 1986. Alec Jeffreys University of Leicester pioneering forensic DNA 1984–1986. David Baker mass screening 5511 men 1987. Ian Kelly substitute blood sample forged identity.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 138. June 1962 Alcatraz escape
 
 Im Mittelpunkt dieses Falls steht June 1962 Alcatraz escape. Frank Lee Morris John Anglin Clarence Anglin. Allen West left behind. Dummy plaster heads and human hair. Cell vent holes secret workshop and raincoat raft.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 139. Osage Nation Reign of Terror murders Oklahoma 1921–1929
 
 Im Mittelpunkt dieses Falls steht Osage Nation Reign of Terror murders Oklahoma 1921–1929. Anna Brown 1921 shooting. Lizzie Q Kyle suspicious death. Henry Roan 1923 shooting and $25000 life insurance. Rita and Bill Smith 1923 house bombing.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 140. Saliera Benvenuto Cellini theft from Kunsthistorisches Museum Vienna 11 May 2003
 
 Im Mittelpunkt dieses Falls steht Saliera Benvenuto Cellini theft from Kunsthistorisches Museum Vienna 11 May 2003. Robert Mang alarm system salesman scaffold entry. Ignored 03:55 security alarm. 2003 and 2005 ransom demands to UNIQA. Detachable Neptune trident recovered Burggarten October 2005.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 141. Marcel Petiot serial murders occupied Paris
 
 Im Mittelpunkt dieses Falls steht Marcel Petiot serial murders occupied Paris. Fake Dr Eugène Resistance escape route to Argentina 1941–1944. René Guschinow and other Jewish refugees disappear. Gestapo investigation and arrest May 1943 released January 1944. March 11 1944 smoke and human remains at 21 Rue Le Sueur.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 142. Christopher Thomas Knight North Pond Hermit
 
 Im Mittelpunkt dieses Falls steht Christopher Thomas Knight North Pond Hermit. Ghost burglar Rome Smithfield Maine. Disappeared into Maine woods 1986 aged 20. 27 years isolated tent camp and roughly 1000 food propane battery cabin thefts. 2002 homeowners meeting and 2005 local newspaper legend.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 143. Antikythera mechanism ancient Greek astronomical geared analog calculator
 
 Im Mittelpunkt dieses Falls steht Antikythera mechanism ancient Greek astronomical geared analog calculator. Sponge divers discover Antikythera wreck 1900 and artifact recovered 1901. Spyridon Stais gear recognition May 1902 versus Valerios Stais attribution. Albert Rehm 1905 planetarium studies. Derek de Solla Price 1950s through Gears from the Greeks 1974 with Karakalos X-rays.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 144. Allende meteorite fall Chihuahua Mexico 8 February 1969
 
 Im Mittelpunkt dieses Falls steht Allende meteorite fall Chihuahua Mexico 8 February 1969. Calcium-aluminium-rich inclusions CAIs. Clayton Grossman Mayeda 1973 anomalous oxygen isotope ratios. 4.567 billion year U-Pb dating. Variable uranium isotope corrections.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 145. DDR hot air balloon escape 1979
 
 Im Mittelpunkt dieses Falls steht DDR hot air balloon escape 1979. Peter and Doris Strelzyk and Günter and Petra Wetzel with four children. Pößneck clandestine balloon construction 1978–1979. Failed 4 July 1979 flight landing 2 km before border. Balloon found by hunter 20 July.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 146. Mona Lisa Louvre theft Paris 21 August 1911
 
 Im Mittelpunkt dieses Falls steht Mona Lisa Louvre theft Paris 21 August 1911. Louis Béroud discovery 22 August. Guillaume Apollinaire and Pablo Picasso questioned. Alfredo Geri and Giovanni Poggi Florence December 1913 recovery. Peruggia arrest 12 December 1913 and 1914 trial.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 147. Somerton Man
 
 Im Mittelpunkt dieses Falls steht Somerton Man. Tamam Shud Adelaide Australia 1 December 1948 unidentified body. Rubaiyat torn paper and alleged code. Jessica Jestyn Thomson. Alf Boxall false lead.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 148. North Hollywood shootout
 
 Im Mittelpunkt dieses Falls steht North Hollywood shootout. Bank of America robbery 28 February 1997 Los Angeles. Larry Phillips Jr and Emil Matasareanu. 44 minute gunbattle. LAPD patrol officers outgunned.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 149. Maze Prison escape
 
 Im Mittelpunkt dieses Falls steht Maze Prison escape. H-Block 7 Long Kesh Northern Ireland 25 September 1983. Prison officers overpowered and uniforms stolen. Prison meal delivery van passes internal gates. Tally Lodge struggle.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 150. Securitas Tonbridge cash depot heist, 2006
 
 Der Fall Securitas Tonbridge cash depot heist, 2006 wurde bereits erzählt. Die ursprüngliche Blacklist enthält dazu bisher kaum Einzelheiten; für eine belastbare ausführliche Zusammenfassung ist eine zusätzliche Recherche nötig.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 151. Dyatlov Pass incident, northern Urals, 1959
 
 Der Fall Dyatlov Pass incident, northern Urals, 1959 wurde bereits erzählt. Die ursprüngliche Blacklist enthält dazu bisher kaum Einzelheiten; für eine belastbare ausführliche Zusammenfassung ist eine zusätzliche Recherche nötig.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 152. Flannan Isles Eilean Mor lighthouse keepers disappearance December 1900
 
 Im Mittelpunkt dieses Falls steht Flannan Isles Eilean Mor lighthouse keepers disappearance December 1900. James Ducat Thomas Marshall Donald McArthur. Hesperus Joseph Moore. Western landing storm wave hypothesis (previously narrated).
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 153. Isdal Woman unidentified death Bergen Norway 1970 (already narrated)
 
 Der Fall Isdal Woman unidentified death Bergen Norway 1970 (already narrated) wurde bereits erzählt. Die ursprüngliche Blacklist enthält dazu bisher kaum Einzelheiten; für eine belastbare ausführliche Zusammenfassung ist eine zusätzliche Recherche nötig.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 154. Mary Celeste abandoned brigantine 1872
 
 Im Mittelpunkt dieses Falls steht Mary Celeste abandoned brigantine 1872. Captain Benjamin Briggs. Dei Gratia discovery. Missing lifeboat and crew. Evacuation hypotheses.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 155. Hinterkaifeck murders Bavaria 31 March 1922
 
 Im Mittelpunkt dieses Falls steht Hinterkaifeck murders Bavaria 31 March 1922. Andreas Cäzilia Gruber Viktoria Cäzilia Josef Gabriel Maria Baumgartner. Footsteps attic and footprints in snow without return tracks. Lorenz Schlittenbauer investigated. Possible post-murder occupation of farm.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 156. Yuba County Five disappearance California 24 February 1978
 
 Im Mittelpunkt dieses Falls steht Yuba County Five disappearance California 24 February 1978. Gary Mathias Ted Weiher Jack Madruga Bill Sterling Jackie Huett. Chico State basketball game. Mercury Montego abandoned on snowy Plumas National Forest road. Joseph Schons witness.
 
-**Bewertung:** –
+**Bewertung:** ★★★★☆ (4/5)
 
 ### 157. Lead Masks Case
 
 Im Mittelpunkt dieses Falls steht Lead Masks Case. Caso das Máscaras de Chumbo. Morro do Vintém Niterói Brazil August 1966. Electronics technicians Manoel Pereira da Cruz and Miguel José Viana. Two handmade lead eye masks.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 158. Tunguska event Siberia 30 June 1908
 
 Im Mittelpunkt dieses Falls steht Tunguska event Siberia 30 June 1908. Huge atmospheric explosion Stony Tunguska Evenki eyewitnesses. Leonid Kulik 1921 failed and 1927 successful expedition. Radial butterfly pattern 80 million fallen trees 2150 square kilometres. Standing telegraph-pole trees near epicenter.
 
-**Bewertung:** –
+**Bewertung:** ★★★★☆ (4/5)
 
 ### 159. MV Joyita disappearance South Pacific 1955
 
 Im Mittelpunkt dieses Falls steht MV Joyita disappearance South Pacific 1955. Captain Thomas Dusty Miller. Found drifting near Fiji November 10. Bloodstained bandages. Cooling pipe and bilge pump faults.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 160. Rendlesham Forest incident
 
 Im Mittelpunkt dieses Falls steht Rendlesham Forest incident. RAF Woodbridge and RAF Bentwaters Suffolk England. Jim Penniston, John Burroughs, Edward Cabansag and Lt Col Charles Halt. Unexplained lights 26 and 28 December 1980. Halt memo dated 13 January 1981 and Halt tape recording.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 161. Glico-Morinaga case
 
 Im Mittelpunkt dieses Falls steht Glico-Morinaga case. Kaijin 21 Menso (Monster with 21 Faces). Katsuhisa Ezaki, Glico president, kidnapped from Nishinomiya home 18 March 1984 and escaped 21 March. Ransom 1 billion yen plus 100 kg gold. Press taunts and changing ransom instructions.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 162. Battle of Los Angeles
 
 Im Mittelpunkt dieses Falls steht Battle of Los Angeles. Great Los Angeles Air Raid. 24–25 February 1942. Japanese submarine I-17 shelling Ellwood oil field 23 February. Navy warning 24 February.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 163. Agatha Christie disappearance
 
 Im Mittelpunkt dieses Falls steht Agatha Christie disappearance. Left home 3 December 1926, found 14 December. Abandoned Morris Cowley at Newlands Corner Surrey. Superintendent William Kenward investigation. Husband Archie Christie and Nancy Neele affair.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 164. Floreana
 
 Im Mittelpunkt dieses Falls steht Floreana. Friedrich Ritter and Dore Strauch. Heinz and Margret Wittmer. Self-styled Baroness Eloise Wagner de Bousquet, Robert Philippson and Rudolf Lorenz. Baroness and Philippson vanished March 1934, allegedly sailed on American yacht to Tahiti.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 165. Great Diamond Hoax of 1872
 
 Im Mittelpunkt dieses Falls steht Great Diamond Hoax of 1872. Philip Arnold and John Slack Kentucky prospectors. Bogus diamond field on Wyoming-Colorado border. Bankers William C Ralston and Asbury Harpending. Purchase of rough diamonds rubies sapphires from London dealer Leopold Keller 1871.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 166. Sodder children Christmas Eve fire Fayetteville West Virginia 24–25 December 1945
 
 Im Mittelpunkt dieses Falls steht Sodder children Christmas Eve fire Fayetteville West Virginia 24–25 December 1945. George and Jennie Sodder. Missing Maurice Martha Louis Jennie Betty. 00:30 mistaken phone call and roof thud. Missing ladder, trucks failing to start, delayed volunteer fire brigade.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 167. Pont-Saint-Esprit
 
 Im Mittelpunkt dieses Falls steht Pont-Saint-Esprit. Le Pain Maudit mass poisoning France August 1951. Postman Léon Armunier hallucinations. Around 200–300 ill and 5–7 deaths. Baker Roch Briand and suspected contaminated bread, differing household food exposures.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 168. Voynich Manuscript
 
 Im Mittelpunkt dieses Falls steht Voynich Manuscript. Yale Beinecke MS 408. Wilfrid Voynich 1912 acquisition from Jesuit collection Frascati. Unknown alphabet and botanical, zodiac, astronomical and bathing illustrations. Johannes Marcus Marci 1665 letter to Athanasius Kircher alleging Emperor Rudolf II payment of 600 ducats and Roger Bacon authorship.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 169. British South American Airways Star Dust
 
 Im Mittelpunkt dieses Falls steht British South American Airways Star Dust. Flight CS59 Avro Lancastrian G-AGWH. Buenos Aires to Santiago August 2 1947. Captain Reginald Cook, five crew and six passengers including King's Messenger Paul Simpson. 17:41 GMT final Morse message ETA SANTIAGO 17.45 HRS STENDEC repeated after two requests.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 170. Mary Toft rabbit birth hoax
 
 Im Mittelpunkt dieses Falls steht Mary Toft rabbit birth hoax. Godalming Guildford London England 1726. Mary and Joshua Toft. Rabbit chased while pregnant April 1726 and maternal impression belief. Miscarriage August then animal parts purportedly delivered from 27 September.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 171. Circleville Letters
 
 Im Mittelpunkt dieses Falls steht Circleville Letters. Circleville Letter Writer. Pickaway County Ohio 1977–1994. School bus driver Mary Gillispie, husband Ronald Ron Gillispie and superintendent Gordon Massie. Anonymous block-capital harassment letters postmarked Columbus, alleged extramarital affair, suspected former coworker David Longberry.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 172. Operation Gold
 
 Im Mittelpunkt dieses Falls steht Operation Gold. Operation Stopwatch. Berlin Tunnel West Berlin Rudow to East Berlin Altglienicke Schönefelder Chaussee 1953–1956. CIA and UK SIS MI6 planning December 1953, Allen Dulles authorization January 1954. US Air Force radar warehouse cover.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 173. Sir John Franklin lost Northwest Passage Arctic expedition 1845–1848
 
 Im Mittelpunkt dieses Falls steht Sir John Franklin lost Northwest Passage Arctic expedition 1845–1848. HMS Erebus and HMS Terror. Franklin, Francis Crozier, James Fitzjames. Departed England 19 May 1845 with 134 men, five returned in Greenland, 129 lost. Three 1846 Beechey Island graves.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 174. UK Post Office Horizon IT scandal
 
 Im Mittelpunkt dieses Falls steht UK Post Office Horizon IT scandal. 1999–2026 ICL Pathway and Fujitsu branch accounting system generated phantom shortfalls. Post Office contractual liability and private prosecution of subpostmasters. Alan Bates and Suzanne Sercombe Craig-y-Don branch, lost contract 2003. Lee Castleton Bridlington 2004 £25,858.95 alleged loss, 2007 civil judgment and about £309,807 costs and damages bankruptcy.
 
-**Bewertung:** –
+**Bewertung:** ★★☆☆☆ (2/5)
 
 ### 175. Mad Trapper of Rat River
 
 Im Mittelpunkt dieses Falls steht Mad Trapper of Rat River. Albert Johnson (alias, real identity unresolved). Peel River near Fort McPherson Northwest Territories and Yukon 1931–1932. Appears on raft 19 July 1931 with cash and unclear past. Gwich'in trappers complain damaged traplines.
 
-**Bewertung:** –
+**Bewertung:** ★★★☆☆ (3/5)
 
 ### 176. Herculaneum Papyri
 
 Im Mittelpunkt dieses Falls steht Herculaneum Papyri. 79 CE Vesuvian pyroclastic surge carbonizes and seals Greek/Roman library; 1752–1754 excavations near Resina Herculaneum, Karl Weber, ~1800 scrolls and fragments representing ~800 originals, villa possibly owned by Lucius Calpurnius Piso Caesoninus, works of Epicurean Philodemus of Gadara. Damaging early cutting scraping chemical opening. 1753–1756 Antonio Piaggio mechanical string unrolling device. Brent Seales University of Kentucky computational X-ray CT virtual unwrapping.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 177. Han van Meegeren fake Vermeer paintings
 
 Im Mittelpunkt dieses Falls steht Han van Meegeren fake Vermeer paintings. Netherlands and France 1932–1947. Artist born Deventer 1889 trained architecture and traditional painting, relocated Roquebrune-Cap-Martin 1932. Forged religious painting Supper at Emmaus 1936–1937. 83-year-old expert Abraham Bredius publicly authenticates as a rediscovered early Vermeer in Burlington Magazine 1937.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 178. 1904 St Louis Olympic marathon
 
 Im Mittelpunkt dieses Falls steht 1904 St Louis Olympic marathon. 30 August 1904 Louisiana Purchase Exposition Francis Field, approx 40km dusty hilly road course ~90 F heat and one official water stop, organizer James E Sullivan researched low-water endurance. 32 start and 14 officially finish. Cuban postman Félix 'Andarín' Carvajal wears cut-off street trousers and heavy shoes, chats to onlookers and takes two peaches, finishes fourth; later rotten apples and nap anecdote unverified. Tswana runners Len Taunyane 9th and Jan Mashiani 12th first Black African Olympians, participants also in racist Boer War exhibits and Anthropology Days, dog chase accounts uncertain which runner.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 179. Biosphere 2 closed ecological system
 
 Im Mittelpunkt dieses Falls steht Biosphere 2 closed ecological system. Oracle Arizona 1987–1994. John Allen and investor Edward P Bass ~$150 million greenhouse containing rainforest, savanna, wetlands, desert, miniature ocean, agriculture and accommodation. First eight biospherians Roy Walford, Jane Poynter, Taber MacCallum, Mark Nelson, Sally Silverstone, Abigail Alling, Mark Van Thillo, Linda Leigh sealed from 26 September 1991 to 26 September 1993 with exterior electric power and sunlight but materially closed atmosphere and water. Jane Poynter fingertip accident 9 October 1991 required short external surgery.
 
-**Bewertung:** –
+**Bewertung:** ★☆☆☆☆ (1/5)
 
 ### 180. Yorkshire Ripper Wearside Jack hoax
 
