@@ -1465,3 +1465,9 @@ Im Mittelpunkt dieses Falls steht Kaikōura. Kaikoura lights UFO film-radar myst
 Im Mittelpunkt dieses Falls steht Great Canadian Maple Syrup Heist. Le vol du sirop d érable Quebec Canada 2011–2022. Fédération des producteurs acéricoles du Québec FPAQ government-sanctioned bulk maple syrup marketing and quota organization maintains Global Strategic Reserve to buffer yearly harvest swings, rented warehouse Saint-Louis-de-Blandford holds approximately 16000 steel barrels and about 30 million CAD syrup with little camera alarm security. June 2011 warehouse owner Avik Caron meets syrup trader Richard Vallières involved in unofficial sales outside federation channels, together plan theft of federation inventory. Starting August 2011 through July 2012 accomplices repeatedly take filled syrup barrels from warehouse, pump syrup into other containers on agricultural property including Raymond Vallières farm, use water from nearby pond to refill original barrels and return them to storage or leave some empty, conceal inventory loss.
 
 **Bewertung:** –
+
+### 245. Saint-Pierre und Montagne Pelée (Martinique, 1902)
+
+Ende April 1902 bebte der Vulkan Montagne Pelée und überschüttete die karibische Hafenstadt Saint-Pierre mit Asche. Trotz wachsender Warnzeichen und einer tödlichen Schlammlawine am 5. Mai gab es keine allgemeine Evakuierung. Am Morgen des 8. Mai raste ein pyroklastischer Strom in wenigen Minuten über die Stadt und tötete rund 26.000 bis 28.000 Menschen. Der Gefangene Joseph Ludger Sylbaris überlebte durch die Lage und massiven Mauern seiner Einzelzelle; Geologe Edmund Otis Hovey befragte ihn später persönlich. Auch Schuhmacher Léon Compère-Léandre überlebte am Stadtrand. Die Eruptionen gingen weiter und prägten die moderne Vulkanologie.
+
+**Bewertung:** ★★★★☆ (4/5)
