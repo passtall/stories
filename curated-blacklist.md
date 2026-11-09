@@ -1952,5 +1952,5 @@ Am 17. Juni 1782 (gregorianisch, entsprechend 6. Juni julianisch) wird Göldi al
 
 **Quellen und Beleglage:** [EGMR 2001 Primärentscheidung](https://hudoc.echr.coe.int/fre?i=001-30992); [EuGH Schlussanträge C-7/98, deutsche Darstellung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A61998CC0007); [1993 französische Anklage, Abschrift vom Verein des Vaters](https://www.justice-kalinka.com/doc/accusation080493_de.pdf); [Süddeutsche Zeitung zum EGMR 2018](https://www.sueddeutsche.de/panorama/fall-kalinka-nach-frankreich-entfuehrter-stiefvater-scheitert-mit-klage-1.3926008); [ORF Vorarlberg 2014](https://vorarlberg.orf.at/v2/news/stories/2653266/index.html); [Augsburger Allgemeine 2020 zur Entlassung und Tod](https://www.augsburger-allgemeine.de/bayern/Kriminalitaet-Kriminalfall-Kalinka-Nun-ist-Taeter-Dieter-Krombach-gestorben-id58618051.html); [Swissinfo 2014 Bamberski-Urteil](https://www.swissinfo.ch/ger/bewaehrungsstrafe-im-prozess-um-verschleppung-von-deutschem-arzt/38809700).
 
-**Bewertung:** – (noch nicht bewertet).
+**Bewertung:** ★★★☆☆ (3/5).
 
