@@ -2142,4 +2142,4 @@ Am 17. Juni 1782 (gregorianisch, entsprechend 6. Juni julianisch) wird Göldi al
 
 **Quellen und Beleglage:** [Landesarchiv Appenzell Innerrhoden über Zeitzeugnisse, Originalprotokoll Blutgericht 3.12.1849](https://www.zeitzeugnisse.ch/detail.php?id=38&stype=4), [Schweizerisches Nationalmuseum, Patrik Süess, Lügen Folter Tod](https://blog.nationalmuseum.ch/2024/06/johann-mazenauer/), [Zeitzeugnisse, weitere biografische Einordnung](https://www.zeitzeugnisse.ch/detail.php?id=36&stype=4), [Stiftung Ried, Galgenring](https://www.ai.ch/korporation-stiftung-ried/archiv/dokumente/500-jahre-stiftung-ried/download). Rekonstruktion des Tathergangs stützt sich wesentlich auf Geständnis, nicht beweissicher auf unmittelbare Beobachtung; Motive und Rankweiler Priesterdetails mit Belegvorbehalt. Das originale amtliche Protokoll belegt Untersuchungsweg, falsche Belastungen, Gewalteinwirkung, Abstimmung und Verzichtserklärung.
 
-**Bewertung:** – (noch nicht bewertet).
+**Bewertung:** ★★★☆☆ (3/5).
