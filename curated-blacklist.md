@@ -2110,5 +2110,5 @@ Am 17. Juni 1782 (gregorianisch, entsprechend 6. Juni julianisch) wird Göldi al
 
 **Kritische Punkte:** Festnahme am 13.3.1938 (bei manchen Montafoner Titeln 12.3. als Aufbruchstag). Sardinenbüchse war im Rucksack **Ebners**, Zeitung legal, Gendarm als mutmaßlicher Nazi = Zeugeneinschätzung, kein archivalisch nachgewiesener Parteiausweis. Teilroute Bludenz–Schruns Montafonerbahn gemäß DÖW und nicht Bus (eine lokale Zweitquelle sagt Bus), glaubwürdigste Augenzeugenfassung Bahn. Gendarmeriepatrouille zwei oder drei Mann nach diversen Erinnerungen. Soyfer stirbt **16.2.1939**, einige Quellen fälschlich 19.2. Keine Songlyrics, erfundenen Verhöre, frei erfundene Bergrettungssequenz oder fiktive Dialoge. Gedenkpunkt bei St. Gallenkirch nicht mit Original-Festnahmeort verwechseln; dieser liegt hinter Gargellen und ist nicht präzise bekannt. Hochalpiner Schlappinerjoch-Weg nur bei sicheren Bedingungen besuchen, niemals beiläufig als Spaziergang darstellen.
 
-**Bewertung:** – (noch nicht bewertet).
+**Bewertung:** ★★☆☆☆ (2/5).
 
