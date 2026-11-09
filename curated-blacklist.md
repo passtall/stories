@@ -1971,5 +1971,6 @@ Am 17. Juni 1782 (gregorianisch, entsprechend 6. Juni julianisch) wird Göldi al
 
 **Besuchbare Orte:** Lustenau als eigentlicher Tatort (Verkaufslokal/Nutzung 2026 nicht verifiziert, nicht behaupten dass damals unverändert), Hard als zeitweilige Vorbereitungs- und Überwachungsstation, Landesgericht Feldkirch Schillerstraße 1. Exakte damalige Privatadressen und Täterwohnorte nicht als Besichtigungspunkte. 
 
-**Bewertung:** – (noch nicht bewertet).
+**Bewertung:** ★★☆☆☆ (2/5).
 
+**Kommentar (Original):** stay in vorarlberg. I dont care about all the evidence and stuff, just must be a true story. And choose more interesting stories than "someone shot someone at a gas station"
