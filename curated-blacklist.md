@@ -2125,5 +2125,5 @@ Am 17. Juni 1782 (gregorianisch, entsprechend 6. Juni julianisch) wird Göldi al
 
 **Quellen:** [ORF Vorarlberg, 25 April 2023, Michael Prock, lokale aktenbasierte Rekonstruktion](https://vorarlberg.orf.at/stories/3204543/); [Bundesarchiv Originalakten / Prozess Heidemann Kujau 1984/85](https://www.bundesarchiv.de/themen-entdecken/online-entdecken/dokumente-zur-zeitgeschichte/auftakt-des-prozesses-um-die-gefaelschten-hitler-tagebuecher/); [Bundeszentrale politische Bildung, Stasi und Tagebücher, 2021](https://www.bpb.de/themen/deutschlandarchiv/338793/die-stasi-und-die-gefaelschten-hitler-tagebuecher/); [SRF/NDR Tagebücher Veröffentlichung 2023](https://www.srf.ch/kultur/gesellschaft-religion/hitler-fake-neu-im-netz-nach-40-jahren-ndr-veroeffentlicht-gefaelschte-hitler-tagebuecher). **Widersprüche:** 60/63 Stück Quellenunterschied, 4J6M/4J8M Strafmaß Bundesarchiv maßgeblich, Hotelrechnung 860 ATS als 'vermutlich' im historischen ORF-Text; genaue Hotelstandorte und heutiger Betrieb nicht geprüft. Keine erfundenen Gespräche in Dornbirner Privathaus, keine spekulierte Telefoninhalte oder Geldübergabe in St Gallen. Ausdrücklich kein Vorarlberger Herstellungsort des Betrugs.
 
-**Bewertung:** – (noch nicht bewertet).
+**Bewertung:** ★★☆☆☆ (2/5).
 
