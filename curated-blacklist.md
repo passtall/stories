@@ -1929,4 +1929,4 @@ Am 17. Juni 1782 (gregorianisch, entsprechend 6. Juni julianisch) wird Göldi al
 
 **Quellenkritik:** OGH und EGMR beweisen Rechtsweg, nicht die buchstäbliche Rekonstruktion der Tötungsmethode. Sie ist laut OGH nicht sicher aufklärbar. Ermittlerinterviews Jahrzehnte danach sind wertvolle, aber retrospektive Einzelaussagen. DNA-Identifizierung belegt Opferidentität, nicht automatisch Taturheberschaft. Die OGH-Strafzumessungskorrektur und der EGMR-Teilerfolg müssen exakt dargestellt werden, ohne Freispruch zu suggerieren.
 
-**Bewertung:** – (noch nicht bewertet).
+**Bewertung:** ★★☆☆☆ (2/5).
