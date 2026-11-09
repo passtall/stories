@@ -2015,5 +2015,5 @@ Am 17. Juni 1782 (gregorianisch, entsprechend 6. Juni julianisch) wird Göldi al
 
 **Quellenkritik:** Die Verhörprotokolle selbst hier nicht als Faksimile eingesehen, sondern Auszüge via 2015er Fachpublikation. Richter haben Strafverfolgungsperspektive und drohten Folter an; Geständnisse/Zeugenaussagen unter diesem Druck nicht ausnahmslos objektive Wirklichkeit. Soziale Etikettierungen 'Vaganten', 'Gesindel', körperliche Merkmale sind Quellenwörter, nicht eigene Bewertung. Keine erfundenen Einzelheiten des Einbruchs auf Neuburg und keine erfundene Hinrichtungsszene. Das Endurteil Jakobs fehlt. Seltsamer als der gewöhnliche Diebstahl sind die mehrfachen Begnadigungen und die direkte räumliche Nähe der Tatorte.
 
-**Bewertung:** – (noch nicht bewertet).
+**Bewertung:** ★★☆☆☆ (2/5).
 
