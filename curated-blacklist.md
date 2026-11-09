@@ -1994,5 +1994,5 @@ Am 17. Juni 1782 (gregorianisch, entsprechend 6. Juni julianisch) wird Göldi al
 
 **Quellenkritik:** Zentrale Primärquelle in Transkription durch Lokalhistoriker, Originalarchivsignatur und Faksimile nicht unabhängig geprüft. Innerhalb des Protokolls sind eigene Sicht, Jellinecks Bericht und späterer Hörensagen-/Erkundungsbericht zu unterscheiden. Drei Dezembernächte sind in Sekundärhistorie aufgeführt, genaue Uhrzeitfolge im zitierten Protokoll einer einzelnen nicht sicher zugeordnet. Die widersprüchlichen 238 vs 250 müssen sichtbar bleiben. Keine Namen fiktiver Anführer, Verhaftungen, Gerichtsverurteilungen oder Toten erfinden.
 
-**Bewertung:** – (noch nicht bewertet).
+**Bewertung:** ★★☆☆☆ (2/5).
 
