@@ -2091,5 +2091,5 @@ Am 17. Juni 1782 (gregorianisch, entsprechend 6. Juni julianisch) wird Göldi al
 
 **Quellen und Beleglage:** [OGH 8 Ob 54/13v 28 Oktober 2013](https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20131028_OGH0002_0080OB00054_13V0000_000&IncludeSelf=True) Primärdokument, [ORF 2012 Beginn](https://vorarlberg.orf.at/v2/news/stories/2531074/), [ORF OGH erzwungene Speichelprobe](https://vorarlberg.orf.at/v2/news/stories/2622840/), [ORF angebliche Drohung/Exhumierung](https://vorarlberg.orf.at/v2/news/stories/2653472/), [ORF Oktober 2014 negatives Gutachten](https://vorarlberg.orf.at/v2/news/stories/2673868/), [ORF August 2015 OGH endgültige Ablehnung](https://vorarlberg.orf.at/v2/news/stories/2725821/), [ORF April 2016 Unterschrift und Prozess](https://vorarlberg.orf.at/v2/news/stories/2771468/), [ORF Oktober 2016 Strafurteil](https://vorarlberg.orf.at/v2/news/stories/2805093/).
 
-**Bewertung:** – (noch nicht bewertet).
+**Bewertung:** ★★☆☆☆ (2/5).
 
