@@ -1880,4 +1880,4 @@ Am 17. Juni 1782 (gregorianisch, entsprechend 6. Juni julianisch) wird Göldi al
 
 **Quellenkritische Hinweise:** Die Polizei rechnet 2013 mit 60 Fällen, 2013 Prozess mit 66, später verkürzt auf "fast 70"; nicht als 70 nur diesem Angeklagten zurechnen. 113.770,92 Euro im OGH Urteil ist individuell zugerechneter Warenwert und nicht die polizeiliche Schadenssumme 307.000 Euro für Gesamttaten. Der 2014er OGH-Beschluss stellt nur Zurückweisung von Nichtigkeitsbeschwerden fest, nicht abschließende Höhe aller Strafen. Spätere mutmaßliche Beutewege nach 2013 nicht sicher, Tatorte außerhalb AT nur notwendiger rechtlicher Rückblick, ansonsten Vorarlberg. Keine präzise cliff coordinates für Nutzer-Besichtigung. Namen des in Justizentscheidung teil-anonymisierten Verurteilten als Michael F. abkürzen, nicht extra private Details rekonstruieren.
 
-**Bewertung:** – (noch nicht bewertet)
+**Bewertung:** ★★★☆☆ (3/5)
